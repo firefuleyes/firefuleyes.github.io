@@ -1,0 +1,2289 @@
+﻿#EXTM3U 
+#EXTINF:-1 tvg-logo=CIBN經典劇場.png tvg-name=CIBN經典劇場 group-title=綜合 , CIBN經典劇場
+http://nas.330421.cn:8000/iptv/cibn/?id,1108&code,DOTA2
+#EXTINF:-1 tvg-logo=音樂綜藝.png tvg-name=音樂綜藝 group-title=綜合 , 音樂綜藝
+http://nas.330421.cn:8000/iptv/cibn/?id,1108&code,145
+#EXTINF:-1 tvg-logo=CIBN動作影院.png tvg-name=CIBN動作影院 group-title=綜合 , CIBN動作影院
+http://nas.330421.cn:8000/iptv/cibn/?id,1108&code,ShengHuo
+#EXTINF:-1 tvg-logo=CIBN喜劇影院.png tvg-name=CIBN喜劇影院 group-title=綜合 , CIBN喜劇影院
+http://nas.330421.cn:8000/iptv/cibn/?id,1108&code,TongBu
+#EXTINF:-1 tvg-logo=CIBN真人秀.png tvg-name=CIBN真人秀 group-title=綜合 , CIBN真人秀
+http://nas.330421.cn:8000/iptv/cibn/?id,1108&code,LuShi
+#EXTINF:-1 tvg-logo=手機軟件資源局藍光影視1台.png tvg-name=手機軟件資源局藍光影視1台 group-title=綜合 , 手機軟件資源局藍光影視1台
+http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
+#EXTINF:-1 tvg-logo=手機軟件資源局藍光影視2台.png tvg-name=手機軟件資源局藍光影視2台 group-title=綜合 , 手機軟件資源局藍光影視2台
+http://112.50.243.8/PLTV/88888888/224/3221225881/1.m3u8
+#EXTINF:-1 tvg-logo=手機軟件資源局藍光影視3台.png tvg-name=手機軟件資源局藍光影視3台 group-title=綜合 , 手機軟件資源局藍光影視3台
+http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
+#EXTINF:-1 tvg-logo=手機軟件資源局藍光影視4台.png tvg-name=手機軟件資源局藍光影視4台 group-title=綜合 , 手機軟件資源局藍光影視4台
+http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
+#EXTINF:-1 tvg-logo=手機軟件資源局藍光影視5台.png tvg-name=手機軟件資源局藍光影視5台 group-title=綜合 , 手機軟件資源局藍光影視5台
+http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8
+#EXTINF:-1 tvg-logo=手機軟件資源局藍光影視6台.png tvg-name=手機軟件資源局藍光影視6台 group-title=綜合 , 手機軟件資源局藍光影視6台
+http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8
+#EXTINF:-1 tvg-logo=手機軟件資源局藍光影視7台.png tvg-name=手機軟件資源局藍光影視7台 group-title=綜合 , 手機軟件資源局藍光影視7台
+http://112.50.243.8/PLTV/88888888/224/3221226754/1.m3u8
+#EXTINF:-1 tvg-logo=手機軟件資源局藍光動畫13台.png tvg-name=手機軟件資源局藍光動畫13台 group-title=綜合 , 手機軟件資源局藍光動畫13台
+http://112.50.243.8/PLTV/88888888/224/3221226732/1.m3u8
+#EXTINF:-1 tvg-logo=手機軟件資源局藍光動畫14台.png tvg-name=手機軟件資源局藍光動畫14台 group-title=綜合 , 手機軟件資源局藍光動畫14台
+http://112.50.243.8/PLTV/88888888/224/3221226741/1.m3u8
+#EXTINF:-1 tvg-logo=手機軟件資源局藍光動漫15台.png tvg-name=手機軟件資源局藍光動漫15台 group-title=綜合 , 手機軟件資源局藍光動漫15台
+http://112.50.243.8/PLTV/88888888/224/3221226743/1.m3u8
+#EXTINF:-1 tvg-logo=手機軟件資源局藍光影視16台.png tvg-name=手機軟件資源局藍光影視16台 group-title=綜合 , 手機軟件資源局藍光影視16台
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 tvg-logo=峨眉電影藍光.png tvg-name=峨眉電影藍光 group-title=綜合 , 峨眉電影藍光
+http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
+#EXTINF:-1 tvg-logo=歡笑劇場藍光.png tvg-name=歡笑劇場藍光 group-title=綜合 , 歡笑劇場藍光
+http://112.50.243.8/PLTV/88888888/224/3221226729/1.m3u8
+#EXTINF:-1 tvg-logo=北京紀實藍光.png tvg-name=北京紀實藍光 group-title=綜合 , 北京紀實藍光
+http://112.50.243.8/PLTV/88888888/224/3221225944/1.m3u8
+#EXTINF:-1 tvg-logo=紀實頻道藍光.png tvg-name=紀實頻道藍光 group-title=綜合 , 紀實頻道藍光
+http://112.50.243.8/PLTV/88888888/224/3221225946/1.m3u8
+#EXTINF:-1 tvg-logo=極速汽車藍光.png tvg-name=極速汽車藍光 group-title=綜合 , 極速汽車藍光
+http://112.50.243.8/PLTV/88888888/224/3221226140/1.m3u8
+#EXTINF:-1 tvg-logo=動漫秀場藍光.png tvg-name=動漫秀場藍光 group-title=綜合 , 動漫秀場藍光
+http://112.50.243.8/PLTV/88888888/224/3221226141/1.m3u8
+#EXTINF:-1 tvg-logo=黑莓動畫藍光.png tvg-name=黑莓動畫藍光 group-title=綜合 , 黑莓動畫藍光
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225914/1.m3u8
+#EXTINF:-1 tvg-logo=黑莓電競藍光.png tvg-name=黑莓電競藍光 group-title=綜合 , 黑莓電競藍光
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225931/1.m3u8
+#EXTINF:-1 tvg-logo=黑莓電影藍光.png tvg-name=黑莓電影藍光 group-title=綜合 , 黑莓電影藍光
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
+#EXTINF:-1 tvg-logo=超級電影.png tvg-name=超級電影 group-title=綜合 , 超級電影
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
+#EXTINF:-1 tvg-logo=超級綜藝.png tvg-name=超級綜藝 group-title=綜合 , 超級綜藝
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
+#EXTINF:-1 tvg-logo=超級體育.png tvg-name=超級體育 group-title=綜合 , 超級體育
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
+#EXTINF:-1 tvg-logo=超級劇集.png tvg-name=超級劇集 group-title=綜合 , 超級劇集
+http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/1.m3u8
+#EXTINF:-1 tvg-logo=中國功夫.png tvg-name=中國功夫 group-title=綜合 , 中國功夫
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226298/1.m3u8
+#EXTINF:-1 tvg-logo=金牌綜藝.png tvg-name=金牌綜藝 group-title=綜合 , 金牌綜藝
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226296/1.m3u8
+#EXTINF:-1 tvg-logo=農業致富.png tvg-name=農業致富 group-title=綜合 , 農業致富
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8
+#EXTINF:-1 tvg-logo=潮媽辣婆.png tvg-name=潮媽辣婆 group-title=綜合 , 潮媽辣婆
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226286/1.m3u8
+#EXTINF:-1 tvg-logo=炫舞未來.png tvg-name=炫舞未來 group-title=綜合 , 炫舞未來
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226248/1.m3u8
+#EXTINF:-1 tvg-logo=明星大片.png tvg-name=明星大片 group-title=綜合 , 明星大片
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226295/1.m3u8
+#EXTINF:-1 tvg-logo=自由搏擊.png tvg-name=自由搏擊 group-title=綜合 , 自由搏擊
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226297/1.m3u8
+#EXTINF:-1 tvg-logo=海外綜合.png tvg-name=海外綜合 group-title=綜合 , 海外綜合
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226302/1.m3u8
+#EXTINF:-1 tvg-logo=驚梀懸疑.png tvg-name=驚梀懸疑 group-title=綜合 , 驚梀懸疑
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226294/1.m3u8
+#EXTINF:-1 tvg-logo=愛情喜劇.png tvg-name=愛情喜劇 group-title=綜合 , 愛情喜劇
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226299/1.m3u8
+#EXTINF:-1 tvg-logo=精品記錄.png tvg-name=精品記錄 group-title=綜合 , 精品記錄
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226293/1.m3u8
+#EXTINF:-1 tvg-logo=精品體育.png tvg-name=精品體育 group-title=綜合 , 精品體育
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226328/1.m3u8
+#EXTINF:-1 tvg-logo=精品大劇.png tvg-name=精品大劇 group-title=綜合 , 精品大劇
+http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8
+#EXTINF:-1 tvg-logo=古裝劇場.png tvg-name=古裝劇場 group-title=綜合 , 古裝劇場
+http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226323/1.m3u8
+#EXTINF:-1 tvg-logo=軍旅劇場.png tvg-name=軍旅劇場 group-title=綜合 , 軍旅劇場
+http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226324/1.m3u8
+#EXTINF:-1 tvg-logo=軍事評論.png tvg-name=軍事評論 group-title=綜合 , 軍事評論
+http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226326/1.m3u8
+#EXTINF:-1 tvg-logo=健康有約.png tvg-name=健康有約 group-title=綜合 , 健康有約
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225919/1.m3u8
+#EXTINF:-1 tvg-logo=家庭劇場.png tvg-name=家庭劇場 group-title=綜合 , 家庭劇場
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225918/1.m3u8
+#EXTINF:-1 tvg-logo=動作電影.png tvg-name=動作電影 group-title=綜合 , 動作電影
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226288/1.m3u8
+#EXTINF:-1 tvg-logo=愛電競.png tvg-name=愛電競 group-title=綜合 , 愛電競
+http://101.71.255.229:6610/zjhs/2/10110/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-logo=愛動漫.png tvg-name=愛動漫 group-title=綜合 , 愛動漫
+http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-logo=愛都市.png tvg-name=愛都市 group-title=綜合 , 愛都市
+http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-logo=愛江湖.png tvg-name=愛江湖 group-title=綜合 , 愛江湖
+http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-logo=愛解密.png tvg-name=愛解密 group-title=綜合 , 愛解密
+http://101.71.255.229:6610/zjhs/2/10109/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-logo=愛經典.png tvg-name=愛經典 group-title=綜合 , 愛經典
+http://101.71.255.229:6610/zjhs/2/10106/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-logo=愛軍武.png tvg-name=愛軍武 group-title=綜合 , 愛軍武
+http://101.71.255.229:6610/zjhs/2/10119/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-logo=愛科幻.png tvg-name=愛科幻 group-title=綜合 , 愛科幻
+http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-logo=愛歷史.png tvg-name=愛歷史 group-title=綜合 , 愛歷史
+http://101.71.255.229:6610/zjhs/2/10120/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-logo=愛美食.png tvg-name=愛美食 group-title=綜合 , 愛美食
+http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-logo=愛奇談.png tvg-name=愛奇談 group-title=綜合 , 愛奇談
+http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-logo=愛時尚.png tvg-name=愛時尚 group-title=綜合 , 愛時尚
+http://101.71.255.229:6610/zjhs/2/10118/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-logo=愛世界.png tvg-name=愛世界 group-title=綜合 , 愛世界
+http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-logo=愛玩具.png tvg-name=愛玩具 group-title=綜合 , 愛玩具
+http://101.71.255.229:6610/zjhs/2/10117/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-logo=愛喜劇.png tvg-name=愛喜劇 group-title=綜合 , 愛喜劇
+http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-logo=愛懸疑.png tvg-name=愛懸疑 group-title=綜合 , 愛懸疑
+http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-logo=愛幼教.png tvg-name=愛幼教 group-title=綜合 , 愛幼教
+http://101.71.255.229:6610/zjhs/2/10112/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-logo=愛院線.png tvg-name=愛院線 group-title=綜合 , 愛院線
+http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-logo=HBO2.png tvg-name=HBO2 group-title=綜合 , HBO2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1 tvg-logo=博斯魅力.png tvg-name=博斯魅力 group-title=綜合 , 博斯魅力
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTINF:-1 tvg-logo=高清時裝台WFC.png tvg-name=高清時裝台WFC group-title=綜合 , 高清時裝台WFC
+http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-logo=華數_歐美冒險.png tvg-name=華數_歐美冒險 group-title=綜合 , 華數_歐美冒險
+http://hls-ott-zhibo.wasu.tv/live/156/index.m3u8
+#EXTINF:-1 tvg-logo=華數_社會真相.png tvg-name=華數_社會真相 group-title=綜合 , 華數_社會真相
+http://hls-ott-zhibo.wasu.tv/live/130/index.m3u8
+#EXTINF:-1 tvg-logo=華數_心動劇場.png tvg-name=華數_心動劇場 group-title=綜合 , 華數_心動劇場
+http://hls-ott-zhibo.wasu.tv/live/257/index.m3u8
+#EXTINF:-1 tvg-logo=華數_劇情.png tvg-name=華數_劇情 group-title=綜合 , 華數_劇情
+http://hls-ott-zhibo.wasu.tv/live/184/index.m3u8
+#EXTINF:-1 tvg-logo=華數_情感生活.png tvg-name=華數_情感生活 group-title=綜合 , 華數_情感生活
+http://hls-ott-zhibo.wasu.tv/live/261/index.m3u8
+#EXTINF:-1 tvg-logo=華數_公主城堡.png tvg-name=華數_公主城堡 group-title=綜合 , 華數_公主城堡
+http://hls-ott-zhibo.wasu.tv/live/328/index.m3u8
+#EXTINF:-1 tvg-logo=華數_時尚1.png tvg-name=華數_時尚1 group-title=綜合 , 華數_時尚1
+http://hls-ott-zhibo.wasu.tv/live/300/index.m3u8
+#EXTINF:-1 tvg-logo=華數_時尚2.png tvg-name=華數_時尚2 group-title=綜合 , 華數_時尚2
+http://hls-ott-zhibo.wasu.tv/live/304/index.m3u8
+#EXTINF:-1 tvg-logo=華數_時裝1.png tvg-name=華數_時裝1 group-title=綜合 , 華數_時裝1
+http://hls-ott-zhibo.wasu.tv/live/297/index.m3u8
+#EXTINF:-1 tvg-logo=華數_時裝2.png tvg-name=華數_時裝2 group-title=綜合 , 華數_時裝2
+http://hls-ott-zhibo.wasu.tv/live/299/index.m3u8
+#EXTINF:-1 tvg-logo=求索科學.png tvg-name=求索科學 group-title=綜合 , 求索科學
+http://112.17.40.200/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo=求索紀錄.png tvg-name=求索紀錄 group-title=綜合 , 求索紀錄
+http://125.210.152.18:9090/live/QSJLHD_H265.m3u8
+#EXTINF:-1 tvg-logo=Newtv-超級電視劇.png tvg-name=Newtv-超級電視劇 group-title=綜合 , Newtv-超級電視劇
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv-愛情喜劇.png tvg-name=Newtv-愛情喜劇 group-title=綜合 , Newtv-愛情喜劇
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225913/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv-動作電影.png tvg-name=Newtv-動作電影 group-title=綜合 , Newtv-動作電影
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225915/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv-故障劇場.png tvg-name=Newtv-故障劇場 group-title=綜合 , Newtv-故障劇場
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225916/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv-海外劇場.png tvg-name=Newtv-海外劇場 group-title=綜合 , Newtv-海外劇場
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225917/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv-金牌綜藝.png tvg-name=Newtv-金牌綜藝 group-title=綜合 , Newtv-金牌綜藝
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225920/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv-驚悚懸疑.png tvg-name=Newtv-驚悚懸疑 group-title=綜合 , Newtv-驚悚懸疑
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225921/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv-精品體育.png tvg-name=Newtv-精品體育 group-title=綜合 , Newtv-精品體育
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225922/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv-軍旅劇場.png tvg-name=Newtv-軍旅劇場 group-title=綜合 , Newtv-軍旅劇場
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225923/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv-精品記錄.png tvg-name=Newtv-精品記錄 group-title=綜合 , Newtv-精品記錄
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225924/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv-精品大劇.png tvg-name=Newtv-精品大劇 group-title=綜合 , Newtv-精品大劇
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225925/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv-軍事評論.png tvg-name=Newtv-軍事評論 group-title=綜合 , Newtv-軍事評論
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225926/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv-明星大片.png tvg-name=Newtv-明星大片 group-title=綜合 , Newtv-明星大片
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225929/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv-農業致富.png tvg-name=Newtv-農業致富 group-title=綜合 , Newtv-農業致富
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225930/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv-中國功夫.png tvg-name=Newtv-中國功夫 group-title=綜合 , Newtv-中國功夫
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225951/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv-潮媽辣婆.png tvg-name=Newtv-潮媽辣婆 group-title=綜合 , Newtv-潮媽辣婆
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225957/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv-超級綜藝.png tvg-name=Newtv-超級綜藝 group-title=綜合 , Newtv-超級綜藝
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226127/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv-超級電影.png tvg-name=Newtv-超級電影 group-title=綜合 , Newtv-超級電影
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226133/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv-超級體育.png tvg-name=Newtv-超級體育 group-title=綜合 , Newtv-超級體育
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226157/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv-超級體育.png tvg-name=Newtv-超級體育 group-title=綜合 , Newtv-超級體育
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226158/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv-超級電視劇.png tvg-name=Newtv-超級電視劇 group-title=綜合 , Newtv-超級電視劇
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226253/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv-精品體育.png tvg-name=Newtv-精品體育 group-title=綜合 , Newtv-精品體育
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226287/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv-家庭劇場.png tvg-name=Newtv-家庭劇場 group-title=綜合 , Newtv-家庭劇場
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226290/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv-精品大劇.png tvg-name=Newtv-精品大劇 group-title=綜合 , Newtv-精品大劇
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226291/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv-古裝劇場.png tvg-name=Newtv-古裝劇場 group-title=綜合 , Newtv-古裝劇場
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226300/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv-軍旅劇場.png tvg-name=Newtv-軍旅劇場 group-title=綜合 , Newtv-軍旅劇場
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226301/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv-軍事評論.png tvg-name=Newtv-軍事評論 group-title=綜合 , Newtv-軍事評論
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226303/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv-健康有約.png tvg-name=Newtv-健康有約 group-title=綜合 , Newtv-健康有約
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226306/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv-搏擊.png tvg-name=Newtv-搏擊 group-title=綜合 , Newtv-搏擊
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226320/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv-中國功夫.png tvg-name=Newtv-中國功夫 group-title=綜合 , Newtv-中國功夫
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226321/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv-愛情喜劇.png tvg-name=Newtv-愛情喜劇 group-title=綜合 , Newtv-愛情喜劇
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226322/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv-古裝劇場.png tvg-name=Newtv-古裝劇場 group-title=綜合 , Newtv-古裝劇場
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226323/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv-軍旅劇場.png tvg-name=Newtv-軍旅劇場 group-title=綜合 , Newtv-軍旅劇場
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226324/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv-海外劇場.png tvg-name=Newtv-海外劇場 group-title=綜合 , Newtv-海外劇場
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226325/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv-軍事評論.png tvg-name=Newtv-軍事評論 group-title=綜合 , Newtv-軍事評論
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226326/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv-健康有約.png tvg-name=Newtv-健康有約 group-title=綜合 , Newtv-健康有約
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226327/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv-動作電影.png tvg-name=Newtv-動作電影 group-title=綜合 , Newtv-動作電影
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226329/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv-家庭劇場.png tvg-name=Newtv-家庭劇場 group-title=綜合 , Newtv-家庭劇場
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226330/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv-精品大劇.png tvg-name=Newtv-精品大劇 group-title=綜合 , Newtv-精品大劇
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv-精品記錄.png tvg-name=Newtv-精品記錄 group-title=綜合 , Newtv-精品記錄
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226332/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv-搏擊.png tvg-name=Newtv-搏擊 group-title=綜合 , Newtv-搏擊
+http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226320/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv-中國功夫.png tvg-name=Newtv-中國功夫 group-title=綜合 , Newtv-中國功夫
+http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226321/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv-愛情喜劇.png tvg-name=Newtv-愛情喜劇 group-title=綜合 , Newtv-愛情喜劇
+http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226322/1.m3u8
+#EXTINF:-1 tvg-logo=虎牙_林正英系列2.png tvg-name=虎牙_林正英系列2 group-title=綜合 , 虎牙_林正英系列2
+https://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo=虎牙_輪播電影輪播.png tvg-name=虎牙_輪播電影輪播 group-title=綜合 , 虎牙_輪播電影輪播
+http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=虎牙_影視真實改編.png tvg-name=虎牙_影視真實改編 group-title=綜合 , 虎牙_影視真實改編
+http://tx.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=虎牙_周星馳電影.png tvg-name=虎牙_周星馳電影 group-title=綜合 , 虎牙_周星馳電影
+https://tx.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo=虎牙_周星馳電影.png tvg-name=虎牙_周星馳電影 group-title=綜合 , 虎牙_周星馳電影
+http://tx.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=戰旗_66放映室.png tvg-name=戰旗_66放映室 group-title=綜合 , 戰旗_66放映室
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/96881_CiPMo.m3u8
+#EXTINF:-1 tvg-logo=戰旗_七俠鎮同福客棧.png tvg-name=戰旗_七俠鎮同福客棧 group-title=綜合 , 戰旗_七俠鎮同福客棧
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/286120_2SFM6.m3u8
+#EXTINF:-1 tvg-logo=系列驚悚片Friday-the-13th(黑色星期五)2.png tvg-name=系列驚悚片Friday-the-13th(黑色星期五)2 group-title=綜合 , 系列驚悚片Friday-the-13th(黑色星期五)2
+https://vip888.kuyun99.com/20180824/WJB07qKa/index.m3u8
+#EXTINF:-1 tvg-logo=系列驚悚片Friday-the-13th(黑色星期五)3.png tvg-name=系列驚悚片Friday-the-13th(黑色星期五)3 group-title=綜合 , 系列驚悚片Friday-the-13th(黑色星期五)3
+https://vip888.kuyun99.com/20180824/RgoY6gc7/index.m3u8
+#EXTINF:-1 tvg-logo=系列驚悚片Friday-the-13th(黑色星期五)4.png tvg-name=系列驚悚片Friday-the-13th(黑色星期五)4 group-title=綜合 , 系列驚悚片Friday-the-13th(黑色星期五)4
+https://vip888.kuyun99.com/20180824/GaQcPLdG/index.m3u8
+#EXTINF:-1 tvg-logo=系列驚悚片Friday-the-13th(黑色星期五)5.png tvg-name=系列驚悚片Friday-the-13th(黑色星期五)5 group-title=綜合 , 系列驚悚片Friday-the-13th(黑色星期五)5
+https://vip888.kuyun99.com/20180824/HjxbFCCd/index.m3u8
+#EXTINF:-1 tvg-logo=系列驚悚片Friday-the-13th(黑色星期五)6.png tvg-name=系列驚悚片Friday-the-13th(黑色星期五)6 group-title=綜合 , 系列驚悚片Friday-the-13th(黑色星期五)6
+https://vip888.kuyun99.com/20180824/dsejI0LI/index.m3u8
+#EXTINF:-1 tvg-logo=系列驚悚片Friday-the-13th(黑色星期五)7.png tvg-name=系列驚悚片Friday-the-13th(黑色星期五)7 group-title=綜合 , 系列驚悚片Friday-the-13th(黑色星期五)7
+https://vip888.kuyun99.com/20180824/MMrikhSZ/index.m3u8
+#EXTINF:-1 tvg-logo=CelestialMovies.png tvg-name=CelestialMovies group-title=綜合 , CelestialMovies
+http://210.210.155.35/qwr9ew/s/s33/01.m3u8
+#EXTINF:-1 tvg-logo=CelestialMovies.png tvg-name=CelestialMovies group-title=綜合 , CelestialMovies
+http://210.210.155.35/qwr9ew/s/s33/01.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo=CelestialMovies.png tvg-name=CelestialMovies group-title=綜合 , CelestialMovies
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#EXTINF:-1 tvg-logo=CelestialMovies.png tvg-name=CelestialMovies group-title=綜合 , CelestialMovies
+http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
+#EXTINF:-1 tvg-logo=CIBN動作影院.png tvg-name=CIBN動作影院 group-title=綜合 , CIBN動作影院
+http://player.pplive.cn/live/2.12.29/player4live2.swf?pl=pptv://0a2fmaqVoqeSy7O&pid=493601
+#EXTINF:-1 tvg-logo=CIBN好萊塢.png tvg-name=CIBN好萊塢 group-title=綜合 , CIBN好萊塢
+http://player.pplive.cn/live/2.12.29/player4live2.swf?pl=pptv://0a2fmaqVoqOSy7O&pid=493601
+#EXTINF:-1 tvg-logo=CIBN紀錄片.png tvg-name=CIBN紀錄片 group-title=綜合 , CIBN紀錄片
+http://player.pplive.cn/live/2.12.29/player4live2.swf?pl=pptv://0a2fmamapaWSy7O&pid=493601
+#EXTINF:-1 tvg-logo=CIBN金古珍藏.png tvg-name=CIBN金古珍藏 group-title=綜合 , CIBN金古珍藏
+http://player.pplive.cn/live/2.12.29/player4live2.swf?pl=pptv://0a2fmamapaGSy7O&pid=493601
+#EXTINF:-1 tvg-logo=CIBN軍事.png tvg-name=CIBN軍事 group-title=綜合 , CIBN軍事
+http://player.pplive.cn/live/2.12.29/player4live2.swf?pl=pptv://0a2fmamapKeSy7O&pid=493601
+#EXTINF:-1 tvg-logo=CIBN汽車.png tvg-name=CIBN汽車 group-title=綜合 , CIBN汽車
+http://player.pplive.cn/live/2.12.29/player4live2.swf?pl=pptv://0a2fmamdqKeSy7O&pid=493601
+#EXTINF:-1 tvg-logo=CIBN微電影.png tvg-name=CIBN微電影 group-title=綜合 , CIBN微電影
+http://player.pplive.cn/live/2.12.29/player4live2.swf?pl=pptv://0a2fmamapamSy7O&pid=493601
+#EXTINF:-1 tvg-logo=CIBN文化中國.png tvg-name=CIBN文化中國 group-title=綜合 , CIBN文化中國
+http://player.pplive.cn/live/2.12.29/player4live2.swf?pl=pptv://0a2fmamapqGSy7O&pid=493601
+#EXTINF:-1 tvg-logo=CineVoice.png tvg-name=CineVoice group-title=綜合 , CineVoice
+http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8
+#EXTINF:-1 tvg-logo=CinemaWorld.png tvg-name=CinemaWorld group-title=綜合 , CinemaWorld
+http://210.210.155.35/uq2663/h/h04/02.m3u8
+#EXTINF:-1 tvg-logo=CinemaWorld.png tvg-name=CinemaWorld group-title=綜合 , CinemaWorld
+http://45.126.83.51:443/uq2663/h/h04/01.m3u8
+#EXTINF:-1 tvg-logo=CityMusicTV.png tvg-name=CityMusicTV group-title=綜合 , CityMusicTV
+http://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
+#EXTINF:-1 tvg-logo=ClassicsMarathi.png tvg-name=ClassicsMarathi group-title=綜合 , ClassicsMarathi
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarcla.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo=ClassicsTamil.png tvg-name=ClassicsTamil group-title=綜合 , ClassicsTamil
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo=ClassicsTelugu.png tvg-name=ClassicsTelugu group-title=綜合 , ClassicsTelugu
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcla.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo=CNC新華網絡電視英文台.png tvg-name=CNC新華網絡電視英文台 group-title=綜合 , CNC新華網絡電視英文台
+http://live.xinhuashixun.com/live/chn02.flv
+#EXTINF:-1 tvg-logo=ComedyTelugu.png tvg-name=ComedyTelugu group-title=綜合 , ComedyTelugu
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcom.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo=CompanyTV.png tvg-name=CompanyTV group-title=綜合 , CompanyTV
+http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo=CompanyTV.png tvg-name=CompanyTV group-title=綜合 , CompanyTV
+http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=CredoTV.png tvg-name=CredoTV group-title=綜合 , CredoTV
+http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=CredoTV.png tvg-name=CredoTV group-title=綜合 , CredoTV
+http://telekomtv-ro.akamaized.net/shls/LIVE$CredoTV/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 tvg-logo=DJingClassic.png tvg-name=DJingClassic group-title=綜合 , DJingClassic
+http://www.djing.com/tv/classics.m3u8
+#EXTINF:-1 tvg-logo=DJingHits.png tvg-name=DJingHits group-title=綜合 , DJingHits
+http://www.djing.com/tv/04.m3u8
+#EXTINF:-1 tvg-logo=DJingHotHotHot.png tvg-name=DJingHotHotHot group-title=綜合 , DJingHotHotHot
+http://www.djing.com/tv/buster-poindexter-his-banshees-of-blue-hot-hot-hot/index.m3u8
+#EXTINF:-1 tvg-logo=DJingHotHotHot.png tvg-name=DJingHotHotHot group-title=綜合 , DJingHotHotHot
+https://www.djing.com/tv/h-01-fta.m3u8
+#EXTINF:-1 tvg-logo=DJingKaraoke.png tvg-name=DJingKaraoke group-title=綜合 , DJingKaraoke
+https://www.djing.com/tv/karaoke.m3u8
+#EXTINF:-1 tvg-logo=DJingUnderground.png tvg-name=DJingUnderground group-title=綜合 , DJingUnderground
+http://www.djing.com/tv/underground.m3u8
+#EXTINF:-1 tvg-logo=EUROAL.png tvg-name=EUROAL group-title=綜合 , EUROAL
+http://5.135.92.131:1935/live/euroAl/chunklist.m3u8
+#EXTINF:-1 tvg-logo=FreshTV.png tvg-name=FreshTV group-title=綜合 , FreshTV
+https://strm.yandex.ru/kal/fresh/fresh0.m3u8
+#EXTINF:-1 tvg-logo=GabruuTV.png tvg-name=GabruuTV group-title=綜合 , GabruuTV
+http://104.237.60.234/live/gabruutv.m3u8
+#EXTINF:-1 tvg-logo=GO-RTV.png tvg-name=GO-RTV group-title=綜合 , GO-RTV
+http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
+#EXTINF:-1 tvg-logo=HBO2.png tvg-name=HBO2 group-title=綜合 , HBO2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo=HBO.png tvg-name=HBO group-title=綜合 , HBO
+http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
+#EXTINF:-1 tvg-logo=HBO2.png tvg-name=HBO2 group-title=綜合 , HBO2
+http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
+#EXTINF:-1 tvg-logo=HBO2.png tvg-name=HBO2 group-title=綜合 , HBO2
+http://161.0.157.5/PLTV/88888888/224/3221227026/3.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo=HBO2.png tvg-name=HBO2 group-title=綜合 , HBO2
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
+#EXTINF:-1 tvg-logo=HBO2.png tvg-name=HBO2 group-title=綜合 , HBO2
+http://161.0.157.5:80/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo=HBO2.png tvg-name=HBO2 group-title=綜合 , HBO2
+http://161.0.157.51/PLTV/88888888/224/3221227026/index.m3u8
+#EXTINF:-1 tvg-logo=HBTVTICAVISION.png tvg-name=HBTVTICAVISION group-title=綜合 , HBTVTICAVISION
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1 tvg-logo=IPTV愛情喜劇.png tvg-name=IPTV愛情喜劇 group-title=綜合 , IPTV愛情喜劇
+http://121.31.30.90:8085/ysten-business/live/aiqingxj/yst.m3u8
+#EXTINF:-1 tvg-logo=IPTV動畫王國.png tvg-name=IPTV動畫王國 group-title=綜合 , IPTV動畫王國
+http://121.31.30.90:8085/ysten-business/live/donghuawg/yst.m3u8
+#EXTINF:-1 tvg-logo=IPTV動作電影.png tvg-name=IPTV動作電影 group-title=綜合 , IPTV動作電影
+http://121.31.30.90:8085/ysten-business/live/dongzuody/yst.m3u8
+#EXTINF:-1 tvg-logo=IPTV古裝劇場.png tvg-name=IPTV古裝劇場 group-title=綜合 , IPTV古裝劇場
+http://121.31.30.90:8085/ysten-business/live/guzhuangjc/yst.m3u8
+#EXTINF:-1 tvg-logo=IPTV海外劇場.png tvg-name=IPTV海外劇場 group-title=綜合 , IPTV海外劇場
+http://121.31.30.90:8085/ysten-business/live/xiqumd/yst.m3u8
+#EXTINF:-1 tvg-logo=IPTV家庭劇場.png tvg-name=IPTV家庭劇場 group-title=綜合 , IPTV家庭劇場
+http://121.31.30.90:8085/ysten-business/live/jiatingjc/yst.m3u8
+#EXTINF:-1 tvg-logo=IPTV金牌綜藝.png tvg-name=IPTV金牌綜藝 group-title=綜合 , IPTV金牌綜藝
+http://121.31.30.90:8085/ysten-business/live/saishijx/yst.m3u8
+#EXTINF:-1 tvg-logo=IPTV驚悚懸疑.png tvg-name=IPTV驚悚懸疑 group-title=綜合 , IPTV驚悚懸疑
+http://121.31.30.90:8085/ysten-business/live/jingsongxy/yst.m3u8
+#EXTINF:-1 tvg-logo=IPTV精品大劇.png tvg-name=IPTV精品大劇 group-title=綜合 , IPTV精品大劇
+http://121.31.30.90:8085/ysten-business/live/jdaju/yst.m3u8
+#EXTINF:-1 tvg-logo=IPTV精品電影.png tvg-name=IPTV精品電影 group-title=綜合 , IPTV精品電影
+http://121.31.30.90:8085/ysten-business/live/jdianying/yst.m3u8
+#EXTINF:-1 tvg-logo=IPTV精品記錄.png tvg-name=IPTV精品記錄 group-title=綜合 , IPTV精品記錄
+http://121.31.30.90:8085/ysten-business/live/jingpinjl/yst.m3u8
+#EXTINF:-1 tvg-logo=IPTV精品綜藝.png tvg-name=IPTV精品綜藝 group-title=綜合 , IPTV精品綜藝
+http://121.31.30.90:8085/ysten-business/live/jzongyi/yst.m3u8
+#EXTINF:-1 tvg-logo=IPTV軍旅劇場.png tvg-name=IPTV軍旅劇場 group-title=綜合 , IPTV軍旅劇場
+http://121.31.30.90:8085/ysten-business/live/junlvjc/yst.m3u8
+#EXTINF:-1 tvg-logo=IPTV明星大片.png tvg-name=IPTV明星大片 group-title=綜合 , IPTV明星大片
+http://121.31.30.90:8085/ysten-business/live/mingxingdp/yst.m3u8
+#EXTINF:-1 tvg-logo=JhanjarMusic.png tvg-name=JhanjarMusic group-title=綜合 , JhanjarMusic
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:-1 tvg-logo=KadakHits.png tvg-name=KadakHits group-title=綜合 , KadakHits
+http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
+#EXTINF:-1 tvg-logo=KaraokeChannel.png tvg-name=KaraokeChannel group-title=綜合 , KaraokeChannel
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
+#EXTINF:-1 tvg-logo=KaraokeChannel.png tvg-name=KaraokeChannel group-title=綜合 , KaraokeChannel
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo=KaraokeChannel.png tvg-name=KaraokeChannel group-title=綜合 , KaraokeChannel
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
+#EXTINF:-1 tvg-logo=KTV.png tvg-name=KTV group-title=綜合 , KTV
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/chunklist_w798628189_b232000.m3u8
+#EXTINF:-1 tvg-logo=KuriakosMusic.png tvg-name=KuriakosMusic group-title=綜合 , KuriakosMusic
+http://c2.manasat.com:1935/kmusic/kmusic3/FluxusTV.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo=m2oTV.png tvg-name=m2oTV group-title=綜合 , m2oTV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on?GrupoTopIptv
+#EXTINF:-1 tvg-logo=m2oTV.png tvg-name=m2oTV group-title=綜合 , m2oTV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?www.tecnotv.info?sd=10&rebase=on
+#EXTINF:-1 tvg-logo=m2oTV.png tvg-name=m2oTV group-title=綜合 , m2oTV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+#EXTINF:-1 tvg-logo=Mastiii.png tvg-name=Mastiii group-title=綜合 , Mastiii
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+#EXTINF:-1 tvg-logo=MedMuz卯k.png tvg-name=MedMuz卯k group-title=綜合 , MedMuz卯k
+http://137.74.205.201/live3/mm-3mbps.m3u8
+#EXTINF:-1 tvg-logo=MM.png tvg-name=MM group-title=綜合 , MM
+http://pri.cdn.bg:2113/fls/mmtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=Music24.png tvg-name=Music24 group-title=綜合 , Music24
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
+#EXTINF:-1 tvg-logo=NagoTV.png tvg-name=NagoTV group-title=綜合 , NagoTV
+http://haititivi.com:8088/haititv/tele6NY/index.m3u8
+#EXTINF:-1 tvg-logo=NagoTV.png tvg-name=NagoTV group-title=綜合 , NagoTV
+http://haititivi.com:8088/haititv/tele6NY/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo=Newtv愛情喜劇173.png tvg-name=Newtv愛情喜劇173 group-title=綜合 , Newtv愛情喜劇173
+http://121.31.30.90:8085/ysten-business/live/aiqingxj/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv愛情喜劇368.png tvg-name=Newtv愛情喜劇368 group-title=綜合 , Newtv愛情喜劇368
+http://111.40.205.87/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 tvg-logo=Newtv搏擊184.png tvg-name=Newtv搏擊184 group-title=綜合 , Newtv搏擊184
+http://121.31.30.90:8085/ysten-business/live/SD-1500k-576P-bokesen/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv搏擊頻道380.png tvg-name=Newtv搏擊頻道380 group-title=綜合 , Newtv搏擊頻道380
+http://111.40.205.87/PLTV/88888888/224/3221225680/index.m3u8
+#EXTINF:-1 tvg-logo=Newtv超級電視劇385.png tvg-name=Newtv超級電視劇385 group-title=綜合 , Newtv超級電視劇385
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225928/index.m3u8
+#EXTINF:-1 tvg-logo=Newtv超級電影.png tvg-name=Newtv超級電影 group-title=綜合 , Newtv超級電影
+http://112.50.243.12/PLTV/88888888/224/3221225804/index.m3u8
+#EXTINF:-1 tvg-logo=Newtv超級電影367.png tvg-name=Newtv超級電影367 group-title=綜合 , Newtv超級電影367
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225804/index.m3u8
+#EXTINF:-1 tvg-logo=Newtv超級綜藝365.png tvg-name=Newtv超級綜藝365 group-title=綜合 , Newtv超級綜藝365
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225884/index.m3u8
+#EXTINF:-1 tvg-logo=Newtv電競183.png tvg-name=Newtv電競183 group-title=綜合 , Newtv電競183
+http://121.31.30.90:8085/ysten-business/live/wmyx/12757286.m3u8
+#EXTINF:-1 tvg-logo=Newtv電競頻道375.png tvg-name=Newtv電競頻道375 group-title=綜合 , Newtv電競頻道375
+http://111.40.205.87/PLTV/88888888/224/3221225675/index.m3u8
+#EXTINF:-1 tvg-logo=Newtv動畫王國.png tvg-name=Newtv動畫王國 group-title=綜合 , Newtv動畫王國
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225878/index.m3u8
+#EXTINF:-1 tvg-logo=Newtv動畫王國372.png tvg-name=Newtv動畫王國372 group-title=綜合 , Newtv動畫王國372
+http://111.40.205.87/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 tvg-logo=Newtv動畫王國372.png tvg-name=Newtv動畫王國372 group-title=綜合 , Newtv動畫王國372
+http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
+#EXTINF:-1 tvg-logo=Newtv動畫王國372.png tvg-name=Newtv動畫王國372 group-title=綜合 , Newtv動畫王國372
+http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
+#EXTINF:-1 tvg-logo=Newtv動畫王國HHD.png tvg-name=Newtv動畫王國HHD group-title=綜合 , Newtv動畫王國HHD
+http://121.31.30.90:8085/ysten-business/live/donghuawg/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv動作電影175.png tvg-name=Newtv動作電影175 group-title=綜合 , Newtv動作電影175
+http://121.31.30.90:8085/ysten-business/live/dongzuody/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv動作電影364.png tvg-name=Newtv動作電影364 group-title=綜合 , Newtv動作電影364
+http://111.40.205.87/PLTV/88888888/224/3221225661/index.m3u8
+#EXTINF:-1 tvg-logo=Newtv古裝劇場171.png tvg-name=Newtv古裝劇場171 group-title=綜合 , Newtv古裝劇場171
+http://121.31.30.90:8085/ysten-business/live/guzhuangjc/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv古裝劇場369.png tvg-name=Newtv古裝劇場369 group-title=綜合 , Newtv古裝劇場369
+http://111.40.205.87/PLTV/88888888/224/3221225663/index.m3u8
+#EXTINF:-1 tvg-logo=Newtv海外劇場177.png tvg-name=Newtv海外劇場177 group-title=綜合 , Newtv海外劇場177
+http://121.31.30.90:8085/ysten-business/live/xiqumd/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv海外劇場361.png tvg-name=Newtv海外劇場361 group-title=綜合 , Newtv海外劇場361
+http://111.40.205.87/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 tvg-logo=Newtv家庭劇場.png tvg-name=Newtv家庭劇場 group-title=綜合 , Newtv家庭劇場
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225882/index.m3u8
+#EXTINF:-1 tvg-logo=Newtv家庭劇場172.png tvg-name=Newtv家庭劇場172 group-title=綜合 , Newtv家庭劇場172
+http://121.31.30.90:8085/ysten-business/live/jiatingjc/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv家庭劇場360.png tvg-name=Newtv家庭劇場360 group-title=綜合 , Newtv家庭劇場360
+http://111.40.205.87/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 tvg-logo=Newtv健康有約182.png tvg-name=Newtv健康有約182 group-title=綜合 , Newtv健康有約182
+http://121.31.30.90:8085/ysten-business/live/ljiankangyouyue/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv金牌綜藝166.png tvg-name=Newtv金牌綜藝166 group-title=綜合 , Newtv金牌綜藝166
+http://121.31.30.90:8085/ysten-business/live/saishijx/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv金牌綜藝362.png tvg-name=Newtv金牌綜藝362 group-title=綜合 , Newtv金牌綜藝362
+http://111.40.205.87/PLTV/88888888/224/3221225666/index.m3u8
+#EXTINF:-1 tvg-logo=Newtv驚悚懸疑178.png tvg-name=Newtv驚悚懸疑178 group-title=綜合 , Newtv驚悚懸疑178
+http://121.31.30.90:8085/ysten-business/live/jingsongxy/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv驚悚懸疑371.png tvg-name=Newtv驚悚懸疑371 group-title=綜合 , Newtv驚悚懸疑371
+http://111.40.205.87/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 tvg-logo=Newtv精品大劇170.png tvg-name=Newtv精品大劇170 group-title=綜合 , Newtv精品大劇170
+http://121.31.30.90:8085/ysten-business/live/jdaju/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv精品大劇379.png tvg-name=Newtv精品大劇379 group-title=綜合 , Newtv精品大劇379
+http://111.40.205.87/PLTV/88888888/224/3221225670/index.m3u8
+#EXTINF:-1 tvg-logo=Newtv精品電影-1080P.png tvg-name=Newtv精品電影-1080P group-title=綜合 , Newtv精品電影-1080P
+http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
+#EXTINF:-1 tvg-logo=Newtv精品電影169.png tvg-name=Newtv精品電影169 group-title=綜合 , Newtv精品電影169
+http://121.31.30.90:8085/ysten-business/live/jdianying/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv精品電影358.png tvg-name=Newtv精品電影358 group-title=綜合 , Newtv精品電影358
+http://111.40.205.87/PLTV/88888888/224/3221225667/index.m3u8
+#EXTINF:-1 tvg-logo=Newtv精品電影FHD.png tvg-name=Newtv精品電影FHD group-title=綜合 , Newtv精品電影FHD
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225567/index.m3u8
+#EXTINF:-1 tvg-logo=Newtv精品記錄.png tvg-name=Newtv精品記錄 group-title=綜合 , Newtv精品記錄
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225888/index.m3u8
+#EXTINF:-1 tvg-logo=Newtv精品記錄167.png tvg-name=Newtv精品記錄167 group-title=綜合 , Newtv精品記錄167
+http://121.31.30.90:8085/ysten-business/live/jingpinjl/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv精品記錄378.png tvg-name=Newtv精品記錄378 group-title=綜合 , Newtv精品記錄378
+http://111.40.205.87/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 tvg-logo=Newtv精品體育181.png tvg-name=Newtv精品體育181 group-title=綜合 , Newtv精品體育181
+http://121.31.30.90:8085/ysten-business/live/jtiyu/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv軍旅劇場174.png tvg-name=Newtv軍旅劇場174 group-title=綜合 , Newtv軍旅劇場174
+http://121.31.30.90:8085/ysten-business/live/junlvjc/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv軍旅劇場373.png tvg-name=Newtv軍旅劇場373 group-title=綜合 , Newtv軍旅劇場373
+http://111.40.205.87/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 tvg-logo=Newtv軍事評論165.png tvg-name=Newtv軍事評論165 group-title=綜合 , Newtv軍事評論165
+http://121.31.30.90:8085/ysten-business/live/junshipl/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv軍事評論165.png tvg-name=Newtv軍事評論165 group-title=綜合 , Newtv軍事評論165
+http://121.31.30.90:8085/ysten-business/live/junshipl/yst.m3u8
+#EXTINF:-1 tvg-logo=Newtv軍事評論374.png tvg-name=Newtv軍事評論374 group-title=綜合 , Newtv軍事評論374
+http://111.40.205.87/PLTV/88888888/224/3221225668/index.m3u8
+#EXTINF:-1 tvg-logo=Newtv明星大片176.png tvg-name=Newtv明星大片176 group-title=綜合 , Newtv明星大片176
+http://121.31.30.90:8085/ysten-business/live/mingxingdp/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv明星大片370.png tvg-name=Newtv明星大片370 group-title=綜合 , Newtv明星大片370
+http://111.40.205.87/PLTV/88888888/224/3221225664/index.m3u8
+#EXTINF:-1 tvg-logo=Newtv農業致富180.png tvg-name=Newtv農業致富180 group-title=綜合 , Newtv農業致富180
+http://121.31.30.90:8085/ysten-business/live/nongyezf/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv完美遊戲.png tvg-name=Newtv完美遊戲 group-title=綜合 , Newtv完美遊戲
+http://121.31.30.90:8085/ysten-business/live/wmyx/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv炫舞未來383.png tvg-name=Newtv炫舞未來383 group-title=綜合 , Newtv炫舞未來383
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226699/index.m3u8
+#EXTINF:-1 tvg-logo=Newtv中國功夫.png tvg-name=Newtv中國功夫 group-title=綜合 , Newtv中國功夫
+http://121.31.30.90:8085/ysten-business/live/SD-1500k-576P-gzkongfu/1.m3u8
+#EXTINF:-1 tvg-logo=Newtv中國功夫381.png tvg-name=Newtv中國功夫381 group-title=綜合 , Newtv中國功夫381
+http://111.40.205.87/PLTV/88888888/224/3221225681/index.m3u8
+#EXTINF:-1 tvg-logo=NEW搏擊387.png tvg-name=NEW搏擊387 group-title=綜合 , NEW搏擊387
+http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221226803/index.m3u8
+#EXTINF:-1 tvg-logo=NG.png tvg-name=NG group-title=綜合 , NG
+http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
+#EXTINF:-1 tvg-logo=NG.png tvg-name=NG group-title=綜合 , NG
+https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
+#EXTINF:-1 tvg-logo=OperatorRadio.png tvg-name=OperatorRadio group-title=綜合 , OperatorRadio
+http://cdn-hlm-1.streamnerd.nl/live/operator/playlist.m3u8
+#EXTINF:-1 tvg-logo=OTV.png tvg-name=OTV group-title=綜合 , OTV
+http://212.26.146.148/hls/otv.m3u8
+#EXTINF:-1 tvg-logo=OTV.png tvg-name=OTV group-title=綜合 , OTV
+http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8
+#EXTINF:-1 tvg-logo=OTV.png tvg-name=OTV group-title=綜合 , OTV
+http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8?codec=mpeg4
+#EXTINF:-1 tvg-logo=OTV.png tvg-name=OTV group-title=綜合 , OTV
+http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8?codec=mpeg4&app=playlist
+#EXTINF:-1 tvg-logo=PlayTV.png tvg-name=PlayTV group-title=綜合 , PlayTV
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
+#EXTINF:-1 tvg-logo=PremiumMarathi.png tvg-name=PremiumMarathi group-title=綜合 , PremiumMarathi
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarpre.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo=PublicMusic.png tvg-name=PublicMusic group-title=綜合 , PublicMusic
+http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
+#EXTINF:-1 tvg-logo=Qmusic.png tvg-name=Qmusic group-title=綜合 , Qmusic
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+#EXTINF:-1 tvg-logo=RadioContactVision.png tvg-name=RadioContactVision group-title=綜合 , RadioContactVision
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
+#EXTINF:-1 tvg-logo=RadioItaliaVision.png tvg-name=RadioItaliaVision group-title=綜合 , RadioItaliaVision
+http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
+#EXTINF:-1 tvg-logo=RadioPROS.png tvg-name=RadioPROS group-title=綜合 , RadioPROS
+http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo=RadioWeserTVBremen.png tvg-name=RadioWeserTVBremen group-title=綜合 , RadioWeserTVBremen
+https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
+#EXTINF:-1 tvg-logo=RetroMusicTelevision.png tvg-name=RetroMusicTelevision group-title=綜合 , RetroMusicTelevision
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-logo=RetroMusicTelevision.png tvg-name=RetroMusicTelevision group-title=綜合 , RetroMusicTelevision
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8
+#EXTINF:-1 tvg-logo=RetroMusicTelevision.png tvg-name=RetroMusicTelevision group-title=綜合 , RetroMusicTelevision
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w1911133387.m3u8
+#EXTINF:-1 tvg-logo=RetroMusicTelevision.png tvg-name=RetroMusicTelevision group-title=綜合 , RetroMusicTelevision
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-logo=RetroMusicTelevision.png tvg-name=RetroMusicTelevision group-title=綜合 , RetroMusicTelevision
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8?GrupoTopIptv
+#EXTINF:-1 tvg-logo=RetroMusicTelevision.png tvg-name=RetroMusicTelevision group-title=綜合 , RetroMusicTelevision
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1652320907.m3u8
+#EXTINF:-1 tvg-logo=RetroMusicTelevision.png tvg-name=RetroMusicTelevision group-title=綜合 , RetroMusicTelevision
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo=RockTV.png tvg-name=RockTV group-title=綜合 , RockTV
+http://46.20.136.59/live3/_definst_/rocktv/playlist.m3u8
+#EXTINF:-1 tvg-logo=S8總決賽.png tvg-name=S8總決賽 group-title=綜合 , S8總決賽
+http://hls-ott-zhibo.wasu.tv/live/237/index.m3u8
+#EXTINF:-1 tvg-logo=TVMChannel.png tvg-name=TVMChannel group-title=綜合 , TVMChannel
+http://149.154.68.132:8081/HOLA/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=UTV.png tvg-name=UTV group-title=綜合 , UTV
+http://81.196.0.126/utvedge/utvlive/playlist.m3u8
+#EXTINF:-1 tvg-logo=UTV.png tvg-name=UTV group-title=綜合 , UTV
+http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8?GrupoTopIptv
+#EXTINF:-1 tvg-logo=UTV.png tvg-name=UTV group-title=綜合 , UTV
+http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo=UTV.png tvg-name=UTV group-title=綜合 , UTV
+http://81.196.0.126:80/utvedge/utvlive/index.m3u8
+#EXTINF:-1 tvg-logo=UTV.png tvg-name=UTV group-title=綜合 , UTV
+http://82.76.40.76:80/utvedge/utvlive/playlist.m3u8
+#EXTINF:-1 tvg-logo=VR出錯.png tvg-name=VR出錯 group-title=綜合 , VR出錯
+http://hls-ott-zhibo.wasu.tv/live/273/index.m3u8
+#EXTINF:-1 tvg-logo=Wixlar.png tvg-name=Wixlar group-title=綜合 , Wixlar
+http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
+#EXTINF:-1 tvg-logo=WowMusic.png tvg-name=WowMusic group-title=綜合 , WowMusic
+http://103.199.161.254/Content/wowmusic/Live/Channel(WowMusic)/index.m3u8
+#EXTINF:-1 tvg-logo=ZeeBanglaCinema.png tvg-name=ZeeBanglaCinema group-title=綜合 , ZeeBanglaCinema
+https://ylive42-i.akamaihd.net/hls/live/690910/zeebanglacinema/playlist.m3u8
+#EXTINF:-1 tvg-logo=ZingUSA.png tvg-name=ZingUSA group-title=綜合 , ZingUSA
+https://ylive66-i.akamaihd.net/hls/live/691677/zingus/playlist.m3u8
+#EXTINF:-1 tvg-logo=必看0084.png tvg-name=必看0084 group-title=綜合 , 必看0084
+http://myun-hw-s3.myun.tv/melj80jz/5pz7voxl/1551284016890884695.m3u8
+#EXTINF:-1 tvg-logo=畢業旅行笑翻天0389.png tvg-name=畢業旅行笑翻天0389 group-title=綜合 , 畢業旅行笑翻天0389
+http://youku.com-youku.com/20180324/xfQQFI6P/900kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo=變形金剛40410.png tvg-name=變形金剛40410 group-title=綜合 , 變形金剛40410
+http://vip.okokbo.com/20171223/XbQOMA6J/index.m3u8
+#EXTINF:-1 tvg-logo=變異蜘蛛突襲小鎮.png tvg-name=變異蜘蛛突襲小鎮 group-title=綜合 , 變異蜘蛛突襲小鎮
+https://boba.52kuyun.com/20190122/19096_1f11a83c/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=不一樣的錦衣衛0409.png tvg-name=不一樣的錦衣衛0409 group-title=綜合 , 不一樣的錦衣衛0409
+http://youku.cdn2-youku.com/20180418/10392_805e005e/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=顫慄汪洋3.png tvg-name=顫慄汪洋3 group-title=綜合 , 顫慄汪洋3
+https://video.suyunbo.tv/20171008/ZvczP8m3/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo=超級戰艦0378.png tvg-name=超級戰艦0378 group-title=綜合 , 超級戰艦0378
+http://youku.com-youku.com/20171224/ewMvj2UP/800kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo=朝聞天下.png tvg-name=朝聞天下 group-title=綜合 , 朝聞天下
+http://hls-ott-zhibo.wasu.tv/live/169_46637/index.m3u8
+#EXTINF:-1 tvg-logo=吃雞戰場.png tvg-name=吃雞戰場 group-title=綜合 , 吃雞戰場
+http://hls-ott-zhibo.wasu.tv/live/265/index.m3u8
+#EXTINF:-1 tvg-logo=大國時代.png tvg-name=大國時代 group-title=綜合 , 大國時代
+http://hls-ott-zhibo.wasu.tv/live/124_74884/index.m3u8
+#EXTINF:-1 tvg-logo=大牌綜藝.png tvg-name=大牌綜藝 group-title=綜合 , 大牌綜藝
+http://hls-ott-zhibo.wasu.tv/live/132_78495/index.m3u8
+#EXTINF:-1 tvg-logo=大嫂0390.png tvg-name=大嫂0390 group-title=綜合 , 大嫂0390
+http://youku.cdn-tudou.com/20180410/8RNIzSA3/1000kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo=大聖伏妖0362.png tvg-name=大聖伏妖0362 group-title=綜合 , 大聖伏妖0362
+http://youku.cdn-tudou.com/20180524/6112_40cff5be/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=單片10360.png tvg-name=單片10360 group-title=綜合 , 單片10360
+http://zk.wb699.com/2019/02/07/wQBcmdIX9frWwCBS/playlist.m3u8
+#EXTINF:-1 tvg-logo=膽笑心驚0380.png tvg-name=膽笑心驚0380 group-title=綜合 , 膽笑心驚0380
+http://163.com-www-letv.com/20180505/250_6bf4423a/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=盜夢空間0387.png tvg-name=盜夢空間0387 group-title=綜合 , 盜夢空間0387
+http://vip.okokbo.com/20171212/PnC6Aph7/800kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo=電影預告HD.png tvg-name=電影預告HD group-title=綜合 , 電影預告HD
+http://hls-ott-zhibo.wasu.tv/live/298/index.m3u8
+#EXTINF:-1 tvg-logo=動畫王國.png tvg-name=動畫王國 group-title=綜合 , 動畫王國
+http://cache.ott.ystenlive.itv.cmvideo.cn/000000001000/6497762188035533951/1.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=084003FF004735100000D071C4211767&userToken=e3bc3e9e316c5&version=1.0&owaccmark=6497762188035533951&owchid=ystenlive&owsid=7879911747642518107&AuthInfo=7YQ9mxLJ8mR0kMMOmvoM6AjaA35GVQ1I7LM88ZjeKu%2bmc6AO7xdzZ4%2fIx3Q7gRlN9WcbEVrb6yoo66qswkt2zZwqLzZZ%2fptDDSOgy%2fsm9zczjqYrkBJAXCKgL66rJSf6
+#EXTINF:-1 tvg-logo=動作電影.png tvg-name=動作電影 group-title=綜合 , 動作電影
+http://cache.ott.ystenlive.itv.cmvideo.cn/000000001000/8103864434730665389/1.m3u8?channel-id=ystenlive&Contentid=8103864434730665389&livemode=1&stbId=084003FF004735100000D071C4211767&userToken=e3bc3e9e316c5&version=1.0&owaccmark=8103864434730665389&owchid=ystenlive&owsid=7879911747642505737&AuthInfo=7YQ9mxLJ8mR0kMMOmvoM6AjaA35GVQ1I7LM88ZjeKu%2fm77UIA81uBv6JXr4%2foD4GZGMaijz6r2NpZTRUJUKJyk7Y%2b2kbQSC2Z0DGlyzpF8n%2fnNBbIjqJEw61Bz0V7DBb
+#EXTINF:-1 tvg-logo=都市劇場.png tvg-name=都市劇場 group-title=綜合 , 都市劇場
+http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221226029/index.m3u8
+#EXTINF:-1 tvg-logo=斗魚電影高清.png tvg-name=斗魚電影高清 group-title=綜合 , 斗魚電影高清
+http://tx2play1.douyucdn.cn/122402rK7MO9bXSq.m3u8
+#EXTINF:-1 tvg-logo=斗魚主播課.png tvg-name=斗魚主播課 group-title=綜合 , 斗魚主播課
+http://hls-ott-zhibo.wasu.tv/live/238/index.m3u8
+#EXTINF:-1 tvg-logo=賭博電影.png tvg-name=賭博電影 group-title=綜合 , 賭博電影
+http://tx.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=賭聖0411.png tvg-name=賭聖0411 group-title=綜合 , 賭聖0411
+http://vip.okokbo.com/20171224/3iPxQNIu/index.m3u8
+#EXTINF:-1 tvg-logo=峨眉電影高清.png tvg-name=峨眉電影高清 group-title=綜合 , 峨眉電影高清
+http://scgctvshow.sctv.com/hdlive/emei/3.m3u8
+#EXTINF:-1 tvg-logo=房之囧事0403.png tvg-name=房之囧事0403 group-title=綜合 , 房之囧事0403
+http://youku.cdn2-youku.com/20180416/10301_93a25d73/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=放牛班的春天0405.png tvg-name=放牛班的春天0405 group-title=綜合 , 放牛班的春天0405
+http://vip.okokbo.com/20171211/wBh15o84/800kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo=瘋狂的外星人0358.png tvg-name=瘋狂的外星人0358 group-title=綜合 , 瘋狂的外星人0358
+http://zk.wb699.com/2019/02/06/eRFkBLR1I4kImaA2/playlist.m3u8
+#EXTINF:-1 tvg-logo=鳳凰中文.png tvg-name=鳳凰中文 group-title=綜合 , 鳳凰中文
+http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:-1 tvg-logo=尬情少女0384.png tvg-name=尬情少女0384 group-title=綜合 , 尬情少女0384
+http://163.com-www-letv.com/20180507/279_f9d6d7d0/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=古惑青春0375.png tvg-name=古惑青春0375 group-title=綜合 , 古惑青春0375
+http://youku.cdn-tudou.com/20180511/5860_287e8e5c/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=古惑仔電影.png tvg-name=古惑仔電影 group-title=綜合 , 古惑仔電影
+http://tx.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo=拐個彎兒遇見你0365.png tvg-name=拐個彎兒遇見你0365 group-title=綜合 , 拐個彎兒遇見你0365
+http://youku.cdn-tudou.com/20180514/5896_11003807/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=閨蜜20412.png tvg-name=閨蜜20412 group-title=綜合 , 閨蜜20412
+http://youku.com-youku.com/20180402/svexte6y/index.m3u8
+#EXTINF:-1 tvg-logo=哈嘍葡星人500.png tvg-name=哈嘍葡星人500 group-title=綜合 , 哈嘍葡星人500
+http://hls-ott-zhibo.wasu.tv/live/108_39062/index.m3u8
+#EXTINF:-1 tvg-logo=海外劇場.png tvg-name=海外劇場 group-title=綜合 , 海外劇場
+http://cache.ott.ystenlive.itv.cmvideo.cn/000000001000/7681593242002292003/1.m3u8?channel-id=ystenlive&Contentid=7681593242002292003&livemode=1&stbId=084003FF004735100000D071C4211767&userToken=e3bc3e9e316c5&version=1.0&owaccmark=7681593242002292003&owchid=ystenlive&owsid=7879911747642461648&AuthInfo=7YQ9mxLJ8mR0kMMOmvoM6AjaA35GVQ1I7LM88ZjeKu874ZKwFkFgdg1xEl5DMDEy4QeuqUMSIKg59dU6IQJy5XXVl4yQKpIVMeRP5Q18Ywad%2bcTnno%2f%2foU3A4sDt5vM%2b
+#EXTINF:-1 tvg-logo=好萊塢電影259.png tvg-name=好萊塢電影259 group-title=綜合 , 好萊塢電影259
+http://hls-ott-zhibo.wasu.tv/live/305/index.m3u8
+#EXTINF:-1 tvg-logo=河北影視.png tvg-name=河北影視 group-title=綜合 , 河北影視
+http://live01.hebtv.com/channels/hebtv/video_channel_06/flv:2000k/live.m3u8
+#EXTINF:-1 tvg-logo=湖北影視.png tvg-name=湖北影視 group-title=綜合 , 湖北影視
+http://live.cjyun.org/video/s10008-hbys2018/index.m3u8
+#EXTINF:-1 tvg-logo=蝴蝶影院05273.png tvg-name=蝴蝶影院05273 group-title=綜合 , 蝴蝶影院05273
+http://hls-ott-zhibo.wasu.tv/live/268/index.m3u8
+#EXTINF:-1 tvg-logo=華數_動漫電影.png tvg-name=華數_動漫電影 group-title=綜合 , 華數_動漫電影
+http://hls-ott-zhibo.wasu.tv/live/356/index.m3u8
+#EXTINF:-1 tvg-logo=華數_好萊塢大賞.png tvg-name=華數_好萊塢大賞 group-title=綜合 , 華數_好萊塢大賞
+http://hls-ott-zhibo.wasu.tv/live/351/index.m3u8
+#EXTINF:-1 tvg-logo=華數電影高清.png tvg-name=華數電影高清 group-title=綜合 , 華數電影高清
+http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-logo=華數紀實HD.png tvg-name=華數紀實HD group-title=綜合 , 華數紀實HD
+http://hls-ott-zhibo.wasu.tv/live/292/index.m3u8
+#EXTINF:-1 tvg-logo=華數影視劇場0102.png tvg-name=華數影視劇場0102 group-title=綜合 , 華數影視劇場0102
+http://hls-ott-zhibo.wasu.tv/live/160/index.m3u8
+#EXTINF:-1 tvg-logo=機智呆逼兩基友.png tvg-name=機智呆逼兩基友 group-title=綜合 , 機智呆逼兩基友
+http://163.com-www-letv.com/20180502/95_b1c8d57a/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=極限拯救0374.png tvg-name=極限拯救0374 group-title=綜合 , 極限拯救0374
+http://youku.cdn-tudou.com/20180512/5873_02b3cffb/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=家庭劇場.png tvg-name=家庭劇場 group-title=綜合 , 家庭劇場
+http://cache.ott.ystenlive.itv.cmvideo.cn/000000001000/6316377948248689070/1.m3u8?channel-id=ystenlive&Contentid=6316377948248689070&livemode=1&stbId=084003FF004735100000D071C4211767&userToken=e3bc3e9e316c5&version=1.0&owaccmark=6316377948248689070&owchid=ystenlive&owsid=7879911747642451043&AuthInfo=7YQ9mxLJ8mR0kMMOmvoM6AjaA35GVQ1I7LM88ZjeKu9ft2hknei9msfbi%2fj8uL76Bu41aeXGgZjIgH1v2J09X9KFmwb1q3G%2b0XRsNuKf9X%2bACcCJFiNoMmhrRrhNMpNV
+#EXTINF:-1 tvg-logo=江蘇影視.png tvg-name=江蘇影視 group-title=綜合 , 江蘇影視
+http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8
+#EXTINF:-1 tvg-logo=降頭(粵語無字).png tvg-name=降頭(粵語無字) group-title=綜合 , 降頭(粵語無字)
+http://youku.cdn2-youku.com/20180519/11386_2c9e569c/index.m3u8
+#EXTINF:-1 tvg-logo=今夜你會不會想起我0245.png tvg-name=今夜你會不會想起我0245 group-title=綜合 , 今夜你會不會想起我0245
+http://myun-hw-s3.myun.tv/melj80jz/lgjj48go/lj6zdxn5/5ae1kvnl_1566657015897785384_480p.m3u8
+#EXTINF:-1 tvg-logo=金牌綜藝.png tvg-name=金牌綜藝 group-title=綜合 , 金牌綜藝
+http://cache.ott.ystenlive.itv.cmvideo.cn/000000001000/6399725674632152632/1.m3u8?channel-id=ystenlive&Contentid=6399725674632152632&livemode=1&stbId=084003FF004735100000D071C4211767&userToken=e3bc3e9e316c5&version=1.0&owaccmark=6399725674632152632&owchid=ystenlive&owsid=7879911747642498486&AuthInfo=7YQ9mxLJ8mR0kMMOmvoM6AjaA35GVQ1I7LM88ZjeKu8nbaT1cCOM%2bjKd2fmJybJP6X7E3Gb0fteF6sMCepkdwSAOPJyE47MAFr2NRjfbLNUj95w0udYVd%2fensurpECa7
+#EXTINF:-1 tvg-logo=驚悚懸疑.png tvg-name=驚悚懸疑 group-title=綜合 , 驚悚懸疑
+http://hls-ott-zhibo.wasu.tv/live/104_55913/index.m3u8
+#EXTINF:-1 tvg-logo=驚笑學院0402.png tvg-name=驚笑學院0402 group-title=綜合 , 驚笑學院0402
+http://youku.cdn2-youku.com/20180420/10513_16047b7f/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=精品電影.png tvg-name=精品電影 group-title=綜合 , 精品電影
+http://cache.ott.ystenlive.itv.cmvideo.cn/000000001000/8785669936177902664/1.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=084003FF004735100000D071C4211767&userToken=e3bc3e9e316c5&version=1.0&owaccmark=8785669936177902664&owchid=ystenlive&owsid=7879911747642542156&AuthInfo=7YQ9mxLJ8mR0kMMOmvoM6AjaA35GVQ1I7LM88ZjeKu%2f8LuW1%2fohauu8wa68q46W0830UTZ8MJDPndMKY05Zf05uxGXycwAsojCOqVbNn9WZF8loo2h1YzHvysMRUuvx3
+#EXTINF:-1 tvg-logo=精品記錄.png tvg-name=精品記錄 group-title=綜合 , 精品記錄
+http://cache.ott.ystenlive.itv.cmvideo.cn/000000001000/6298506997017621594/1.m3u8?channel-id=ystenlive&Contentid=6298506997017621594&livemode=1&stbId=084003FF004735100000D071C4211767&userToken=e3bc3e9e316c5&version=1.0&owaccmark=6298506997017621594&owchid=ystenlive&owsid=7879911747642549735&AuthInfo=7YQ9mxLJ8mR0kMMOmvoM6AjaA35GVQ1I7LM88ZjeKu8PVbk2VFMsya3RiVg1Q2%2fkJS%2fSHXToMuoDGo5huXusx3xocbH%2fB1bOkacoKBwFpeCSS7pL1RTxbIWnkPSokKFu
+#EXTINF:-1 tvg-logo=九門提督0361.png tvg-name=九門提督0361 group-title=綜合 , 九門提督0361
+http://youku.cdn-tudou.com/20180622/6551_38164fb5/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=聚鯊購物HD.png tvg-name=聚鯊購物HD group-title=綜合 , 聚鯊購物HD
+http://hls-ott-zhibo.wasu.tv/live/227/index.m3u8
+#EXTINF:-1 tvg-logo=軍旅劇場.png tvg-name=軍旅劇場 group-title=綜合 , 軍旅劇場
+http://cache.ott.ystenlive.itv.cmvideo.cn/000000001000/7485075951068666323/1.m3u8?channel-id=ystenlive&Contentid=7485075951068666323&livemode=1&stbId=084003FF004735100000D071C4211767&userToken=e3bc3e9e316c5&version=1.0&owaccmark=7485075951068666323&owchid=ystenlive&owsid=7879911747642526838&AuthInfo=7YQ9mxLJ8mR0kMMOmvoM6AjaA35GVQ1I7LM88ZjeKu%2bEJ%2bcThy3zmow2HeKpgNi8iDUAaMIsG%2bbonMB9nkQozoruIZlzVumQj20v0Gk5qqk4UEEXh2J0DqLQEzdw%2fe0K
+#EXTINF:-1 tvg-logo=軍事紀實.png tvg-name=軍事紀實 group-title=綜合 , 軍事紀實
+http://hls-ott-zhibo.wasu.tv/live/125_11728/index.m3u8
+#EXTINF:-1 tvg-logo=開心直播HD.png tvg-name=開心直播HD group-title=綜合 , 開心直播HD
+http://hls-ott-zhibo.wasu.tv/live/272/index.m3u8
+#EXTINF:-1 tvg-logo=科教人文.png tvg-name=科教人文 group-title=綜合 , 科教人文
+http://hls-ott-zhibo.wasu.tv/live/126_63587/index.m3u8
+#EXTINF:-1 tvg-logo=庫伯裡克機長.png tvg-name=庫伯裡克機長 group-title=綜合 , 庫伯裡克機長
+https://bobo.kukucdn.com/20190216/5784_769689be/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=跨界喜劇王第三季.png tvg-name=跨界喜劇王第三季 group-title=綜合 , 跨界喜劇王第三季
+http://zkcdn.wb699.com/2018/09/30/UXYMS7IMw7Pjy5ez/playlist.m3u8
+#EXTINF:-1 tvg-logo=跨界喜劇王第三季.png tvg-name=跨界喜劇王第三季 group-title=綜合 , 跨界喜劇王第三季
+https://zkcdn.wb699.com/2018/09/30/UXYMS7IMw7Pjy5ez/playlist.m3u8
+#EXTINF:-1 tvg-logo=快把我哥帶走.png tvg-name=快把我哥帶走 group-title=綜合 , 快把我哥帶走
+http://zuikzy.51moca.com/2018/08/29/grn10Xdh1qAfIacw/playlist.m3u8
+#EXTINF:-1 tvg-logo=辣手神探0393.png tvg-name=辣手神探0393 group-title=綜合 , 辣手神探0393
+http://vip.okokbo.com/20171220/4cKTsAIf/800kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo=浪漫愛情.png tvg-name=浪漫愛情 group-title=綜合 , 浪漫愛情
+http://hls-ott-zhibo.wasu.tv/live/231/index.m3u8
+#EXTINF:-1 tvg-logo=理想之路0369.png tvg-name=理想之路0369 group-title=綜合 , 理想之路0369
+http://youku.cdn-tudou.com/20180529/6161_f98ae754/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=戀戀仙緣0397.png tvg-name=戀戀仙緣0397 group-title=綜合 , 戀戀仙緣0397
+http://youku.cdn2-youku.com/20180428/10984_2635d809/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=獵愛啟示錄0396.png tvg-name=獵愛啟示錄0396 group-title=綜合 , 獵愛啟示錄0396
+http://youku.cdn1-letv.com/20180429/10176_93797d25/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=靈妖鑒之盤絲小仙0381.png tvg-name=靈妖鑒之盤絲小仙0381 group-title=綜合 , 靈妖鑒之盤絲小仙0381
+http://163.com-www-letv.com/20180505/253_68b47e31/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=龍蝦刑警.png tvg-name=龍蝦刑警 group-title=綜合 , 龍蝦刑警
+http://zuikzy.win7i.com/2018/07/29/ttKgxJf6kqiPwuQf/playlist.m3u8
+#EXTINF:-1 tvg-logo=掠食城市.png tvg-name=掠食城市 group-title=綜合 , 掠食城市
+https://boba.52kuyun.com/20190130/19513_a838cb2e/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=猛蟲過江.png tvg-name=猛蟲過江 group-title=綜合 , 猛蟲過江
+http://zuikzy.win7i.com/2018/07/17/AjUXX4ET6Sinbq1L/playlist.m3u8
+#EXTINF:-1 tvg-logo=夢纏綿0250.png tvg-name=夢纏綿0250 group-title=綜合 , 夢纏綿0250
+http://myun-hw-s3.myun.tv/melj80jz/0mnno9n4/0exvo345/lxav97g0_1566657069603078304_480p.m3u8
+#EXTINF:-1 tvg-logo=明星大片.png tvg-name=明星大片 group-title=綜合 , 明星大片
+http://cache.ott.ystenlive.itv.cmvideo.cn/000000001000/5595720619887440144/1.m3u8?channel-id=ystenlive&Contentid=5595720619887440144&livemode=1&stbId=084003FF004735100000D071C4211767&userToken=e3bc3e9e316c5&version=1.0&owaccmark=5595720619887440144&owchid=ystenlive&owsid=7879911747642476849&AuthInfo=7YQ9mxLJ8mR0kMMOmvoM6AjaA35GVQ1I7LM88ZjeKu94fdx5nwtTDPbLU2LvB%2fY5sa5CTmayk4ced1DoeZ2Vnx1nn8vT5HUtbmbsnixYWu0bY3wx4htpTHw%2bsZrcvM5R
+#EXTINF:-1 tvg-logo=摩天營救.png tvg-name=摩天營救 group-title=綜合 , 摩天營救
+http://zuikzy.win7i.com/2018/08/11/K27tivJzryHAJ49Z/playlist.m3u8
+#EXTINF:-1 tvg-logo=魔方0371.png tvg-name=魔方0371 group-title=綜合 , 魔方0371
+http://163.com-www-letv.com/20180507/332_3926ad3d/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=母親出車禍死後.png tvg-name=母親出車禍死後 group-title=綜合 , 母親出車禍死後
+http://youku.cdn2-youku.com/20180413/10179_93bc6ae6/index.m3u8
+#EXTINF:-1 tvg-logo=逆襲人生0401.png tvg-name=逆襲人生0401 group-title=綜合 , 逆襲人生0401
+http://youku.cdn2-youku.com/20180423/10664_da57883e/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=女狙擊手.png tvg-name=女狙擊手 group-title=綜合 , 女狙擊手
+https://vip.94kuyun.com/20180610/9rsRa3kg/index.m3u8
+#EXTINF:-1 tvg-logo=歐美冒險.png tvg-name=歐美冒險 group-title=綜合 , 歐美冒險
+http://hls-ott-zhibo.wasu.tv/live/156_40178/index.m3u8
+#EXTINF:-1 tvg-logo=歐美影院.png tvg-name=歐美影院 group-title=綜合 , 歐美影院
+http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IAShttpessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
+#EXTINF:-1 tvg-logo=九畫面.png tvg-name=九畫面 group-title=綜合 , 九畫面
+http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=021&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:-1 tvg-logo=七彩戲劇.png tvg-name=七彩戲劇 group-title=綜合 , 七彩戲劇
+http://183.207.249.9/PLTV/2/224/3221226039/1.m3u8
+#EXTINF:-1 tvg-logo=艩l謾gr.png tvg-name=艩l謾gr group-title=綜合 , 艩l謾gr
+https://slagrtv-live-hls.ssl.cdn.cra.cz/channels/slagrtv/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-logo=切爾諾貝利01.png tvg-name=切爾諾貝利01 group-title=綜合 , 切爾諾貝利01
+http://youku.kuyun-leshi.com/ppvod/7E21A7A4068F29C730B356DB8203AEFD.m3u8
+#EXTINF:-1 tvg-logo=切爾諾貝利02.png tvg-name=切爾諾貝利02 group-title=綜合 , 切爾諾貝利02
+http://youku.kuyun-leshi.com/ppvod/A05407B1371A760E76F2E95371F82C29.m3u8
+#EXTINF:-1 tvg-logo=切爾諾貝利03.png tvg-name=切爾諾貝利03 group-title=綜合 , 切爾諾貝利03
+http://leshi.iqiyi-kuyunzy.com/20190528/13307_05d2c91e/800k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=切爾諾貝利04.png tvg-name=切爾諾貝利04 group-title=綜合 , 切爾諾貝利04
+http://leshi.iqiyi-kuyunzy.com/20190528/13264_9462382a/800k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=切爾諾貝利05.png tvg-name=切爾諾貝利05 group-title=綜合 , 切爾諾貝利05
+http://leshi.iqiyi-kuyunzy.com/20190603/14003_33b8bf71/800k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=青春偶像.png tvg-name=青春偶像 group-title=綜合 , 青春偶像
+http://hls-ott-zhibo.wasu.tv/live/96_98383/index.m3u8
+#EXTINF:-1 tvg-logo=青春音樂台.png tvg-name=青春音樂台 group-title=綜合 , 青春音樂台
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1 tvg-logo=青天降妖錄20407.png tvg-name=青天降妖錄20407 group-title=綜合 , 青天降妖錄20407
+http://youku.cdn2-youku.com/20180413/10179_93bc6ae6/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=袪邪寫懈芯楔邪薪褋芯薪.png tvg-name=袪邪寫懈芯楔邪薪褋芯薪 group-title=綜合 , 袪邪寫懈芯楔邪薪褋芯薪
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+#EXTINF:-1 tvg-logo=渠首歡歌0370.png tvg-name=渠首歡歌0370 group-title=綜合 , 渠首歡歌0370
+http://youku.cdn-tudou.com/20180528/6154_fd8969f1/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=全球風暴.png tvg-name=全球風暴 group-title=綜合 , 全球風暴
+https://52dy.hanju2017.com/20190126/17561_95914737/1200k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=熱門網大.png tvg-name=熱門網大 group-title=綜合 , 熱門網大
+http://hls-ott-zhibo.wasu.tv/live/107_50459/index.m3u8
+#EXTINF:-1 tvg-logo=熱舞校花團0366.png tvg-name=熱舞校花團0366 group-title=綜合 , 熱舞校花團0366
+http://163.com-www-letv.com/20180503/152_3f1e5f3e/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=熱血機甲501.png tvg-name=熱血機甲501 group-title=綜合 , 熱血機甲501
+http://hls-ott-zhibo.wasu.tv/live/110_73153/index.m3u8
+#EXTINF:-1 tvg-logo=閃光少女0392.png tvg-name=閃光少女0392 group-title=綜合 , 閃光少女0392
+http://vip.okokbo.com/20171226/H124xH1Q/800kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo=上古神兵：覺醒0368.png tvg-name=上古神兵：覺醒0368 group-title=綜合 , 上古神兵：覺醒0368
+http://youku.cdn-tudou.com/20180514/5899_044d9b38/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=少林問道.png tvg-name=少林問道 group-title=綜合 , 少林問道
+http://hls-ott-zhibo.wasu.tv/live/160_87304/index.m3u8
+#EXTINF:-1 tvg-logo=少女密碼0377.png tvg-name=少女密碼0377 group-title=綜合 , 少女密碼0377
+http://163.com-www-letv.com/20180509/460_91add3b3/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=生人勿近之邪花粵語.png tvg-name=生人勿近之邪花粵語 group-title=綜合 , 生人勿近之邪花粵語
+http://eth.ppzuida.com/20180728/ans5gnFm/index.m3u8
+#EXTINF:-1 tvg-logo=生人勿近之邪花粵語.png tvg-name=生人勿近之邪花粵語 group-title=綜合 , 生人勿近之邪花粵語
+https://eth.ppzuida.com/20180728/ans5gnFm/index.m3u8
+#EXTINF:-1 tvg-logo=生如夏花.png tvg-name=生如夏花 group-title=綜合 , 生如夏花
+http://zuikzy.51moca.com/2018/09/05/7f16chP9dCukrOIa/playlist.m3u8
+#EXTINF:-1 tvg-logo=勝者為王0363.png tvg-name=勝者為王0363 group-title=綜合 , 勝者為王0363
+http://youku.cdn-tudou.com/20180418/5188_e861c3a0/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=殊死一戰.png tvg-name=殊死一戰 group-title=綜合 , 殊死一戰
+https://52dy.hanju2017.com/20170603/yCNAIFbh/hls/index.m3u8
+#EXTINF:-1 tvg-logo=贖罪2019.png tvg-name=贖罪2019 group-title=綜合 , 贖罪2019
+https://bobo.kukucdn.com/20190228/6730_45f9b8be/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=四川影視文藝.png tvg-name=四川影視文藝 group-title=綜合 , 四川影視文藝
+http://scgctvshow.sctv.com/hdlive/sctv5/3.m3u8
+#EXTINF:-1 tvg-logo=九畫面2.png tvg-name=九畫面2 group-title=綜合 , 九畫面2
+http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=020&Provider_id=&Pcontent_id=index.m3u8http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=020&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:-1 tvg-logo=碎心石0247.png tvg-name=碎心石0247 group-title=綜合 , 碎心石0247
+http://myun-hw-s3.myun.tv/melj80jz/lokkymg8/0exvopo5/lob9m385_1566657111011219662_480p.m3u8
+#EXTINF:-1 tvg-logo=她是他》.png tvg-name=她是他》 group-title=綜合 , 她是他》
+https://135zyv4.xw0371.com/2018/06/17/pkt5PdKnbeBRX3Kp/playlist.m3u8
+#EXTINF:-1 tvg-logo=太空巴迪.png tvg-name=太空巴迪 group-title=綜合 , 太空巴迪
+https://bobo.kukucdn.com/20190227/6587_bf2f102e/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=太想念0249.png tvg-name=太想念0249 group-title=綜合 , 太想念0249
+http://myun-hw-s3.myun.tv/melj80jz/lb7789kn/lnxogzo0/ln7k2p65_1566657109872292833_480p.m3u8
+#EXTINF:-1 tvg-logo=特種使命之綠色軍團0386.png tvg-name=特種使命之綠色軍團0386 group-title=綜合 , 特種使命之綠色軍團0386
+http://163.com-www-letv.com/20180502/99_cb111687/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=天降奇謀0367.png tvg-name=天降奇謀0367 group-title=綜合 , 天降奇謀0367
+http://163.com-www-letv.com/20180510/511_f9b15aef/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=天使之塵0414.png tvg-name=天使之塵0414 group-title=綜合 , 天使之塵0414
+http://vs1.baduziyuan.com/20180420/cLqdQ9zY/index.m3u8
+#EXTINF:-1 tvg-logo=天映經典(泰語).png tvg-name=天映經典(泰語) group-title=綜合 , 天映經典(泰語)
+http://119.59.125.74/stream/totnew.php?channel_id=1c2276a2f1884b269ce281c3334e8f85
+#EXTINF:-1 tvg-logo=天誅地滅.png tvg-name=天誅地滅 group-title=綜合 , 天誅地滅
+http://tudou.com-l-tudou.com/20190211/15938_aed1427d/index.m3u8
+#EXTINF:-1 tvg-logo=天誅地滅.png tvg-name=天誅地滅 group-title=綜合 , 天誅地滅
+https://tudou.com-l-tudou.com/20190211/15938_aed1427d/index.m3u8
+#EXTINF:-1 tvg-logo=透明情人0373.png tvg-name=透明情人0373 group-title=綜合 , 透明情人0373
+http://youku.cdn-tudou.com/20180512/5877_632580cd/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=兔子牙翻唱的這些歌曲真是好聽.png tvg-name=兔子牙翻唱的這些歌曲真是好聽 group-title=綜合 , 兔子牙翻唱的這些歌曲真是好聽
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-logo=脫膷koGold.png tvg-name=脫膷koGold group-title=綜合 , 脫膷koGold
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-logo=脫膷ko.png tvg-name=脫膷ko group-title=綜合 , 脫膷ko
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
+#EXTINF:-1 tvg-logo=脫膷ko.png tvg-name=脫膷ko group-title=綜合 , 脫膷ko
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-logo=萬愛千恩0243.png tvg-name=萬愛千恩0243 group-title=綜合 , 萬愛千恩0243
+http://myun-hw-s3.myun.tv/melj80jz/0ezz8po1/54z3xekl/562693p0_1566657009307206836_480p.m3u8
+#EXTINF:-1 tvg-logo=為情所傷0246.png tvg-name=為情所傷0246 group-title=綜合 , 為情所傷0246
+http://myun-hw-s3.myun.tv/melj80jz/5vjjkgj1/l7x6zgr5/5zaemom0_1566657042208354137_480p.m3u8
+#EXTINF:-1 tvg-logo=衛視卡台.png tvg-name=衛視卡台 group-title=綜合 , 衛視卡台
+http://119.59.125.74/stream/totnew.php?channel_id=c8233976dbba4a06a101780907447375
+#EXTINF:-1 tvg-logo=蝸牛為了一顆白菜.png tvg-name=蝸牛為了一顆白菜 group-title=綜合 , 蝸牛為了一顆白菜
+http://zuikzy.win7i.com/2018/07/10/FD2KhGi7xEzClPR9/playlist.m3u8
+#EXTINF:-1 tvg-logo=我不是藥神0359.png tvg-name=我不是藥神0359 group-title=綜合 , 我不是藥神0359
+http://youku.cdn2-youku.com/20180710/12991_efbabf56/index.m3u8
+#EXTINF:-1 tvg-logo=我的世界.png tvg-name=我的世界 group-title=綜合 , 我的世界
+http://hls-ott-zhibo.wasu.tv/live/249/index.m3u8
+#EXTINF:-1 tvg-logo=我是你媽.png tvg-name=我是你媽 group-title=綜合 , 我是你媽
+http://youku.cdn-tudou.com/20180612/6361_e5847fe9/index.m3u8
+#EXTINF:-1 tvg-logo=我是你媽.png tvg-name=我是你媽 group-title=綜合 , 我是你媽
+https://youku.cdn-tudou.com/20180612/6361_e5847fe9/index.m3u8
+#EXTINF:-1 tvg-logo=西北風雲0372.png tvg-name=西北風雲0372 group-title=綜合 , 西北風雲0372
+http://youku.cdn1-letv.com/20180507/10667_ad44cc37/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=西部電影高清.png tvg-name=西部電影高清 group-title=綜合 , 西部電影高清
+http://124.47.33.203/PLTV/88888888/224/3221225536/index.m3u8
+#EXTINF:-1 tvg-logo=西部電影頻道.png tvg-name=西部電影頻道 group-title=綜合 , 西部電影頻道
+http://124.47.33.209:80/PLTV/88888888/224/3221225536/index.m3u8
+#EXTINF:-1 tvg-logo=西虹市首富.png tvg-name=西虹市首富 group-title=綜合 , 西虹市首富
+http://zuikzy.win7i.com/2018/07/30/hCt7GSGU1sAgOC8j/playlist.m3u8
+#EXTINF:-1 tvg-logo=西遊記女兒國0391.png tvg-name=西遊記女兒國0391 group-title=綜合 , 西遊記女兒國0391
+http://youku.com-youku.com/20180315/ukzED7xC/900kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo=戲劇曲藝.png tvg-name=戲劇曲藝 group-title=綜合 , 戲劇曲藝
+http://hls-ott-zhibo.wasu.tv/live/138_31073/index.m3u8
+#EXTINF:-1 tvg-logo=系列驚悚片Friday-the-13th(黑色星期五)2.png tvg-name=系列驚悚片Friday-the-13th(黑色星期五)2 group-title=綜合 , 系列驚悚片Friday-the-13th(黑色星期五)2
+http://vip888.kuyun99.com/20180824/WJB07qKa/index.m3u8
+#EXTINF:-1 tvg-logo=系列驚悚片Friday-the-13th(黑色星期五)3.png tvg-name=系列驚悚片Friday-the-13th(黑色星期五)3 group-title=綜合 , 系列驚悚片Friday-the-13th(黑色星期五)3
+http://vip888.kuyun99.com/20180824/RgoY6gc7/index.m3u8
+#EXTINF:-1 tvg-logo=系列驚悚片Friday-the-13th(黑色星期五)4.png tvg-name=系列驚悚片Friday-the-13th(黑色星期五)4 group-title=綜合 , 系列驚悚片Friday-the-13th(黑色星期五)4
+http://vip888.kuyun99.com/20180824/GaQcPLdG/index.m3u8
+#EXTINF:-1 tvg-logo=系列驚悚片Friday-the-13th(黑色星期五)5.png tvg-name=系列驚悚片Friday-the-13th(黑色星期五)5 group-title=綜合 , 系列驚悚片Friday-the-13th(黑色星期五)5
+http://vip888.kuyun99.com/20180824/HjxbFCCd/index.m3u8
+#EXTINF:-1 tvg-logo=系列驚悚片Friday-the-13th(黑色星期五)6.png tvg-name=系列驚悚片Friday-the-13th(黑色星期五)6 group-title=綜合 , 系列驚悚片Friday-the-13th(黑色星期五)6
+http://vip888.kuyun99.com/20180824/dsejI0LI/index.m3u8
+#EXTINF:-1 tvg-logo=系列驚悚片Friday-the-13th(黑色星期五)7.png tvg-name=系列驚悚片Friday-the-13th(黑色星期五)7 group-title=綜合 , 系列驚悚片Friday-the-13th(黑色星期五)7
+http://vip888.kuyun99.com/20180824/MMrikhSZ/index.m3u8
+#EXTINF:-1 tvg-logo=俠魔志0398.png tvg-name=俠魔志0398 group-title=綜合 , 俠魔志0398
+http://youku.cdn2-youku.com/20180428/10989_9caa359d/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=峽谷重案組.png tvg-name=峽谷重案組 group-title=綜合 , 峽谷重案組
+http://hls-ott-zhibo.wasu.tv/live/175/index.m3u8
+#EXTINF:-1 tvg-logo=香港大營救0379.png tvg-name=香港大營救0379 group-title=綜合 , 香港大營救0379
+http://163.com-www-letv.com/20180504/161_b7b73adf/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=九畫面3.png tvg-name=九畫面3 group-title=綜合 , 九畫面3
+http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=027&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:-1 tvg-logo=想念媽媽0244.png tvg-name=想念媽媽0244 group-title=綜合 , 想念媽媽0244
+http://myun-hw-s3.myun.tv/melj80jz/5a33xk2n/loxn1mkl/lg218oo0_1566657095901289508_480p.m3u8
+#EXTINF:-1 tvg-logo=小褌褉邪薪邪FM.png tvg-name=小褌褉邪薪邪FM group-title=綜合 , 小褌褉邪薪邪FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo=小馬寶莉499.png tvg-name=小馬寶莉499 group-title=綜合 , 小馬寶莉499
+http://hls-ott-zhibo.wasu.tv/live/113_75645/index.m3u8
+#EXTINF:-1 tvg-logo=小偷家族.png tvg-name=小偷家族 group-title=綜合 , 小偷家族
+http://zuikzy.win7i.com/2018/08/15/c2RACfYQjmursypW/playlist.m3u8
+#EXTINF:-1 tvg-logo=笑澳江湖0376.png tvg-name=笑澳江湖0376 group-title=綜合 , 笑澳江湖0376
+http://163.com-www-letv.com/20180510/512_5b3c473a/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=楔邪薪褋芯薪-孝袙.png tvg-name=楔邪薪褋芯薪-孝袙 group-title=綜合 , 楔邪薪褋芯薪-孝袙
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo=楔邪薪褋芯薪-孝袙.png tvg-name=楔邪薪褋芯薪-孝袙 group-title=綜合 , 楔邪薪褋芯薪-孝袙
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=楔邪薪褋芯薪-孝袙.png tvg-name=楔邪薪褋芯薪-孝袙 group-title=綜合 , 楔邪薪褋芯薪-孝袙
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo=楔邪薪褋芯薪-孝袙.png tvg-name=楔邪薪褋芯薪-孝袙 group-title=綜合 , 楔邪薪褋芯薪-孝袙
+https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/chunklist_b1996000.m3u8?hls_proxy_host=pub1.rtmp.s01.l.shansontv
+#EXTINF:-1 tvg-logo=邪不壓正.png tvg-name=邪不壓正 group-title=綜合 , 邪不壓正
+http://zuikzy.51moca.com/2018/08/24/0RxUys9rxMVnbRZN/playlist.m3u8
+#EXTINF:-1 tvg-logo=洩密者.png tvg-name=洩密者 group-title=綜合 , 洩密者
+http://zuikzy.win7i.com/2018/07/18/iNEaVy8HlM7ADJSQ/playlist.m3u8
+#EXTINF:-1 tvg-logo=新烏龍院之笑鬧江湖.png tvg-name=新烏龍院之笑鬧江湖 group-title=綜合 , 新烏龍院之笑鬧江湖
+http://zuikzy.51moca.com/2018/09/09/IJZeVjIQVxdRmzig/playlist.m3u8
+#EXTINF:-1 tvg-logo=徐老師來巡山.png tvg-name=徐老師來巡山 group-title=綜合 , 徐老師來巡山
+http://hls-ott-zhibo.wasu.tv/live/142/index.m3u8
+#EXTINF:-1 tvg-logo=炫動卡通.png tvg-name=炫動卡通 group-title=綜合 , 炫動卡通
+http://117.169.72.6:8080/ysten-businessmobile/live/xuandongkaton/1.m3u8
+#EXTINF:-1 tvg-logo=學警雄心.png tvg-name=學警雄心 group-title=綜合 , 學警雄心
+http://hls-ott-zhibo.wasu.tv/live/97_68611/index.m3u8
+#EXTINF:-1 tvg-logo=亞洲影院.png tvg-name=亞洲影院 group-title=綜合 , 亞洲影院
+http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IAShttpessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
+#EXTINF:-1 tvg-logo=煙台影視.png tvg-name=煙台影視 group-title=綜合 , 煙台影視
+http://live.zhyantai.com/yttv3/playlist.m3u8
+#EXTINF:-1 tvg-logo=一部讓人心塞的短片.png tvg-name=一部讓人心塞的短片 group-title=綜合 , 一部讓人心塞的短片
+http://zuikzy.win7i.com/2018/08/11/Rq2pZ2KvkHBqugc2/playlist.m3u8
+#EXTINF:-1 tvg-logo=一拳超人.png tvg-name=一拳超人 group-title=綜合 , 一拳超人
+http://163.com-www-letv.com/20180507/284_43808cff/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=遺願清單0406.png tvg-name=遺願清單0406 group-title=綜合 , 遺願清單0406
+http://vip.okokbo.com/20171214/FTDigWJ1/800kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo=蟻人2：黃蜂女現身.png tvg-name=蟻人2：黃蜂女現身 group-title=綜合 , 蟻人2：黃蜂女現身
+http://zuikzy.51moca.com/2018/08/29/ObidbPeTg5W3BfD7/playlist.m3u8
+#EXTINF:-1 tvg-logo=易經密碼0400.png tvg-name=易經密碼0400 group-title=綜合 , 易經密碼0400
+http://youku.cdn2-youku.com/20180424/10731_092f11f8/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=音樂MV.png tvg-name=音樂MV group-title=綜合 , 音樂MV
+http://hls-ott-zhibo.wasu.tv/live/135/index.m3u8
+#EXTINF:-1 tvg-logo=銀翼殺手2049.png tvg-name=銀翼殺手2049 group-title=綜合 , 銀翼殺手2049
+https://baiduyuan.veryys.com/20171226/tPx0m0Hd/1200kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo=影視劇頻道.png tvg-name=影視劇頻道 group-title=綜合 , 影視劇頻道
+http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227372/index.m3u8
+#EXTINF:-1 tvg-logo=勇者無畏.png tvg-name=勇者無畏 group-title=綜合 , 勇者無畏
+https://boba.52kuyun.com/20180427/FytNXZrS/index.m3u8
+#EXTINF:-1 tvg-logo=有象視頻HD.png tvg-name=有象視頻HD group-title=綜合 , 有象視頻HD
+http://hls-ott-zhibo.wasu.tv/live/301/index.m3u8
+#EXTINF:-1 tvg-logo=御姐嬌妻0413.png tvg-name=御姐嬌妻0413 group-title=綜合 , 御姐嬌妻0413
+http://vs1.baduziyuan.com/20180425/V9MprsI1/index.m3u8
+#EXTINF:-1 tvg-logo=御貓展昭0383.png tvg-name=御貓展昭0383 group-title=綜合 , 御貓展昭0383
+http://163.com-www-letv.com/20180507/287_1d4552d6/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=張藝謀導演《影》高清版本資源.png tvg-name=張藝謀導演《影》高清版本資源 group-title=綜合 , 張藝謀導演《影》高清版本資源
+http://tudou.com-l-tudou.com/20181129/14668_3c425f2e/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=張藝謀導演《影》高清版本資源.png tvg-name=張藝謀導演《影》高清版本資源 group-title=綜合 , 張藝謀導演《影》高清版本資源
+https://tudou.com-l-tudou.com/20181129/14668_3c425f2e/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=政論雙雄.png tvg-name=政論雙雄 group-title=綜合 , 政論雙雄
+https://boba.52kuyun.com/20190219/20154_30ba359a/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=致命守護者.png tvg-name=致命守護者 group-title=綜合 , 致命守護者
+https://bobo.kukucdn.com/20190109/3713_6aec5536/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=中國好聲音.png tvg-name=中國好聲音 group-title=綜合 , 中國好聲音
+http://hls-ott-zhibo.wasu.tv/live/117_87549/index.m3u8
+#EXTINF:-1 tvg-logo=中國藍晚會.png tvg-name=中國藍晚會 group-title=綜合 , 中國藍晚會
+http://hls-ott-zhibo.wasu.tv/live/123_31665/index.m3u8
+#EXTINF:-1 tvg-logo=中國新歌聲.png tvg-name=中國新歌聲 group-title=綜合 , 中國新歌聲
+http://hls-ott-zhibo.wasu.tv/live/118_16379/index.m3u8
+#EXTINF:-1 tvg-logo=珠江電影標清.png tvg-name=珠江電影標清 group-title=綜合 , 珠江電影標清
+http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=7&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 tvg-logo=專欄報道.png tvg-name=專欄報道 group-title=綜合 , 專欄報道
+http://hls-ott-zhibo.wasu.tv/live/155_57138/index.m3u8
+#EXTINF:-1 tvg-logo=自然世界.png tvg-name=自然世界 group-title=綜合 , 自然世界
+http://hls-ott-zhibo.wasu.tv/live/128/index.m3u8
+#EXTINF:-1 tvg-logo=香港佛陀教育[640*360].png tvg-name=香港佛陀教育[640*360] group-title=綜合 , 香港佛陀教育[640*360]
+http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist_w891345404.m3u8
+#EXTINF:-1 tvg-logo=香港佛陀教育[640*360].png tvg-name=香港佛陀教育[640*360] group-title=綜合 , 香港佛陀教育[640*360]
+http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
+#EXTINF:-1 tvg-logo=香港衛視[854*480].png tvg-name=香港衛視[854*480] group-title=綜合 , 香港衛視[854*480]
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1940367113.m3u8
+#EXTINF:-1 tvg-logo=中國天氣[768*576].png tvg-name=中國天氣[768*576] group-title=綜合 , 中國天氣[768*576]
+http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227438/index.m3u8
+#EXTINF:-1 tvg-logo=三立新聞[854*480].png tvg-name=三立新聞[854*480] group-title=綜合 , 三立新聞[854*480]
+http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
+#EXTINF:-1 tvg-logo=WFCTV[1024*576].png tvg-name=WFCTV[1024*576] group-title=綜合 , WFCTV[1024*576]
+http://wfc.bonus-tv.ru/cdn/wfcrus/index.m3u8
+#EXTINF:-1 tvg-logo=WFCHD[1920*1080].png tvg-name=WFCHD[1920*1080] group-title=綜合 , WFCHD[1920*1080]
+http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo=VISIT-XTV.png tvg-name=VISIT-XTV group-title=綜合 , VISIT-XTV
+http://stream.visit-x.tv/vxtv/live/chunklist_w1769846509.m3u8
+#EXTINF:-1 tvg-logo=VISIT-XTV.png tvg-name=VISIT-XTV group-title=綜合 , VISIT-XTV
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo=VISIT-XTVHD.png tvg-name=VISIT-XTVHD group-title=綜合 , VISIT-XTVHD
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo=MiamiTVHD.png tvg-name=MiamiTVHD group-title=綜合 , MiamiTVHD
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w674207730_b2592000.m3u8
+#EXTINF:-1 tvg-logo=Visit-xTV.png tvg-name=Visit-xTV group-title=綜合 , Visit-xTV
+http://stream.visit-x.tv:1935/vxtv/live_720p/chunklist_w2095600845.m3u8
+#EXTINF:-1 tvg-logo=M2OTVHD.png tvg-name=M2OTVHD group-title=綜合 , M2OTVHD
+http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1 tvg-logo=MusicTop(ARG)HD.png tvg-name=MusicTop(ARG)HD group-title=綜合 , MusicTop(ARG)HD
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 tvg-logo=MUSICTOPHD.png tvg-name=MUSICTOPHD group-title=綜合 , MUSICTOPHD
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 tvg-logo=V2BEAT.png tvg-name=V2BEAT group-title=綜合 , V2BEAT
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-logo=EBSi[300*200].png tvg-name=EBSi[300*200] group-title=綜合 , EBSi[300*200]
+http://ebs.co.kr/common/swf/onair_player.swf?A=true&V=
+#EXTINF:-1 tvg-logo=探索世界[1280*720].png tvg-name=探索世界[1280*720] group-title=綜合 , 探索世界[1280*720]
+http://122.155.180.8:5021/live/440
+#EXTINF:-1 tvg-logo=探索頻道[1280*720].png tvg-name=探索頻道[1280*720] group-title=綜合 , 探索頻道[1280*720]
+http://122.155.180.8:5021/live/497
+#EXTINF:-1 tvg-logo=俄羅斯紅線TV[853*480].png tvg-name=俄羅斯紅線TV[853*480] group-title=綜合 , 俄羅斯紅線TV[853*480]
+http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
+#EXTINF:-1 tvg-logo=清華大學電視台[1920*1080].png tvg-name=清華大學電視台[1920*1080] group-title=綜合 , 清華大學電視台[1920*1080]
+http://v.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
+#EXTINF:-1 tvg-logo=農業農村[1024*576].png tvg-name=農業農村[1024*576] group-title=綜合 , 農業農村[1024*576]
+http://live6.plus.hebtv.com/cctv7/sd/live.m3u8
+#EXTINF:-1 tvg-logo=卡通[853*480].png tvg-name=卡通[853*480] group-title=綜合 , 卡通[853*480]
+https://mysisli.com/36bay2/gin/giniko_trt4cocuk_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=13[853*480].png tvg-name=13[853*480] group-title=綜合 , 13[853*480]
+http://mysisli.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=三立新聞[854*480].png tvg-name=三立新聞[854*480] group-title=綜合 , 三立新聞[854*480]
+http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8
+#EXTINF:-1 tvg-logo=CGTN[1024*576].png tvg-name=CGTN[1024*576] group-title=綜合 , CGTN[1024*576]
+http://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 tvg-logo=CGTN[1280*720].png tvg-name=CGTN[1280*720] group-title=綜合 , CGTN[1280*720]
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/chunklist_w1853770763.m3u8
+#EXTINF:-1 tvg-logo=CHC家庭影院[1920*1080].png tvg-name=CHC家庭影院[1920*1080] group-title=綜合 , CHC家庭影院[1920*1080]
+http://61.161.250.44:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=24&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:-1 tvg-logo=KBSLIVEDokdo[960*540].png tvg-name=KBSLIVEDokdo[960*540] group-title=綜合 , KBSLIVEDokdo[960*540]
+http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=SkyNews[960*540].png tvg-name=SkyNews[960*540] group-title=綜合 , SkyNews[960*540]
+http://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master960x540.m3u8
+#EXTINF:-1 tvg-logo=廣元影視[720*576].png tvg-name=廣元影視[720*576] group-title=綜合 , 廣元影視[720*576]
+http://3g.dzsm.com/streamer/gy01.m3u8
+#EXTINF:-1 tvg-logo=皇馬足球[720*404].png tvg-name=皇馬足球[720*404] group-title=綜合 , 皇馬足球[720*404]
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1 tvg-logo=京視劇場[1047*576].png tvg-name=京視劇場[1047*576] group-title=綜合 , 京視劇場[1047*576]
+http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227040/index.m3u8
+#EXTINF:-1 tvg-logo=金鷹卡通[1047*576].png tvg-name=金鷹卡通[1047*576] group-title=綜合 , 金鷹卡通[1047*576]
+http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
+#EXTINF:-1 tvg-logo=睛彩重慶[640*480].png tvg-name=睛彩重慶[640*480] group-title=綜合 , 睛彩重慶[640*480]
+http://219.153.252.50/PLTV/88888888/224/3221225635/chunklist.m3u8
+#EXTINF:-1 tvg-logo=優漫卡通[768*576].png tvg-name=優漫卡通[768*576] group-title=綜合 , 優漫卡通[768*576]
+http://223.110.243.171/PLTV/3/224/3221226982/index.m3u8
+#EXTINF:-1 tvg-logo=天映經典[1280*720].png tvg-name=天映經典[1280*720] group-title=綜合 , 天映經典[1280*720]
+http://iliketot.dyndns.tv/1c2276a2f1884b269ce281c3334e8f85.m3u8
+#EXTINF:-1 tvg-logo=野生動物HD[1280*720].png tvg-name=野生動物HD[1280*720] group-title=綜合 , 野生動物HD[1280*720]
+http://iliketot.dyndns.tv/607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8
+#EXTINF:-1 tvg-logo=玉普團3[1080*598].png tvg-name=玉普團3[1080*598] group-title=綜合 , 玉普團3[1080*598]
+http://yun.zxziyuan-yun.com/20180127/bdQFIeoH/index.m3u8
+#EXTINF:-1 tvg-logo=魔國志2[1080*606][1080*606].png tvg-name=魔國志2[1080*606][1080*606] group-title=綜合 , 魔國志2[1080*606][1080*606]
+http://youku.cdn1-letv.com/20180407/9253_cea43377/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo=黑莓電影.png tvg-name=黑莓電影 group-title=綜合 , 黑莓電影
+http://121.31.30.91:8081/ysten-business/live/jdianying/1.m3u8
+#EXTINF:-1 tvg-logo=黑莓電競.png tvg-name=黑莓電競 group-title=綜合 , 黑莓電競
+http://121.31.30.91:8081/ysten-business/live/wmyx/1.m3u8
+#EXTINF:-1 tvg-logo=中國功夫.png tvg-name=中國功夫 group-title=綜合 , 中國功夫
+http://112.50.243.8/PLTV/88888888/224/3221225896/1.m3u8
+#EXTINF:-1 tvg-logo=金牌綜藝.png tvg-name=金牌綜藝 group-title=綜合 , 金牌綜藝
+http://121.31.30.91:8081/ysten-business/live/saishijx/1.m3u8
+#EXTINF:-1 tvg-logo=金牌綜藝.png tvg-name=金牌綜藝 group-title=綜合 , 金牌綜藝
+http://112.50.243.8/PLTV/88888888/224/3221225884/1.m3u8
+#EXTINF:-1 tvg-logo=農業致富.png tvg-name=農業致富 group-title=綜合 , 農業致富
+http://121.31.30.91:8081/ysten-business/live/nongyezf/1.m3u8
+#EXTINF:-1 tvg-logo=明星大片.png tvg-name=明星大片 group-title=綜合 , 明星大片
+http://121.31.30.91:8081/ysten-business/live/mingxingdp/1.m3u8
+#EXTINF:-1 tvg-logo=驚悚懸疑.png tvg-name=驚悚懸疑 group-title=綜合 , 驚悚懸疑
+http://121.31.30.91:8081/ysten-business/live/jingsongxy/1.m3u8
+#EXTINF:-1 tvg-logo=驚悚懸疑.png tvg-name=驚悚懸疑 group-title=綜合 , 驚悚懸疑
+http://112.50.243.8/PLTV/88888888/224/3221225885/1.m3u8
+#EXTINF:-1 tvg-logo=精品記錄.png tvg-name=精品記錄 group-title=綜合 , 精品記錄
+http://121.31.30.91:8081/ysten-business/live/jingpinjl/1.m3u8
+#EXTINF:-1 tvg-logo=精品記錄.png tvg-name=精品記錄 group-title=綜合 , 精品記錄
+http://112.50.243.8/PLTV/88888888/224/3221225888/1.m3u8
+#EXTINF:-1 tvg-logo=精品體育.png tvg-name=精品體育 group-title=綜合 , 精品體育
+http://112.50.243.8/PLTV/88888888/224/3221225925/1.m3u8
+#EXTINF:-1 tvg-logo=精品體育.png tvg-name=精品體育 group-title=綜合 , 精品體育
+http://112.50.243.8/PLTV/88888888/224/3221225803/1.m3u8
+#EXTINF:-1 tvg-logo=精品體育.png tvg-name=精品體育 group-title=綜合 , 精品體育
+http://121.31.30.91:8081/ysten-business/live/jtiyu/1.m3u8http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225957/1.m3u8
+#EXTINF:-1 tvg-logo=自由搏擊.png tvg-name=自由搏擊 group-title=綜合 , 自由搏擊
+http://121.31.30.91:8081/ysten-business/live/SD-1500k-576P-bokesen/1.m3u8
+#EXTINF:-1 tvg-logo=自由搏擊.png tvg-name=自由搏擊 group-title=綜合 , 自由搏擊
+http://112.50.243.8/PLTV/88888888/224/3221225895/1.m3u8
+#EXTINF:-1 tvg-logo=精品大劇.png tvg-name=精品大劇 group-title=綜合 , 精品大劇
+http://121.31.30.91:8081/ysten-business/live/jdaju/1.m3u8
+#EXTINF:-1 tvg-logo=精品大劇.png tvg-name=精品大劇 group-title=綜合 , 精品大劇
+http://112.50.243.8/PLTV/88888888/224/3221225889/1.m3u8
+#EXTINF:-1 tvg-logo=家庭劇場.png tvg-name=家庭劇場 group-title=綜合 , 家庭劇場
+http://121.31.30.91:8081/ysten-business/live/jiatingjc/1.m3u8
+#EXTINF:-1 tvg-logo=家庭劇場.png tvg-name=家庭劇場 group-title=綜合 , 家庭劇場
+http://112.50.243.8/PLTV/88888888/224/3221225882/1.m3u8
+#EXTINF:-1 tvg-logo=動作電影.png tvg-name=動作電影 group-title=綜合 , 動作電影
+http://121.31.30.91:8081/ysten-business/live/dongzuody/1.m3u8
+#EXTINF:-1 tvg-logo=動作電影.png tvg-name=動作電影 group-title=綜合 , 動作電影
+http://112.50.243.8/PLTV/88888888/224/3221225879/1.m3u8
+#EXTINF:-1 tvg-logo=古裝劇場.png tvg-name=古裝劇場 group-title=綜合 , 古裝劇場
+http://112.50.243.8/PLTV/88888888/224/3221225880/1.m3u8
+#EXTINF:-1 tvg-logo=軍旅劇場.png tvg-name=軍旅劇場 group-title=綜合 , 軍旅劇場
+http://121.31.30.91:8081/ysten-business/live/junlvjc/1.m3u8
+#EXTINF:-1 tvg-logo=軍旅劇場.png tvg-name=軍旅劇場 group-title=綜合 , 軍旅劇場
+http://112.50.243.8/PLTV/88888888/224/3221225887/1.m3u8
+#EXTINF:-1 tvg-logo=軍事評論.png tvg-name=軍事評論 group-title=綜合 , 軍事評論
+http://121.31.30.91:8081/ysten-business/live/junshipl/1.m3u8
+#EXTINF:-1 tvg-logo=軍事評論.png tvg-name=軍事評論 group-title=綜合 , 軍事評論
+http://112.50.243.8/PLTV/88888888/224/3221225890/1.m3u8
+#EXTINF:-1 tvg-logo=健康有約.png tvg-name=健康有約 group-title=綜合 , 健康有約
+http://121.31.30.91:8081/ysten-business/live/ljiankangyouyue/1.m3u8
+#EXTINF:-1 tvg-logo=健康有約.png tvg-name=健康有約 group-title=綜合 , 健康有約
+http://112.50.243.8/PLTV/88888888/224/3221225883/1.m3u8
+#EXTINF:-1 tvg-logo=超級電影.png tvg-name=超級電影 group-title=綜合 , 超級電影
+http://112.50.243.8/PLTV/88888888/224/3221225804/1.m3u8
+#EXTINF:-1 tvg-logo=超級電影.png tvg-name=超級電影 group-title=綜合 , 超級電影
+http://112.50.243.8/PLTV/88888888/224/3221225926/1.m3u8
+#EXTINF:-1 tvg-logo=超級綜藝.png tvg-name=超級綜藝 group-title=綜合 , 超級綜藝
+http://112.50.243.8/PLTV/88888888/224/3221225924/1.m3u8
+#EXTINF:-1 tvg-logo=超級綜藝.png tvg-name=超級綜藝 group-title=綜合 , 超級綜藝
+http://112.50.243.8/PLTV/88888888/224/3221225801/1.m3u8
+#EXTINF:-1 tvg-logo=超級電視劇.png tvg-name=超級電視劇 group-title=綜合 , 超級電視劇
+http://112.50.243.8/PLTV/88888888/224/3221225928/1.m3u8
+#EXTINF:-1 tvg-logo=超級電視劇.png tvg-name=超級電視劇 group-title=綜合 , 超級電視劇
+http://112.50.243.8/PLTV/88888888/224/3221225806/1.m3u8
+#EXTINF:-1 tvg-logo=CIBN綜合.png tvg-name=CIBN綜合 group-title=綜合 , CIBN綜合
+http://v.iam7.cn/iptv/cibn.php?code=DianJing
+#EXTINF:-1 tvg-logo=CIBN電影.png tvg-name=CIBN電影 group-title=綜合 , CIBN電影
+http://v.iam7.cn/iptv/cibn.php?code=DianYing
+#EXTINF:-1 tvg-logo=CIBN嗨播.png tvg-name=CIBN嗨播 group-title=綜合 , CIBN嗨播
+http://v.iam7.cn/iptv/cibn.php?code=LvYou
+#EXTINF:-1 tvg-logo=CIBN軍事.png tvg-name=CIBN軍事 group-title=綜合 , CIBN軍事
+http://v.iam7.cn/iptv/cibn.php?code=YinYue
+#EXTINF:-1 tvg-logo=CIBN生活.png tvg-name=CIBN生活 group-title=綜合 , CIBN生活
+http://v.iam7.cn/iptv/cibn.php?code=YouXi
+#EXTINF:-1 tvg-logo=CIBN新知.png tvg-name=CIBN新知 group-title=綜合 , CIBN新知
+http://v.iam7.cn/iptv/cibn.php?code=FengShang
+#EXTINF:-1 tvg-logo=CIBN映畫.png tvg-name=CIBN映畫 group-title=綜合 , CIBN映畫
+http://v.iam7.cn/iptv/cibn.php?code=TiYu
+#EXTINF:-1 tvg-logo=CIBN好物.png tvg-name=CIBN好物 group-title=綜合 , CIBN好物
+http://v.iam7.cn/iptv/cibn.php?code=178
+#EXTINF:-1 tvg-logo=CIBN好萊塢.png tvg-name=CIBN好萊塢 group-title=綜合 , CIBN好萊塢
+http://v.iam7.cn/iptv/cibn.php?code=ZongHe
+#EXTINF:-1 tvg-logo=CIBN微電影.png tvg-name=CIBN微電影 group-title=綜合 , CIBN微電影
+http://v.iam7.cn/iptv/cibn.php?code=WeiDianYing
+#EXTINF:-1 tvg-logo=CIBN紀錄片.png tvg-name=CIBN紀錄片 group-title=綜合 , CIBN紀錄片
+http://v.iam7.cn/iptv/cibn.php?code=JiLuPian
+#EXTINF:-1 tvg-logo=CIBN真人秀.png tvg-name=CIBN真人秀 group-title=綜合 , CIBN真人秀
+http://v.iam7.cn/iptv/cibn.php?code=LuShi
+#EXTINF:-1 tvg-logo=CIBN全電競.png tvg-name=CIBN全電競 group-title=綜合 , CIBN全電競
+http://v.iam7.cn/iptv/cibn.php?code=115
+#EXTINF:-1 tvg-logo=CIBN院線大片.png tvg-name=CIBN院線大片 group-title=綜合 , CIBN院線大片
+http://v.iam7.cn/iptv/cibn.php?code=DanJi
+#EXTINF:-1 tvg-logo=CIBN精品影院.png tvg-name=CIBN精品影院 group-title=綜合 , CIBN精品影院
+http://v.iam7.cn/iptv/cibn.php?code=JingPin
+#EXTINF:-1 tvg-logo=CIBN流金歲月.png tvg-name=CIBN流金歲月 group-title=綜合 , CIBN流金歲月
+http://v.iam7.cn/iptv/cibn.php?code=Shoucang
+#EXTINF:-1 tvg-logo=CIBN情感影院.png tvg-name=CIBN情感影院 group-title=綜合 , CIBN情感影院
+http://v.iam7.cn/iptv/cibn.php?code=QingGan
+#EXTINF:-1 tvg-logo=CIBN喜劇影院.png tvg-name=CIBN喜劇影院 group-title=綜合 , CIBN喜劇影院
+http://v.iam7.cn/iptv/cibn.php?code=TongBu
+#EXTINF:-1 tvg-logo=CIBN古裝劇場.png tvg-name=CIBN古裝劇場 group-title=綜合 , CIBN古裝劇場
+http://v.iam7.cn/iptv/cibn.php?code=ZongYi
+#EXTINF:-1 tvg-logo=CIBN驕陽劇場.png tvg-name=CIBN驕陽劇場 group-title=綜合 , CIBN驕陽劇場
+http://v.iam7.cn/iptv/cibn.php?code=JingDian
+#EXTINF:-1 tvg-logo=CIBN炫佳動漫.png tvg-name=CIBN炫佳動漫 group-title=綜合 , CIBN炫佳動漫
+http://v.iam7.cn/iptv/cibn.php?code=DongMan
+#EXTINF:-1 tvg-logo=CIBN童學世界.png tvg-name=CIBN童學世界 group-title=綜合 , CIBN童學世界
+http://v.iam7.cn/iptv/cibn.php?code=ReBo
+#EXTINF:-1 tvg-logo=CIBN藝術院線.png tvg-name=CIBN藝術院線 group-title=綜合 , CIBN藝術院線
+http://v.iam7.cn/iptv/cibn.php?code=YingXiong
+#EXTINF:-1 tvg-logo=CIBN風尚運動.png tvg-name=CIBN風尚運動 group-title=綜合 , CIBN風尚運動
+http://v.iam7.cn/iptv/cibn.php?code=DuShi
+#EXTINF:-1 tvg-logo=CIBN文旅中國.png tvg-name=CIBN文旅中國 group-title=綜合 , CIBN文旅中國
+http://v.iam7.cn/iptv/cibn.php?code=MeiZhuang
+#EXTINF:-1 tvg-logo=CIBN時尚生活.png tvg-name=CIBN時尚生活 group-title=綜合 , CIBN時尚生活
+http://v.iam7.cn/iptv/cibn.php?code=DongLinFaYin
+#EXTINF:-1 tvg-logo=CIBN經典劇場.png tvg-name=CIBN經典劇場 group-title=綜合 , CIBN經典劇場
+http://v.iam7.cn/iptv/cibn.php?code=DOTA2
+#EXTINF:-1 tvg-logo=CIBN動作影院.png tvg-name=CIBN動作影院 group-title=綜合 , CIBN動作影院
+http://v.iam7.cn/iptv/cibn.php?code=ShengHuo
+#EXTINF:-1 tvg-logo=CIBN品質生活.png tvg-name=CIBN品質生活 group-title=綜合 , CIBN品質生活
+http://v.iam7.cn/iptv/cibn.php?code=1
+#EXTINF:-1 tvg-logo=CIBN動漫劇場.png tvg-name=CIBN動漫劇場 group-title=綜合 , CIBN動漫劇場
+http://v.iam7.cn/iptv/cibn.php?code=QinZi
+#EXTINF:-1 tvg-logo=CIBN家居用品.png tvg-name=CIBN家居用品 group-title=綜合 , CIBN家居用品
+http://v.iam7.cn/iptv/cibn.php?code=jiayougouwu
+#EXTINF:-1 tvg-logo=CIBN精品收藏.png tvg-name=CIBN精品收藏 group-title=綜合 , CIBN精品收藏
+http://v.iam7.cn/iptv/cibn.php?code=501
+#EXTINF:-1 tvg-logo=CIBN低價秒殺.png tvg-name=CIBN低價秒殺 group-title=綜合 , CIBN低價秒殺
+http://v.iam7.cn/iptv/cibn.php?code=300
+#EXTINF:-1 tvg-logo=CIBN家裝精選.png tvg-name=CIBN家裝精選 group-title=綜合 , CIBN家裝精選
+http://v.iam7.cn/iptv/cibn.php?code=301
+#EXTINF:-1 tvg-logo=CIBN美食廚房.png tvg-name=CIBN美食廚房 group-title=綜合 , CIBN美食廚房
+http://v.iam7.cn/iptv/cibn.php?code=302
+#EXTINF:-1 tvg-logo=CIBN中國交通.png tvg-name=CIBN中國交通 group-title=綜合 , CIBN中國交通
+http://v.iam7.cn/iptv/cibn.php?code=7
+#EXTINF:-1 tvg-logo=CIBN環球奇觀.png tvg-name=CIBN環球奇觀 group-title=綜合 , CIBN環球奇觀
+http://v.iam7.cn/iptv/cibn.php?code=8
+#EXTINF:-1 tvg-logo=CIBN老陳座談.png tvg-name=CIBN老陳座談 group-title=綜合 , CIBN老陳座談
+http://v.iam7.cn/iptv/cibn.php?code=136
+#EXTINF:-1 tvg-logo=CIBN全球歌曲.png tvg-name=CIBN全球歌曲 group-title=綜合 , CIBN全球歌曲
+http://v.iam7.cn/iptv/cibn.php?code=338
+#EXTINF:-1 tvg-logo=CIBN流行榜單.png tvg-name=CIBN流行榜單 group-title=綜合 , CIBN流行榜單
+http://v.iam7.cn/iptv/cibn.php?code=155
+#EXTINF:-1 tvg-logo=CIBN經典樂場.png tvg-name=CIBN經典樂場 group-title=綜合 , CIBN經典樂場
+http://v.iam7.cn/iptv/cibn.php?code=162
+#EXTINF:-1 tvg-logo=CIBN女團專場.png tvg-name=CIBN女團專場 group-title=綜合 , CIBN女團專場
+http://v.iam7.cn/iptv/cibn.php?code=208
+#EXTINF:-1 tvg-logo=CIBN音樂綜藝.png tvg-name=CIBN音樂綜藝 group-title=綜合 , CIBN音樂綜藝
+http://v.iam7.cn/iptv/cibn.php?code=145
+#EXTINF:-1 tvg-logo=CIBN經典音樂.png tvg-name=CIBN經典音樂 group-title=綜合 , CIBN經典音樂
+http://v.iam7.cn/iptv/cibn.php?code=128
+#EXTINF:-1 tvg-logo=CIBN古典音樂.png tvg-name=CIBN古典音樂 group-title=綜合 , CIBN古典音樂
+http://v.iam7.cn/iptv/cibn.php?code=78
+#EXTINF:-1 tvg-logo=CIBN莎翁戲劇.png tvg-name=CIBN莎翁戲劇 group-title=綜合 , CIBN莎翁戲劇
+http://v.iam7.cn/iptv/cibn.php?code=68
+#EXTINF:-1 tvg-logo=iHOT愛喜劇.png tvg-name=iHOT愛喜劇 group-title=綜合 , iHOT愛喜劇
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo=iHOT愛科幻.png tvg-name=iHOT愛科幻 group-title=綜合 , iHOT愛科幻
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo=iHOT愛浪漫.png tvg-name=iHOT愛浪漫 group-title=綜合 , iHOT愛浪漫
+http://101.71.255.229:6610/zjhs/2/10115/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-logo=iHOT愛浪漫.png tvg-name=iHOT愛浪漫 group-title=綜合 , iHOT愛浪漫
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo=iHOT愛世界.png tvg-name=iHOT愛世界 group-title=綜合 , iHOT愛世界
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230046/index.m3u8
+#EXTINF:-1 tvg-logo=iHOT愛科學.png tvg-name=iHOT愛科學 group-title=綜合 , iHOT愛科學
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230106/index.m3u8
+#EXTINF:-1 tvg-logo=iHOT愛旅行.png tvg-name=iHOT愛旅行 group-title=綜合 , iHOT愛旅行
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
+#EXTINF:-1 tvg-logo=iHOT愛探索.png tvg-name=iHOT愛探索 group-title=綜合 , iHOT愛探索
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
+#EXTINF:-1 tvg-logo=iHOT愛院線.png tvg-name=iHOT愛院線 group-title=綜合 , iHOT愛院線
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo=重慶少兒.png tvg-name=重慶少兒 group-title=綜合 , 重慶少兒
+http://219.153.252.50/PLTV/88888888/224/3221225625/1.m3u8
+#EXTINF:-1 tvg-logo=Beat動畫.png tvg-name=Beat動畫 group-title=綜合 , Beat動畫
+http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&IASHttpSessionId=OTT3830220200305010224092360
+#EXTINF:-1 tvg-logo=邵氏電影.png tvg-name=邵氏電影 group-title=綜合 , 邵氏電影
+https://cn-lnsy-cu-live-01.live-play.acgvideo.com/live-bvc/164219/live_97065163_17925468.m3u8
+#EXTINF:-1 tvg-logo=葉問4.png tvg-name=葉問4 group-title=綜合 , 葉問4
+http://videotiantian.gslawyerunion.com/20200209/96Vlt5jX/hls/index.m3u8?wsSecret=fad4d63063ad8379d016c5420f09a926&wsTime=1609237548421
+#EXTINF:-1 tvg-logo=憨豆特工.png tvg-name=憨豆特工 group-title=綜合 , 憨豆特工
+https://zk.wb699.com/2018/12/22/ffrZIFvvmA4AxSaW/playlist.m3u8
+#EXTINF:-1 tvg-logo=華數TV-02.png tvg-name=華數TV-02 group-title=綜合 , 華數TV-02
+http://hls-ott-zhibo.wasu.tv/live/180/index.m3u8
+#EXTINF:-1 tvg-logo=華數TV-03.png tvg-name=華數TV-03 group-title=綜合 , 華數TV-03
+http://hls-ott-zhibo.wasu.tv/live/181/index.m3u8
+#EXTINF:-1 tvg-logo=華數TV-08.png tvg-name=華數TV-08 group-title=綜合 , 華數TV-08
+http://hls-ott-zhibo.wasu.tv/live/303/index.m3u8
+#EXTINF:-1 tvg-logo=華數TV-09.png tvg-name=華數TV-09 group-title=綜合 , 華數TV-09
+http://hls-ott-zhibo.wasu.tv/live/315/index.m3u8
+#EXTINF:-1 tvg-logo=華數TV-12.png tvg-name=華數TV-12 group-title=綜合 , 華數TV-12
+http://hls-ott-zhibo.wasu.tv/live/348/index.m3u8
+#EXTINF:-1 tvg-logo=華數TV-17.png tvg-name=華數TV-17 group-title=綜合 , 華數TV-17
+http://hls-ott-zhibo.wasu.tv/live/403/index.m3u8
+#EXTINF:-1 tvg-logo=華數TV-18.png tvg-name=華數TV-18 group-title=綜合 , 華數TV-18
+http://hls-ott-zhibo.wasu.tv/live/419/index.m3u8
+#EXTINF:-1 tvg-logo=華數TV-19.png tvg-name=華數TV-19 group-title=綜合 , 華數TV-19
+http://hls-ott-zhibo.wasu.tv/live/418/index.m3u8
+#EXTINF:-1 tvg-logo=華數TV-20.png tvg-name=華數TV-20 group-title=綜合 , 華數TV-20
+http://hls-ott-zhibo.wasu.tv/live/422/index.m3u8
+#EXTINF:-1 tvg-logo=華數TV-21.png tvg-name=華數TV-21 group-title=綜合 , 華數TV-21
+http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
+#EXTINF:-1 tvg-logo=華數TV-22.png tvg-name=華數TV-22 group-title=綜合 , 華數TV-22
+http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
+#EXTINF:-1 tvg-logo=華數TV-23.png tvg-name=華數TV-23 group-title=綜合 , 華數TV-23
+http://hls-ott-zhibo.wasu.tv/live/452/index.m3u8
+#EXTINF:-1 tvg-logo=華數TV-25.png tvg-name=華數TV-25 group-title=綜合 , 華數TV-25
+http://hls-ott-zhibo.wasu.tv/live/364/index.m3u8
+#EXTINF:-1 tvg-logo=華數TV-26.png tvg-name=華數TV-26 group-title=綜合 , 華數TV-26
+http://hls-ott-zhibo.wasu.tv/live/385/index.m3u8
+#EXTINF:-1 tvg-logo=華數TV-29.png tvg-name=華數TV-29 group-title=綜合 , 華數TV-29
+http://hls-ott-zhibo.wasu.tv/live/412/index.m3u8
+#EXTINF:-1 tvg-logo=華數TV-30.png tvg-name=華數TV-30 group-title=綜合 , 華數TV-30
+http://hls-ott-zhibo.wasu.tv/live/413/index.m3u8
+#EXTINF:-1 tvg-logo=華數TV-31.png tvg-name=華數TV-31 group-title=綜合 , 華數TV-31
+http://hls-ott-zhibo.wasu.tv/live/410/index.m3u8
+#EXTINF:-1 tvg-logo=華數TV-32.png tvg-name=華數TV-32 group-title=綜合 , 華數TV-32
+http://hls-ott-zhibo.wasu.tv/live/414/index.m3u8
+#EXTINF:-1 tvg-logo=華數TV-33.png tvg-name=華數TV-33 group-title=綜合 , 華數TV-33
+http://hls-ott-zhibo.wasu.tv/live/415/index.m3u8
+#EXTINF:-1 tvg-logo=華數TV-34.png tvg-name=華數TV-34 group-title=綜合 , 華數TV-34
+http://hls-ott-zhibo.wasu.tv/live/420/index.m3u8
+#EXTINF:-1 tvg-logo=華數TV-35.png tvg-name=華數TV-35 group-title=綜合 , 華數TV-35
+http://hls-ott-zhibo.wasu.tv/live/428/index.m3u8
+#EXTINF:-1 tvg-logo=華數TV-36.png tvg-name=華數TV-36 group-title=綜合 , 華數TV-36
+http://hls-ott-zhibo.wasu.tv/live/435/index.m3u8
+#EXTINF:-1 tvg-logo=華數TV-37.png tvg-name=華數TV-37 group-title=綜合 , 華數TV-37
+http://hls-ott-zhibo.wasu.tv/live/436/index.m3u8
+#EXTINF:-1 tvg-logo=華數TV-38.png tvg-name=華數TV-38 group-title=綜合 , 華數TV-38
+http://hls-ott-zhibo.wasu.tv/live/461/index.m3u8
+#EXTINF:-1 tvg-logo=風雲足球.png tvg-name=風雲足球 group-title=綜合 , 風雲足球
+http://125.210.152.18:9090/live/FYZQ.m3u8
+#EXTINF:-1 tvg-logo=國防軍事.png tvg-name=國防軍事 group-title=綜合 , 國防軍事
+http://125.210.152.18:9090/live/GFJS.m3u8
+#EXTINF:-1 tvg-logo=HD求索生活.png tvg-name=HD求索生活 group-title=綜合 , HD求索生活
+http://125.210.152.18:9090/live/QSSH.m3u8
+#EXTINF:-1 tvg-logo=HD求索科學.png tvg-name=HD求索科學 group-title=綜合 , HD求索科學
+http://125.210.152.18:9090/live/QSKX.m3u8
+#EXTINF:-1 tvg-logo=HD求索動物.png tvg-name=HD求索動物 group-title=綜合 , HD求索動物
+http://125.210.152.18:9090/live/QSDW.m3u8
+#EXTINF:-1 tvg-logo=新視覺HD.png tvg-name=新視覺HD group-title=綜合 , 新視覺HD
+http://125.210.152.18:9090/live/XSJHD_H265.m3u8
+#EXTINF:-1 tvg-logo=勁爆體育.png tvg-name=勁爆體育 group-title=綜合 , 勁爆體育
+http://183.207.249.9/PLTV/2/224/3221226045/1.m3u8
+#EXTINF:-1 tvg-logo=炫動卡通.png tvg-name=炫動卡通 group-title=綜合 , 炫動卡通
+http://183.207.249.7/PLTV/2/224/3221226047/index.m3u8
+#EXTINF:-1 tvg-logo=孟庭葦-冬季到台北來看雨[1280*720].png tvg-name=孟庭葦-冬季到台北來看雨[1280*720] group-title=綜合 , 孟庭葦-冬季到台北來看雨[1280*720]
+http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/Pd8qTC385qKJVXaXcKj%40%40hd.m3u8
+#EXTINF:-1 tvg-logo=孟庭葦-風中有朵雨做的雲[1280*720].png tvg-name=孟庭葦-風中有朵雨做的雲[1280*720] group-title=綜合 , 孟庭葦-風中有朵雨做的雲[1280*720]
+http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/Cg9qI5imMInpPvK5Mnm%40%40hd.m3u8
+#EXTINF:-1 tvg-logo=孟庭葦-過冬[1280*720].png tvg-name=孟庭葦-過冬[1280*720] group-title=綜合 , 孟庭葦-過冬[1280*720]
+http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/U9QKnKK2RpKMElnSS07%40%40hd.m3u8
+#EXTINF:-1 tvg-logo=孟庭葦-我說的謊都是真的[1280*720].png tvg-name=孟庭葦-我說的謊都是真的[1280*720] group-title=綜合 , 孟庭葦-我說的謊都是真的[1280*720]
+http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/9aqTcUjlJ7KZkA37W1E%40%40hd.m3u8
+#EXTINF:-1 tvg-logo=孟庭葦-霧裡看花[1280*720].png tvg-name=孟庭葦-霧裡看花[1280*720] group-title=綜合 , 孟庭葦-霧裡看花[1280*720]
+http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/fi3PjAgsnTjwzAvSboT%40%40hd.m3u8
+#EXTINF:-1 tvg-logo=孟庭葦-相愛的可能性[1280*720].png tvg-name=孟庭葦-相愛的可能性[1280*720] group-title=綜合 , 孟庭葦-相愛的可能性[1280*720]
+http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/5lsxCqoKs6ZE7MfJZvM%40%40hd.m3u8
+#EXTINF:-1 tvg-logo=葉倩文-我的愛對你說[640*480].png tvg-name=葉倩文-我的愛對你說[640*480] group-title=綜合 , 葉倩文-我的愛對你說[640*480]
+http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/7xXG24i7EbZtCTOtSnh%40%40sd.m3u8
+#EXTINF:-1 tvg-logo=陳慧嫻-玻璃窗的愛[640*352].png tvg-name=陳慧嫻-玻璃窗的愛[640*352] group-title=綜合 , 陳慧嫻-玻璃窗的愛[640*352]
+http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/i78cWdjCSglPJHDaedL%40%40ld.m3u8
+#EXTINF:-1 tvg-logo=毛不易Ⅰ像我這樣的人.png tvg-name=毛不易Ⅰ像我這樣的人 group-title=綜合 , 毛不易Ⅰ像我這樣的人
+https://vd3.bdstatic.com/mda-ka8qm8710ymkqdry/hd/mda-ka8qm8710ymkqdry.mp4?pd=20&vt=1
+#EXTINF:-1 tvg-logo=毛不易Ⅰ不染.png tvg-name=毛不易Ⅰ不染 group-title=綜合 , 毛不易Ⅰ不染
+https://vd3.bdstatic.com/mda-jmceuahfwxarnh7v/hd/mda-jmceuahfwxarnh7v.mp4?pd=20&playlist=%5B%22hd%22%2C%22sc%22%5D
+#EXTINF:-1 tvg-logo=毛不易Ⅰ消愁.png tvg-name=毛不易Ⅰ消愁 group-title=綜合 , 毛不易Ⅰ消愁
+https://vd3.bdstatic.com/mda-ifkj2zwdscwthsfj/logo/hd/mda-ifkj2zwdscwthsfj.mp4?pd=20
+#EXTINF:-1 tvg-logo=毛不易Ⅰ如果有一天我變的很有錢.png tvg-name=毛不易Ⅰ如果有一天我變的很有錢 group-title=綜合 , 毛不易Ⅰ如果有一天我變的很有錢
+https://vd3.bdstatic.com/mda-jjmfvpaqh1z11ibc/hd/mda-jjmfvpaqh1z11ibc.mp4?pd=19&vt=1
+#EXTINF:-1 tvg-logo=毛不易Ⅰ借.png tvg-name=毛不易Ⅰ借 group-title=綜合 , 毛不易Ⅰ借
+https://vd3.bdstatic.com/mda-ii2njckdbkmmcp81/hd/mda-ii2njckdbkmmcp81.mp4?pd=20
+#EXTINF:-1 tvg-logo=毛不易Ⅰ牧馬城市.png tvg-name=毛不易Ⅰ牧馬城市 group-title=綜合 , 毛不易Ⅰ牧馬城市
+https://vdse.bdstatic.com//1d83dfc2411243e5b9f44462e1e55ab3.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2019-12-14T02%3A12%3A40Z%2F-1%2Fhost%2F4739737cd8b21cbdb307a5d008abe88a61afce23616c55f2a8fae768fc2b6764
+#EXTINF:-1 tvg-logo=毛不易Ⅰ給你給我.png tvg-name=毛不易Ⅰ給你給我 group-title=綜合 , 毛不易Ⅰ給你給我
+https://vdse.bdstatic.com//4d056936c317b35f886ced83147ad7e8.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T14%3A42%3A28Z%2F-1%2Fhost%2F13c0f2dda852b6fdbcd7422de8ac3a48437304b4c38728deeedb6558c47a9eb9
+#EXTINF:-1 tvg-logo=林啟得Ⅰ大田後生仔.png tvg-name=林啟得Ⅰ大田後生仔 group-title=綜合 , 林啟得Ⅰ大田後生仔
+https://vdse.bdstatic.com/1f5b8de1e52e8ebe8d5493d29bf29981.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F40284dba7f6298e947920fa281898998a95118f96c5b0689661ad64dc9bfbf06
+#EXTINF:-1 tvg-logo=王七七Ⅰ我願意平凡的陪在你身旁.png tvg-name=王七七Ⅰ我願意平凡的陪在你身旁 group-title=綜合 , 王七七Ⅰ我願意平凡的陪在你身旁
+https://vdse.bdstatic.com/570e05ef514db00b14c9c10d1aef7f1f.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2Fd5332371b8e0882511e0b75041fcd24f0899fa4237f56edacb89b6734f95ca97
+#EXTINF:-1 tvg-logo=薩頂頂Ⅰ左手指月.png tvg-name=薩頂頂Ⅰ左手指月 group-title=綜合 , 薩頂頂Ⅰ左手指月
+https://vdse.bdstatic.com//b35227847ccb42d48ea6414d47087ce9.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A26%3A59Z%2F-1%2Fhost%2F9ce646d3e871069b3f23e45fc92e318ac9f5b3983d1ed3d996cc228026cba11e
+#EXTINF:-1 tvg-logo=薩頂頂Ⅰ天地無霜.png tvg-name=薩頂頂Ⅰ天地無霜 group-title=綜合 , 薩頂頂Ⅰ天地無霜
+https://vdse.bdstatic.com//bd1f7fcb1263b608c60793c5c7094ce9.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A25%3A13Z%2F-1%2Fhost%2F23ba28074d215adf2c6d0fb5cf09092bab7d4515197cbe40e43c536aa8ea3171
+#EXTINF:-1 tvg-logo=於文文Ⅰ體面.png tvg-name=於文文Ⅰ體面 group-title=綜合 , 於文文Ⅰ體面
+https://vdse.bdstatic.com//f18bdf41f28b68a1b0177fa5e5cdf8fe.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T14%3A25%3A29Z%2F-1%2Fhost%2F1a9107b1210343ed30aa27779a042aab3d016777226b471ee5f38c8fc1e23cf1
+#EXTINF:-1 tvg-logo=趙方婧Ⅰ芒種.png tvg-name=趙方婧Ⅰ芒種 group-title=綜合 , 趙方婧Ⅰ芒種
+https://vd3.bdstatic.com/mda-kat1tr4ka5st965k/hd/mda-kat1tr4ka5st965k.mp4?pd=20
+#EXTINF:-1 tvg-logo=張藝興Ⅰsheep.png tvg-name=張藝興Ⅰsheep group-title=綜合 , 張藝興Ⅰsheep
+https://vdse.bdstatic.com/971347deaddd6fdb5ada6e87e4722ece.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F1d12ad4ec35446ed93981927577c34a900dd755d2da3a1a0fd41c06ab23f4863
+#EXTINF:-1 tvg-logo=劉珂矣Ⅰ芙蓉雨.png tvg-name=劉珂矣Ⅰ芙蓉雨 group-title=綜合 , 劉珂矣Ⅰ芙蓉雨
+https://vdse.bdstatic.com//85593e1127a1389dc49e9b0491814df2.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T14%3A58%3A05Z%2F-1%2Fhost%2Fff58fddc077c03b3076760fe6728156bf526b7060c8e061d817388b869ac2320
+#EXTINF:-1 tvg-logo=劉珂矣Ⅰ半壺紗.png tvg-name=劉珂矣Ⅰ半壺紗 group-title=綜合 , 劉珂矣Ⅰ半壺紗
+https://vd3.bdstatic.com/mda-kag404z097ciayha/hd/mda-kag404z097ciayha.mp4?pd=19&vt=1
+#EXTINF:-1 tvg-logo=劉珂矣Ⅰ風箏誤.png tvg-name=劉珂矣Ⅰ風箏誤 group-title=綜合 , 劉珂矣Ⅰ風箏誤
+https://vdse.bdstatic.com/c331feb0b4730b05d03793ffc024e62a.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F41d81188bd164f23d0ae35e5a721b43c799caa783fde1de169616ab76271e197
+#EXTINF:-1 tvg-logo=楊小壯Ⅰ孤芳自賞.png tvg-name=楊小壯Ⅰ孤芳自賞 group-title=綜合 , 楊小壯Ⅰ孤芳自賞
+https://vdse.bdstatic.com//650fda26067e619a8632b173052b3a08.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T14%3A25%3A59Z%2F-1%2Fhost%2F861309b4a756c61dd0bad3718d9b8a27123c24838b9b4c8ec82bda2d04869c69
+#EXTINF:-1 tvg-logo=阿悠悠Ⅰ你若三冬.png tvg-name=阿悠悠Ⅰ你若三冬 group-title=綜合 , 阿悠悠Ⅰ你若三冬
+https://vdse.bdstatic.com/865b4e81a729189fcafe910104151a75.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F572e0736b87ee3444ff2b54eb4ae655228dd4a84d9c6f7c6c588feb0ddbe1269
+#EXTINF:-1 tvg-logo=陳雪凝Ⅰ你的酒館對我打了烊.png tvg-name=陳雪凝Ⅰ你的酒館對我打了烊 group-title=綜合 , 陳雪凝Ⅰ你的酒館對我打了烊
+https://vd3.bdstatic.com/mda-ka59e4w0qxxsxnt0/hd/mda-ka59e4w0qxxsxnt0.mp4?pd=19&vt=1
+#EXTINF:-1 tvg-logo=郁可唯Ⅰ思慕.png tvg-name=郁可唯Ⅰ思慕 group-title=綜合 , 郁可唯Ⅰ思慕
+https://vdse.bdstatic.com/5ec8d619d2ecb4ff832cfa252a967bb8.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F8286183946f68461b8a723c098b274f2fcf856faf7f1f1c6bc9e5159dca71291
+#EXTINF:-1 tvg-logo=李袁傑Ⅰ醉千年.png tvg-name=李袁傑Ⅰ醉千年 group-title=綜合 , 李袁傑Ⅰ醉千年
+http://vd3.bdstatic.com/mda-ihai9qt3yny3sx53/hd/mda-ihai9qt3yny3sx53.mp4?pd=19&vt=1
+#EXTINF:-1 tvg-logo=魏新雨Ⅰ戀人心.png tvg-name=魏新雨Ⅰ戀人心 group-title=綜合 , 魏新雨Ⅰ戀人心
+https://vdse.bdstatic.com//e179fea2ba171a7268188a055702229d.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A18%3A42Z%2F-1%2Fhost%2F84badc350a20f1dfe035e91408acfe7e4b1e69fe262f4faaa5ca3af837e1592b
+#EXTINF:-1 tvg-logo=馬健濤Ⅰ殺阡陌.png tvg-name=馬健濤Ⅰ殺阡陌 group-title=綜合 , 馬健濤Ⅰ殺阡陌
+https://vdse.bdstatic.com/17014878933308f5eb81b2a9d98783d8.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2Fd93a993d573ee3bcc23a02ca043066cf5106c87ccfff05e150791a903b70eb6b
+#EXTINF:-1 tvg-logo=許藝娜Ⅰ如夢令.png tvg-name=許藝娜Ⅰ如夢令 group-title=綜合 , 許藝娜Ⅰ如夢令
+https://vdse.bdstatic.com/20e606730cb53b91bd4a4d2b0323e563.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F105e954b546582862111230676e2cdc84b0144bf00447793daa377381b7ddb0f
+#EXTINF:-1 tvg-logo=花粥Ⅰ紙短情長.png tvg-name=花粥Ⅰ紙短情長 group-title=綜合 , 花粥Ⅰ紙短情長
+https://vdse.bdstatic.com//e214194bf6de7f598b9873619b691fa6.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T13%3A26%3A53Z%2F-1%2Fhost%2F591e9e423bf5d139c7eac161a481a18a0ccd851124162fcb1cc55e9b2aea36c6
+#EXTINF:-1 tvg-logo=半陽Ⅰ一曲相思.png tvg-name=半陽Ⅰ一曲相思 group-title=綜合 , 半陽Ⅰ一曲相思
+https://vdse.bdstatic.com//e547b08ce3afad200eec374f3c4ee450.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T13%3A00%3A56Z%2F-1%2Fhost%2Fc4e678fdb911f8524405fcf1563002f4f9c892a22e3f2033b917a39f2d01ea20
+#EXTINF:-1 tvg-logo=大壯Ⅰ我們不一樣.png tvg-name=大壯Ⅰ我們不一樣 group-title=綜合 , 大壯Ⅰ我們不一樣
+https://vd3.bdstatic.com/mda-kaiskhuinjf4a8m4/hd/mda-kaiskhuinjf4a8m4.mp4?pd=20&vt=1
+#EXTINF:-1 tvg-logo=肖戰Ⅰ餘年.png tvg-name=肖戰Ⅰ餘年 group-title=綜合 , 肖戰Ⅰ餘年
+https://vdse.bdstatic.com/660c78b56b33dca31497de9c6921c5a6.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2Fb2cec293153ef7795846f08b08f8ae00825357cd0ce4d2c2977afeb31bb70540
+#EXTINF:-1 tvg-logo=宋茜Ⅰ屋頂著火.png tvg-name=宋茜Ⅰ屋頂著火 group-title=綜合 , 宋茜Ⅰ屋頂著火
+https://vd3.bdstatic.com/mda-ife08h4xpq85sg65/logo/hd/mda-ife08h4xpq85sg65.mp4?pd=19&vt=1
+#EXTINF:-1 tvg-logo=李建Ⅰ一念一年.png tvg-name=李建Ⅰ一念一年 group-title=綜合 , 李建Ⅰ一念一年
+https://vdse.bdstatic.com/ea4ad861c3816ba29b415da2494706a1.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2Fe5580be73eed99ae2d6da05453b3d79cdba5a663c049f6367ae6ae4bc4fbb1e6
+#EXTINF:-1 tvg-logo=張傑Ⅰ浮誅.png tvg-name=張傑Ⅰ浮誅 group-title=綜合 , 張傑Ⅰ浮誅
+https://vdse.bdstatic.com/1c2dc5580507bc1b0ef507c63b3fc461.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F592cfc9d5b5bc41242144504ccf1f9f9df9d15b863f6f33c610e552faf629cd9
+#EXTINF:-1 tvg-logo=張傑Ⅰ就算沒有如果.png tvg-name=張傑Ⅰ就算沒有如果 group-title=綜合 , 張傑Ⅰ就算沒有如果
+https://vdse.bdstatic.com//b362a1c2ecbc60b18d3dc06cdc97f142.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A58%3A51Z%2F-1%2Fhost%2Ff5f960beaff319951e978ff3850b31434a5d64f13c03c9724e988c251426270d
+#EXTINF:-1 tvg-logo=胡夏Ⅰ只問你肯不肯.png tvg-name=胡夏Ⅰ只問你肯不肯 group-title=綜合 , 胡夏Ⅰ只問你肯不肯
+https://vdse.bdstatic.com/d4463cd83c0c47fba7ce65c71ad94bbb.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F09b9a33c3ded7584f68a3b875a10ba6a021d74f32e4144c2c0327f05c57abfdc
+#EXTINF:-1 tvg-logo=王琪Ⅰ站著等你三千年.png tvg-name=王琪Ⅰ站著等你三千年 group-title=綜合 , 王琪Ⅰ站著等你三千年
+https://vdse.bdstatic.com//967f216dea39a6f3ccb44884a219f8ff.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2019-12-14T02%3A12%3A33Z%2F-1%2Fhost%2F35aa2c099605e74a562ca0358f457186636ef317d486aa3ed6f60fc45c2c6c9a
+#EXTINF:-1 tvg-logo=隔壁老樊Ⅰ我曾.png tvg-name=隔壁老樊Ⅰ我曾 group-title=綜合 , 隔壁老樊Ⅰ我曾
+https://vd3.bdstatic.com/mda-jjm8i93paakzz8yj/hd/mda-jjm8i93paakzz8yj.mp4?pd=20&vt=1
+#EXTINF:-1 tvg-logo=IcePaperⅠ心如止水.png tvg-name=IcePaperⅠ心如止水 group-title=綜合 , IcePaperⅠ心如止水
+https://vd3.bdstatic.com/mda-jmqy5wv8ffvj2z5j/hd/mda-jmqy5wv8ffvj2z5j.mp4?pd=19&vt=1
+#EXTINF:-1 tvg-logo=要不要買菜Ⅰ下山.png tvg-name=要不要買菜Ⅰ下山 group-title=綜合 , 要不要買菜Ⅰ下山
+https://vdse.bdstatic.com/e2d35750d461a6d524080c7a3c4cb7a4.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F4fbaf22be415d855635ea3633a0f2fa9460bfb7cb3a13f2295a12b85245e0598
+#EXTINF:-1 tvg-logo=馬良/孫茜茹Ⅰ往後餘生.png tvg-name=馬良/孫茜茹Ⅰ往後餘生 group-title=綜合 , 馬良/孫茜茹Ⅰ往後餘生
+https://vd3.bdstatic.com/mda-jatub6sb1pzwxfnb/hd/mda-jatub6sb1pzwxfnb.mp4?pd=19&vt=1
+#EXTINF:-1 tvg-logo=花粥/馬雨陽Ⅰ盜將行.png tvg-name=花粥/馬雨陽Ⅰ盜將行 group-title=綜合 , 花粥/馬雨陽Ⅰ盜將行
+https://vdse.bdstatic.com//8355cbc6c2fe19c5ad280869218430f5.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T13%3A03%3A13Z%2F-1%2Fhost%2F79c755e10a28040d25c417fac00f7f489b53a6d21959e047363889876ded1bce
+#EXTINF:-1 tvg-logo=蕭全/孫語賽Ⅰ不僅僅是喜歡.png tvg-name=蕭全/孫語賽Ⅰ不僅僅是喜歡 group-title=綜合 , 蕭全/孫語賽Ⅰ不僅僅是喜歡
+https://vd3.bdstatic.com/mda-jhjswzf4u7tsujf1/hd/mda-jhjswzf4u7tsujf1.mp4?pd=19&vt=1
+#EXTINF:-1 tvg-logo=張碧晨/楊宗緯Ⅰ涼涼.png tvg-name=張碧晨/楊宗緯Ⅰ涼涼 group-title=綜合 , 張碧晨/楊宗緯Ⅰ涼涼
+https://vdse.bdstatic.com//56bc61cb4f9d080708a7e74647a1c2b2.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A48%3A39Z%2F-1%2Fhost%2F48ecdbdd75091e496f4412f52dce3ee2999cd6b370518825555d86e248da64cd
+#EXTINF:-1 tvg-logo=張碧晨/趙麗穎Ⅰ望.png tvg-name=張碧晨/趙麗穎Ⅰ望 group-title=綜合 , 張碧晨/趙麗穎Ⅰ望
+https://vdse.bdstatic.com/25f5ae931f851bf09c48abaebe5d6f8d.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2Fbeb15438a125af0e53bc38c98b3f304da2e2c0f1f61103ce81a9df486dc138a3
+#EXTINF:-1 tvg-logo=馮紹峰/趙麗穎Ⅰ知否知否.png tvg-name=馮紹峰/趙麗穎Ⅰ知否知否 group-title=綜合 , 馮紹峰/趙麗穎Ⅰ知否知否
+http://vd3.bdstatic.com/mda-imnj0y8p1qrw232x/hd/mda-imnj0y8p1qrw232x.mp4?pd=19&vt=1
+#EXTINF:-1 tvg-logo=草蜢Ⅰ半點心.png tvg-name=草蜢Ⅰ半點心 group-title=綜合 , 草蜢Ⅰ半點心
+http://vodcdn.video.taobao.com/oss/ali-video/68fc953ff930412784dada5eb79d0821/1461058499/video.m3u8.m3u8
+#EXTINF:-1 tvg-logo=草蜢Ⅰ失戀陣線聯盟.png tvg-name=草蜢Ⅰ失戀陣線聯盟 group-title=綜合 , 草蜢Ⅰ失戀陣線聯盟
+http://vodcdn.video.taobao.com/oss/ali-video/bbae2fc164d9517913ed5a9117f8455b/video.m3u8
+#EXTINF:-1 tvg-logo=草蜢Ⅰ忘情森巴舞.png tvg-name=草蜢Ⅰ忘情森巴舞 group-title=綜合 , 草蜢Ⅰ忘情森巴舞
+http://vodcdn.video.taobao.com/oss/ali-video/a30020a6cd9ce2a8b387e029f9c5365c/video.m3u8
+#EXTINF:-1 tvg-logo=陳慧嫻Ⅰ孤單背影.png tvg-name=陳慧嫻Ⅰ孤單背影 group-title=綜合 , 陳慧嫻Ⅰ孤單背影
+http://vodcdn.video.taobao.com/oss/ali-video/092bc3fac8ea013544a1dda61de41e58/video.m3u8
+#EXTINF:-1 tvg-logo=陳慧嫻Ⅰ人生何處不相逢.png tvg-name=陳慧嫻Ⅰ人生何處不相逢 group-title=綜合 , 陳慧嫻Ⅰ人生何處不相逢
+http://vodcdn.video.taobao.com/oss/ali-video/e45ed62546d055938577994f0c16d2e0/video.m3u8
+#EXTINF:-1 tvg-logo=陳倩倩Ⅰ陳倩倩.png tvg-name=陳倩倩Ⅰ陳倩倩 group-title=綜合 , 陳倩倩Ⅰ陳倩倩
+http://vodcdn.video.taobao.com/oss/ali-video/4fc8d043456c092c392483bd293d0ee3/video.m3u8
+#EXTINF:-1 tvg-logo=日本NHK華語.png tvg-name=日本NHK華語 group-title=外語頻道 , 日本NHK華語
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 tvg-logo=日本天氣預報.png tvg-name=日本天氣預報 group-title=外語頻道 , 日本天氣預報
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+#EXTINF:-1 tvg-logo=俄羅斯RU音樂.png tvg-name=俄羅斯RU音樂 group-title=外語頻道 , 俄羅斯RU音樂
+http://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
+#EXTINF:-1 tvg-logo=韓國阿里郎.png tvg-name=韓國阿里郎 group-title=外語頻道 , 韓國阿里郎
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=日本NHK華語.png tvg-name=日本NHK華語 group-title=外語頻道 , 日本NHK華語
+https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
+#EXTINF:-1 tvg-logo=日本NHK英語.png tvg-name=日本NHK英語 group-title=外語頻道 , 日本NHK英語
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
+#EXTINF:-1 tvg-logo=日本JapanNews24.png tvg-name=日本JapanNews24 group-title=外語頻道 , 日本JapanNews24
+http://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1 tvg-logo=日本JapanetChannelDX.png tvg-name=日本JapanetChannelDX group-title=外語頻道 , 日本JapanetChannelDX
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+#EXTINF:-1 tvg-logo=日本QVCJapan.png tvg-name=日本QVCJapan group-title=外語頻道 , 日本QVCJapan
+http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+#EXTINF:-1 tvg-logo=日本NHKWorld.png tvg-name=日本NHKWorld group-title=外語頻道 , 日本NHKWorld
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zh/domestic/playlist.m3u8
+#EXTINF:-1 tvg-logo=日本NHKWorld.png tvg-name=日本NHKWorld group-title=外語頻道 , 日本NHKWorld
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
+#EXTINF:-1 tvg-logo=日本NHKWorld.png tvg-name=日本NHKWorld group-title=外語頻道 , 日本NHKWorld
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wi_s.m3u8
+#EXTINF:-1 tvg-logo=韓國EBS第一頻道.png tvg-name=韓國EBS第一頻道 group-title=外語頻道 , 韓國EBS第一頻道
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-logo=韓國EBS少兒頻道.png tvg-name=韓國EBS少兒頻道 group-title=外語頻道 , 韓國EBS少兒頻道
+http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-logo=韓國KCTV.png tvg-name=韓國KCTV group-title=外語頻道 , 韓國KCTV
+http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
+#EXTINF:-1 tvg-logo=韓國UBCSBS.png tvg-name=韓國UBCSBS group-title=外語頻道 , 韓國UBCSBS
+http://59.25.202.81:1935/live/UBCstream/chunklist_w1495115977.m3u8
+#EXTINF:-1 tvg-logo=朝鮮中央台.png tvg-name=朝鮮中央台 group-title=外語頻道 , 朝鮮中央台
+http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+#EXTINF:-1 tvg-logo=韓國KOREAYTN.png tvg-name=韓國KOREAYTN group-title=外語頻道 , 韓國KOREAYTN
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+#EXTINF:-1 tvg-logo=韓國KTV韓國電視.png tvg-name=韓國KTV韓國電視 group-title=外語頻道 , 韓國KTV韓國電視
+http://218.38.152.31:1935/klive/klive.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=韓國EBS兒童頻道.png tvg-name=韓國EBS兒童頻道 group-title=外語頻道 , 韓國EBS兒童頻道
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+#EXTINF:-1 tvg-logo=韓國YTN聯合新聞.png tvg-name=韓國YTN聯合新聞 group-title=外語頻道 , 韓國YTN聯合新聞
+http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b2592000.m3u8
+#EXTINF:-1 tvg-logo=韓國阿里郎WORLD.png tvg-name=韓國阿里郎WORLD group-title=外語頻道 , 韓國阿里郎WORLD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
+#EXTINF:-1 tvg-logo=LuxuryWorld.png tvg-name=LuxuryWorld group-title=外語頻道 , LuxuryWorld
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1 tvg-logo=韓國BBS佛教廣播.png tvg-name=韓國BBS佛教廣播 group-title=外語頻道 , 韓國BBS佛教廣播
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
+#EXTINF:-1 tvg-logo=CPAC.png tvg-name=CPAC group-title=外語頻道 , CPAC
+http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
+#EXTINF:-1 tvg-logo=CGTN國際頻道.png tvg-name=CGTN國際頻道 group-title=外語頻道 , CGTN國際頻道
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-logo=狗狗寵物.png tvg-name=狗狗寵物 group-title=外語頻道 , 狗狗寵物
+http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+#EXTINF:-1 tvg-logo=紅牛運動.png tvg-name=紅牛運動 group-title=外語頻道 , 紅牛運動
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 tvg-logo=法國時尚.png tvg-name=法國時尚 group-title=外語頻道 , 法國時尚
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+#EXTINF:-1 tvg-logo=FOX體育新聞.png tvg-name=FOX體育新聞 group-title=外語頻道 , FOX體育新聞
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 tvg-logo=亞洲新聞.png tvg-name=亞洲新聞 group-title=外語頻道 , 亞洲新聞
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 tvg-logo=亞洲新聞.png tvg-name=亞洲新聞 group-title=外語頻道 , 亞洲新聞
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
+#EXTINF:-1 tvg-logo=朝陽頻道.png tvg-name=朝陽頻道 group-title=外語頻道 , 朝陽頻道
+http://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+#EXTINF:-1 tvg-logo=越南人民報.png tvg-name=越南人民報 group-title=外語頻道 , 越南人民報
+http://27.118.16.98:1935/live/truyenhinhnhandan720/chunklist_w2006762604.m3u8
+#EXTINF:-1 tvg-logo=越南人民報.png tvg-name=越南人民報 group-title=外語頻道 , 越南人民報
+http://vietcago.net/vstv/thnd.m3u8
+#EXTINF:-1 tvg-logo=越南人民報.png tvg-name=越南人民報 group-title=外語頻道 , 越南人民報
+https://5952e4052a2e8.streamlock.net/live/smil:thienviet.smil/chunklist_w1106175008_b1544100_sleng.m3u8
+#EXTINF:-1 tvg-logo=印度音樂電視.png tvg-name=印度音樂電視 group-title=外語頻道 , 印度音樂電視
+http://104.237.60.234/live/gabruutv.m3u8?dsjtv.m3u8
+#EXTINF:-1 tvg-logo=法國第五世界台.png tvg-name=法國第五世界台 group-title=外語頻道 , 法國第五世界台
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:-1 tvg-logo=法國24台(英語).png tvg-name=法國24台(英語) group-title=外語頻道 , 法國24台(英語)
+http://f24hls-i.akamaihd.net/hls/live/221193-b/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1 tvg-logo=法國24台(法語).png tvg-name=法國24台(法語) group-title=外語頻道 , 法國24台(法語)
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
+#EXTINF:-1 tvg-logo=俄羅斯HD時尚頻道.png tvg-name=俄羅斯HD時尚頻道 group-title=外語頻道 , 俄羅斯HD時尚頻道
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 tvg-logo=烏克蘭M2音樂頻道.png tvg-name=烏克蘭M2音樂頻道 group-title=外語頻道 , 烏克蘭M2音樂頻道
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 tvg-logo=西班牙皇馬足球.png tvg-name=西班牙皇馬足球 group-title=外語頻道 , 西班牙皇馬足球
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+#EXTINF:-1 tvg-logo=西班牙中國環球.png tvg-name=西班牙中國環球 group-title=外語頻道 , 西班牙中國環球
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 tvg-logo=意大利意大利電台.png tvg-name=意大利意大利電台 group-title=外語頻道 , 意大利意大利電台
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+#EXTINF:-1 tvg-logo=墨西哥墨西哥電視.png tvg-name=墨西哥墨西哥電視 group-title=外語頻道 , 墨西哥墨西哥電視
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1 tvg-logo=音樂20TV.png tvg-name=音樂20TV group-title=外語頻道 , 音樂20TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 tvg-logo=WSVI-TV.png tvg-name=WSVI-TV group-title=外語頻道 , WSVI-TV
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo=酷酷頻道.png tvg-name=酷酷頻道 group-title=外語頻道 , 酷酷頻道
+http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo=NBC電視.png tvg-name=NBC電視 group-title=外語頻道 , NBC電視
+http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo=Jewelry電視.png tvg-name=Jewelry電視 group-title=外語頻道 , Jewelry電視
+http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
+#EXTINF:-1 tvg-logo=Free電視.png tvg-name=Free電視 group-title=外語頻道 , Free電視
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+#EXTINF:-1 tvg-logo=Darcizzle電視.png tvg-name=Darcizzle電視 group-title=外語頻道 , Darcizzle電視
+http://30a-tv.com/darcizzle.m3u8
+#EXTINF:-1 tvg-logo=Docurama電視.png tvg-name=Docurama電視 group-title=外語頻道 , Docurama電視
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+#EXTINF:-1 tvg-logo=Music電視.png tvg-name=Music電視 group-title=外語頻道 , Music電視
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo=CBS新聞.png tvg-name=CBS新聞 group-title=外語頻道 , CBS新聞
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 tvg-logo=CON電視.png tvg-name=CON電視 group-title=外語頻道 , CON電視
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
+#EXTINF:-1 tvg-logo=Dance電視.png tvg-name=Dance電視 group-title=外語頻道 , Dance電視
+https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
+#EXTINF:-1 tvg-logo=新加坡8頻道.png tvg-name=新加坡8頻道 group-title=外語頻道 , 新加坡8頻道
+http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+#EXTINF:-1 tvg-logo=全美電視.png tvg-name=全美電視 group-title=外語頻道 , 全美電視
+https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+#EXTINF:-1 tvg-logo=加拿大國家電視台.png tvg-name=加拿大國家電視台 group-title=外語頻道 , 加拿大國家電視台
+https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8
+#EXTINF:-1 tvg-logo=RelaxingGuitarMusic.png tvg-name=RelaxingGuitarMusic group-title=外語頻道 , RelaxingGuitarMusic
+https://bozztv.com/36bay2/gin/giniko_guitarrelax_2000kb_36bay2/index.m3u8
+#EXTINF:-1 tvg-logo=ElectricNow.png tvg-name=ElectricNow group-title=外語頻道 , ElectricNow
+https://bozztv.com/veset1/720pHi/playlist_720pHi.m3u8
+#EXTINF:-1 tvg-logo=5mQuickCrafts.png tvg-name=5mQuickCrafts group-title=外語頻道 , 5mQuickCrafts
+https://bozztv.com/36bay2/gin/giniko_5min_1500kb_36bay2/index.m3u8
+#EXTINF:-1 tvg-logo=5mLifeHacks.png tvg-name=5mLifeHacks group-title=外語頻道 , 5mLifeHacks
+https://bozztv.com/36bay2/gin/giniko_5minlifehacks_1500kb_36bay2/index.m3u8
+#EXTINF:-1 tvg-logo=5mKitchenHacks.png tvg-name=5mKitchenHacks group-title=外語頻道 , 5mKitchenHacks
+https://bozztv.com/36bay2/gin/giniko_5minkitchen_1500kb_36bay2/index.m3u8
+#EXTINF:-1 tvg-logo=MBC.png tvg-name=MBC group-title=外語頻道 , MBC
+http://211.54.140.36/hdmi
+#EXTINF:-1 tvg-logo=KBS2.png tvg-name=KBS2 group-title=外語頻道 , KBS2
+http://msl.tvbayoplus.com:9083/live/lmgr218-live1/GJ/qP/GJqPMui6DQrYctmZxQDeig==/live.m3u8
+#EXTINF:-1 tvg-logo=SBS.png tvg-name=SBS group-title=外語頻道 , SBS
+http://23.237.112.138:9083/live/lmgr218-live1/an/Ec/anEch5GmlJzMh-jcs1OTow==/live.m3u8
+#EXTINF:-1 tvg-logo=CatchOn1.png tvg-name=CatchOn1 group-title=外語頻道 , CatchOn1
+http://23.237.112.138:9083/live/lmgr218-live1/Wj/Nz/WjNzluqgVARhAtul5gUKtg==/live.m3u8
+#EXTINF:-1 tvg-logo=MBN.png tvg-name=MBN group-title=外語頻道 , MBN
+http://23.237.112.138:9083/live/lmgr218-live1/j7/qy/j7qybKo1-oIO_R2EKcmcIA==/live.m3u8
+#EXTINF:-1 tvg-logo=MNet.png tvg-name=MNet group-title=外語頻道 , MNet
+http://23.237.112.138:9083/live/lmgr218-live1/DD/kh/DDkhewBlWWfGWPVkTkDWNA==/live.m3u8
+#EXTINF:-1 tvg-logo=OCN.png tvg-name=OCN group-title=外語頻道 , OCN
+http://23.237.112.138:9083/live/lmgr218-live1/GR/13/GR13XDGjlUsD8nZQasCIhw==/live.m3u8
+#EXTINF:-1 tvg-logo=YTN.png tvg-name=YTN group-title=外語頻道 , YTN
+http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
+#EXTINF:-1 tvg-logo=YTNDMB.png tvg-name=YTNDMB group-title=外語頻道 , YTNDMB
+http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
+#EXTINF:-1 tvg-logo=NHK總合.png tvg-name=NHK總合 group-title=外語頻道 , NHK總合
+http://203.162.235.41:16903
+#EXTINF:-1 tvg-logo=NHKE.png tvg-name=NHKE group-title=外語頻道 , NHKE
+http://203.162.235.41:16901
+#EXTINF:-1 tvg-logo=NHKBS.png tvg-name=NHKBS group-title=外語頻道 , NHKBS
+http://203.162.235.41:16910
+#EXTINF:-1 tvg-logo=TBS.png tvg-name=TBS group-title=外語頻道 , TBS
+http://203.162.235.41:16907
+#EXTINF:-1 tvg-logo=BSTBS.png tvg-name=BSTBS group-title=外語頻道 , BSTBS
+http://203.162.235.41:16913
+#EXTINF:-1 tvg-logo=朝日.png tvg-name=朝日 group-title=外語頻道 , 朝日
+http://203.162.235.41:16906
+#EXTINF:-1 tvg-logo=BS朝日.png tvg-name=BS朝日 group-title=外語頻道 , BS朝日
+http://203.162.235.41:16914
+#EXTINF:-1 tvg-logo=.png tvg-name= group-title=外語頻道 , 
+http://203.162.235.41:16904
+#EXTINF:-1 tvg-logo=BS.png tvg-name=BS group-title=外語頻道 , BS
+http://203.162.235.41:16911
+#EXTINF:-1 tvg-logo=東京.png tvg-name=東京 group-title=外語頻道 , 東京
+http://203.162.235.41:16908
+#EXTINF:-1 tvg-logo=BS日.png tvg-name=BS日 group-title=外語頻道 , BS日
+http://203.162.235.41:16912
+#EXTINF:-1 tvg-logo=日.png tvg-name=日 group-title=外語頻道 , 日
+http://203.162.235.41:16905
+#EXTINF:-1 tvg-logo=WOWOW.png tvg-name=WOWOW group-title=外語頻道 , WOWOW
+http://203.162.235.41:16916
+#EXTINF:-1 tvg-logo=TokyoMX1.png tvg-name=TokyoMX1 group-title=外語頻道 , TokyoMX1
+http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
+#EXTINF:-1 tvg-logo=TokyoMX2.png tvg-name=TokyoMX2 group-title=外語頻道 , TokyoMX2
+http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+#EXTINF:-1 tvg-logo=MXLive.png tvg-name=MXLive group-title=外語頻道 , MXLive
+http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
+#EXTINF:-1 tvg-logo=花花公子蒙古.png tvg-name=花花公子蒙古 group-title=外語頻道 , 花花公子蒙古
+http://spacetv.in/stream/WUQP6BVK17/56.m3u8
+#EXTINF:-1 tvg-logo=泰國DDTV.png tvg-name=泰國DDTV group-title=外語頻道 , 泰國DDTV
+http://203.156.63.20:1935/live/ddtv/playlist.m3u8
+#EXTINF:-1 tvg-logo=美國FreeIPTV.png tvg-name=美國FreeIPTV group-title=外語頻道 , 美國FreeIPTV
+http://stream.srg-ssr.ch/m/rsj/mp3_128
+#EXTINF:-1 tvg-logo=美國July.12.2018.png tvg-name=美國July.12.2018 group-title=外語頻道 , 美國July.12.2018
+http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+#EXTINF:-1 tvg-logo=美國WorldNews.png tvg-name=美國WorldNews group-title=外語頻道 , 美國WorldNews
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
+#EXTINF:-1 tvg-logo=美國BloombergTVEurope.png tvg-name=美國BloombergTVEurope group-title=外語頻道 , 美國BloombergTVEurope
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1 tvg-logo=美國CGTN(Opt-1).png tvg-name=美國CGTN(Opt-1) group-title=外語頻道 , 美國CGTN(Opt-1)
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1 tvg-logo=美國360North.png tvg-name=美國360North group-title=外語頻道 , 美國360North
+http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
+#EXTINF:-1 tvg-logo=美國BowieTV.png tvg-name=美國BowieTV group-title=外語頻道 , 美國BowieTV
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+#EXTINF:-1 tvg-logo=美國BuffaloTV.png tvg-name=美國BuffaloTV group-title=外語頻道 , 美國BuffaloTV
+http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+#EXTINF:-1 tvg-logo=美國Denver8TV.png tvg-name=美國Denver8TV group-title=外語頻道 , 美國Denver8TV
+http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
+#EXTINF:-1 tvg-logo=美國FoxNewsTalkRadio.png tvg-name=美國FoxNewsTalkRadio group-title=外語頻道 , 美國FoxNewsTalkRadio
+http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+#EXTINF:-1 tvg-logo=美國NewsmaxTV.png tvg-name=美國NewsmaxTV group-title=外語頻道 , 美國NewsmaxTV
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-logo=美國VTVChannel6Colorado.png tvg-name=美國VTVChannel6Colorado group-title=外語頻道 , 美國VTVChannel6Colorado
+http://hls.ksl.com/t/strata/playlist.m3u8
+#EXTINF:-1 tvg-logo=美國本土Channel11NewsWPXI(Pittsburgh).png tvg-name=美國本土Channel11NewsWPXI(Pittsburgh) group-title=外語頻道 , 美國本土Channel11NewsWPXI(Pittsburgh)
+http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
+#EXTINF:-1 tvg-logo=加拿大CBCNews(VOD).png tvg-name=加拿大CBCNews(VOD) group-title=外語頻道 , 加拿大CBCNews(VOD)
+http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+#EXTINF:-1 tvg-logo=加拿大TheShoppingChannel.png tvg-name=加拿大TheShoppingChannel group-title=外語頻道 , 加拿大TheShoppingChannel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:-1 tvg-logo=英國MTV.png tvg-name=英國MTV group-title=外語頻道 , 英國MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 tvg-logo=法國Francophonie24.png tvg-name=法國Francophonie24 group-title=外語頻道 , 法國Francophonie24
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+#EXTINF:-1 tvg-logo=德國BadenTV.png tvg-name=德國BadenTV group-title=外語頻道 , 德國BadenTV
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:-1 tvg-logo=德國MDF.1.png tvg-name=德國MDF.1 group-title=外語頻道 , 德國MDF.1
+http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
+#EXTINF:-1 tvg-logo=德國OffenerKanalMagdeburg.png tvg-name=德國OffenerKanalMagdeburg group-title=外語頻道 , 德國OffenerKanalMagdeburg
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8?bitrate=800
+#EXTINF:-1 tvg-logo=德國pop10.png tvg-name=德國pop10 group-title=外語頻道 , 德國pop10
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8?bitrate=800
+#EXTINF:-1 tvg-logo=德國QVC.png tvg-name=德國QVC group-title=外語頻道 , 德國QVC
+http://ios-stream.qvc.de/qvc.m3u8
+#EXTINF:-1 tvg-logo=意大利RadioCapitalTiVu.png tvg-name=意大利RadioCapitalTiVu group-title=外語頻道 , 意大利RadioCapitalTiVu
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1 tvg-logo=意大利SkyTG24.png tvg-name=意大利SkyTG24 group-title=外語頻道 , 意大利SkyTG24
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
+#EXTINF:-1 tvg-logo=意大利SuperTV.png tvg-name=意大利SuperTV group-title=外語頻道 , 意大利SuperTV
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+#EXTINF:-1 tvg-logo=意大利TVRS.png tvg-name=意大利TVRS group-title=外語頻道 , 意大利TVRS
+http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
+#EXTINF:-1 tvg-logo=意大利VideoBrescia.png tvg-name=意大利VideoBrescia group-title=外語頻道 , 意大利VideoBrescia
+http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
+#EXTINF:-1 tvg-logo=意大利VideoCalabria.png tvg-name=意大利VideoCalabria group-title=外語頻道 , 意大利VideoCalabria
+http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
+#EXTINF:-1 tvg-logo=西班牙Calle13.png tvg-name=西班牙Calle13 group-title=外語頻道 , 西班牙Calle13
+http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
+#EXTINF:-1 tvg-logo=西班牙CanalParlamento(Updated).png tvg-name=西班牙CanalParlamento(Updated) group-title=外語頻道 , 西班牙CanalParlamento(Updated)
+http://congresodirecto-f.akamaihd.net:80/i/congreso6_1@54665/master.m3u8
+#EXTINF:-1 tvg-logo=西班牙NavarraTV(Opt-2).png tvg-name=西班牙NavarraTV(Opt-2) group-title=外語頻道 , 西班牙NavarraTV(Opt-2)
+http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
+#EXTINF:-1 tvg-logo=西班牙RTVCE.png tvg-name=西班牙RTVCE group-title=外語頻道 , 西班牙RTVCE
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTINF:-1 tvg-logo=西班牙TeleSafor.png tvg-name=西班牙TeleSafor group-title=外語頻道 , 西班牙TeleSafor
+http://video.telesafor.com/hls/video_low.m3u8
+#EXTINF:-1 tvg-logo=西班牙TVGaliciaEuropa.png tvg-name=西班牙TVGaliciaEuropa group-title=外語頻道 , 西班牙TVGaliciaEuropa
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo=俄羅斯Astrakhan24(Opt-2).png tvg-name=俄羅斯Astrakhan24(Opt-2) group-title=外語頻道 , 俄羅斯Astrakhan24(Opt-2)
+http://streaming.astrakhan.ru/astrakhan24/index.m3u8
+#EXTINF:-1 tvg-logo=俄羅斯FirstMusic(Opt-3).png tvg-name=俄羅斯FirstMusic(Opt-3) group-title=外語頻道 , 俄羅斯FirstMusic(Opt-3)
+http://rtmp.one.by:1200
+#EXTINF:-1 tvg-logo=俄羅斯KrasnajaLinija.png tvg-name=俄羅斯KrasnajaLinija group-title=外語頻道 , 俄羅斯KrasnajaLinija
+http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
+#EXTINF:-1 tvg-logo=俄羅斯MostVideoTV1.png tvg-name=俄羅斯MostVideoTV1 group-title=外語頻道 , 俄羅斯MostVideoTV1
+http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:-1 tvg-logo=俄羅斯MuzSojuz.png tvg-name=俄羅斯MuzSojuz group-title=外語頻道 , 俄羅斯MuzSojuz
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
+#EXTINF:-1 tvg-logo=俄羅斯MTVmixUfa.png tvg-name=俄羅斯MTVmixUfa group-title=外語頻道 , 俄羅斯MTVmixUfa
+http://81.30.182.82:18092/hls/live.m3u8
+#EXTINF:-1 tvg-logo=俄羅斯NastoyashcheyeVremya.png tvg-name=俄羅斯NastoyashcheyeVremya group-title=外語頻道 , 俄羅斯NastoyashcheyeVremya
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
+#EXTINF:-1 tvg-logo=俄羅斯RBC(Opt-1).png tvg-name=俄羅斯RBC(Opt-1) group-title=外語頻道 , 俄羅斯RBC(Opt-1)
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 tvg-logo=俄羅斯ShansonTV(Opt-1).png tvg-name=俄羅斯ShansonTV(Opt-1) group-title=外語頻道 , 俄羅斯ShansonTV(Opt-1)
+http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=俄羅斯ShansonTV(Opt-2).png tvg-name=俄羅斯ShansonTV(Opt-2) group-title=外語頻道 , 俄羅斯ShansonTV(Opt-2)
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+#EXTINF:-1 tvg-logo=俄羅斯TivikomUlan-Udje.png tvg-name=俄羅斯TivikomUlan-Udje group-title=外語頻道 , 俄羅斯TivikomUlan-Udje
+http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
+#EXTINF:-1 tvg-logo=俄羅斯TjumenskoeVremja.png tvg-name=俄羅斯TjumenskoeVremja group-title=外語頻道 , 俄羅斯TjumenskoeVremja
+http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo=俄羅斯TopShop.png tvg-name=俄羅斯TopShop group-title=外語頻道 , 俄羅斯TopShop
+http://tv-topshop.netrack.ru/hls/topshop.m3u8
+#EXTINF:-1 tvg-logo=俄羅斯TROSoyuz.png tvg-name=俄羅斯TROSoyuz group-title=外語頻道 , 俄羅斯TROSoyuz
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 tvg-logo=波蘭StarsTV.png tvg-name=波蘭StarsTV group-title=外語頻道 , 波蘭StarsTV
+http://starstv.live.e55-po.insyscd.net/starstvhd.smil/index.m3u8
+#EXTINF:-1 tvg-logo=波蘭TVKujawy(Opt-1).png tvg-name=波蘭TVKujawy(Opt-1) group-title=外語頻道 , 波蘭TVKujawy(Opt-1)
+http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+#EXTINF:-1 tvg-logo=波蘭TVTorun.png tvg-name=波蘭TVTorun group-title=外語頻道 , 波蘭TVTorun
+http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
+#EXTINF:-1 tvg-logo=波蘭TVTrwam.png tvg-name=波蘭TVTrwam group-title=外語頻道 , 波蘭TVTrwam
+http://trwamtv.live.e55-po.insyscd.net/trwamtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=新西蘭Three.png tvg-name=新西蘭Three group-title=外語頻道 , 新西蘭Three
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
+#EXTINF:-1 tvg-logo=奧地利KRALHD.png tvg-name=奧地利KRALHD group-title=外語頻道 , 奧地利KRALHD
+http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:-1 tvg-logo=冰島RUV.png tvg-name=冰島RUV group-title=外語頻道 , 冰島RUV
+http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruverl/index/stream4.m3u8
+#EXTINF:-1 tvg-logo=丹麥TV2Bornholm.png tvg-name=丹麥TV2Bornholm group-title=外語頻道 , 丹麥TV2Bornholm
+http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
+#EXTINF:-1 tvg-logo=丹麥TV2Fyn.png tvg-name=丹麥TV2Fyn group-title=外語頻道 , 丹麥TV2Fyn
+http://cdn-lt-hls-vod.tv2fyn.dk/fhls/p/1966291/sp/196629100/serveFlavor/entryId/0_yct7rqn3/v/2/flavorId/0_h2wfmuqm/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-logo=丹麥TV2Lorry.png tvg-name=丹麥TV2Lorry group-title=外語頻道 , 丹麥TV2Lorry
+http://cdn-lt-hls-vod.tv2lorry.dk/fhls/p/2045321/sp/204532100/serveFlavor/entryId/0_0u9letdh/v/1/flavorId/0_p5f7q6yf/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-logo=丹麥TVSyd.png tvg-name=丹麥TVSyd group-title=外語頻道 , 丹麥TVSyd
+http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/t/ut3_n5VQ1FqzlqMhwbQmJg/index-s32.m3u8
+#EXTINF:-1 tvg-logo=挪威Kanal10.png tvg-name=挪威Kanal10 group-title=外語頻道 , 挪威Kanal10
+http://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8
+#EXTINF:-1 tvg-logo=挪威Stortinget.png tvg-name=挪威Stortinget group-title=外語頻道 , 挪威Stortinget
+http://flash0.19333-live0.dna.qbrick.com:1935/19333-live0/push-stortinget_1/playlist.m3u8
+#EXTINF:-1 tvg-logo=芬蘭YLETV1.png tvg-name=芬蘭YLETV1 group-title=外語頻道 , 芬蘭YLETV1
+http://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/index_2764_av-p.m3u8
+#EXTINF:-1 tvg-logo=芬蘭YLETV2.png tvg-name=芬蘭YLETV2 group-title=外語頻道 , 芬蘭YLETV2
+http://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/index_2764_av-p.m3u8
+#EXTINF:-1 tvg-logo=瑞典Kanal10.png tvg-name=瑞典Kanal10 group-title=外語頻道 , 瑞典Kanal10
+http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=比利時RadioContact102.2FMBrussels.png tvg-name=比利時RadioContact102.2FMBrussels group-title=外語頻道 , 比利時RadioContact102.2FMBrussels
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+#EXTINF:-1 tvg-logo=比利時RTL-TVI.png tvg-name=比利時RTL-TVI group-title=外語頻道 , 比利時RTL-TVI
+http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
+#EXTINF:-1 tvg-logo=喀麥隆Vision4.png tvg-name=喀麥隆Vision4 group-title=外語頻道 , 喀麥隆Vision4
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
+#EXTINF:-1 tvg-logo=瑞士TeleM1.png tvg-name=瑞士TeleM1 group-title=外語頻道 , 瑞士TeleM1
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8
+#EXTINF:-1 tvg-logo=瑞士TeleBarn.png tvg-name=瑞士TeleBarn group-title=外語頻道 , 瑞士TeleBarn
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8
+#EXTINF:-1 tvg-logo=拉丁美洲LaMegaMundial.png tvg-name=拉丁美洲LaMegaMundial group-title=外語頻道 , 拉丁美洲LaMegaMundial
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+#EXTINF:-1 tvg-logo=拉丁美洲TVMarti.png tvg-name=拉丁美洲TVMarti group-title=外語頻道 , 拉丁美洲TVMarti
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+#EXTINF:-1 tvg-logo=墨西哥Capital21MexicoCity.png tvg-name=墨西哥Capital21MexicoCity group-title=外語頻道 , 墨西哥Capital21MexicoCity
+http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
+#EXTINF:-1 tvg-logo=墨西哥Teleformula(New).png tvg-name=墨西哥Teleformula(New) group-title=外語頻道 , 墨西哥Teleformula(New)
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+#EXTINF:-1 tvg-logo=墨西哥UnoTV(VOD).png tvg-name=墨西哥UnoTV(VOD) group-title=外語頻道 , 墨西哥UnoTV(VOD)
+http://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
+#EXTINF:-1 tvg-logo=阿根廷Canal4Posadas.png tvg-name=阿根廷Canal4Posadas group-title=外語頻道 , 阿根廷Canal4Posadas
+http://184.154.28.210:1935/canal4/canal4/live.m3u8
+#EXTINF:-1 tvg-logo=阿根廷CanalProvincialSanMiguel.png tvg-name=阿根廷CanalProvincialSanMiguel group-title=外語頻道 , 阿根廷CanalProvincialSanMiguel
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1 tvg-logo=阿根廷GarageTV.png tvg-name=阿根廷GarageTV group-title=外語頻道 , 阿根廷GarageTV
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:-1 tvg-logo=阿根廷RadioTVNeuquen.png tvg-name=阿根廷RadioTVNeuquen group-title=外語頻道 , 阿根廷RadioTVNeuquen
+http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
+#EXTINF:-1 tvg-logo=秘魯AntaresTV.png tvg-name=秘魯AntaresTV group-title=外語頻道 , 秘魯AntaresTV
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1 tvg-logo=秘魯MonterricoTV.png tvg-name=秘魯MonterricoTV group-title=外語頻道 , 秘魯MonterricoTV
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:-1 tvg-logo=秘魯TVPeru.png tvg-name=秘魯TVPeru group-title=外語頻道 , 秘魯TVPeru
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0003&mode=12
+#EXTINF:-1 tvg-logo=烏拉圭CanalM.png tvg-name=烏拉圭CanalM group-title=外語頻道 , 烏拉圭CanalM
+http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w1488231185.m3u8
+#EXTINF:-1 tvg-logo=哥斯達黎加ExtremaTV.png tvg-name=哥斯達黎加ExtremaTV group-title=外語頻道 , 哥斯達黎加ExtremaTV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo=哥斯達黎加Telesur.png tvg-name=哥斯達黎加Telesur group-title=外語頻道 , 哥斯達黎加Telesur
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-1 tvg-logo=羅馬尼亞CromtelTV.png tvg-name=羅馬尼亞CromtelTV group-title=外語頻道 , 羅馬尼亞CromtelTV
+http://webmobile.xdev.ro:81/tv7/playlist.m3u8?time=1463062060161
+#EXTINF:-1 tvg-logo=羅馬尼亞IasiTVLife.png tvg-name=羅馬尼亞IasiTVLife group-title=外語頻道 , 羅馬尼亞IasiTVLife
+http://webmobile.xdev.ro:81/tv24/playlist.m3u8?time=1464028219168
+#EXTINF:-1 tvg-logo=羅馬尼亞TVKit.png tvg-name=羅馬尼亞TVKit group-title=外語頻道 , 羅馬尼亞TVKit
+http://webmobile.xdev.ro:81/tv9/playlist.m3u8
+#EXTINF:-1 tvg-logo=摩爾多瓦TeleM.png tvg-name=摩爾多瓦TeleM group-title=外語頻道 , 摩爾多瓦TeleM
+http://webmobile.xdev.ro:81/tv16/playlist.m3u8
+#EXTINF:-1 tvg-logo=塞爾維亞TVPartizan.png tvg-name=塞爾維亞TVPartizan group-title=外語頻道 , 塞爾維亞TVPartizan
+http://212.200.102.3:5000/udp/239.99.99.99:23999
+#EXTINF:-1 tvg-logo=塞爾維亞TVKopernikus2.png tvg-name=塞爾維亞TVKopernikus2 group-title=外語頻道 , 塞爾維亞TVKopernikus2
+http://212.200.102.3:5000/rtp/239.0.0.2:5000
+#EXTINF:-1 tvg-logo=塞爾維亞TVKopernikus3.png tvg-name=塞爾維亞TVKopernikus3 group-title=外語頻道 , 塞爾維亞TVKopernikus3
+http://212.200.102.3:5000/rtp/239.0.0.3:5000
+#EXTINF:-1 tvg-logo=波斯尼亞777TehnikaTV.png tvg-name=波斯尼亞777TehnikaTV group-title=外語頻道 , 波斯尼亞777TehnikaTV
+http://109.123.70.27:1935/tehnikatv777/tehnikatv777/playlist.m3u8
+#EXTINF:-1 tvg-logo=馬其頓SkyFolkTV.png tvg-name=馬其頓SkyFolkTV group-title=外語頻道 , 馬其頓SkyFolkTV
+http://skyfolk.mk/live.m3u8
+#EXTINF:-1 tvg-logo=烏克蘭100%News.png tvg-name=烏克蘭100%News group-title=外語頻道 , 烏克蘭100%News
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1 tvg-logo=烏克蘭Lale.png tvg-name=烏克蘭Lale group-title=外語頻道 , 烏克蘭Lale
+http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:-1 tvg-logo=烏克蘭M2.png tvg-name=烏克蘭M2 group-title=外語頻道 , 烏克蘭M2
+http://live.m2.tv/hls/stream.m3u8
+#EXTINF:-1 tvg-logo=捷克Retro(Opt-1).png tvg-name=捷克Retro(Opt-1) group-title=外語頻道 , 捷克Retro(Opt-1)
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-logo=斯洛伐克TV8.png tvg-name=斯洛伐克TV8 group-title=外語頻道 , 斯洛伐克TV8
+http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
+#EXTINF:-1 tvg-logo=斯洛伐克TVNZ.png tvg-name=斯洛伐克TVNZ group-title=外語頻道 , 斯洛伐克TVNZ
+http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8
+#EXTINF:-1 tvg-logo=拉脫維亞ChauTV.png tvg-name=拉脫維亞ChauTV group-title=外語頻道 , 拉脫維亞ChauTV
+http://video.chaula.tv/hls/live/high/playlist_high.m3u8
+#EXTINF:-1 tvg-logo=拉脫維亞RETV.png tvg-name=拉脫維亞RETV group-title=外語頻道 , 拉脫維亞RETV
+http://edge-telia1.tiesraides.lv/live/retv.lv.1_1/playlist_b1825196.m3u8
+#EXTINF:-1 tvg-logo=拉脫維亞TVNet.png tvg-name=拉脫維亞TVNet group-title=外語頻道 , 拉脫維亞TVNet
+http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
+#EXTINF:-1 tvg-logo=希臘FoxTV.png tvg-name=希臘FoxTV group-title=外語頻道 , 希臘FoxTV
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+#EXTINF:-1 tvg-logo=希臘IonianChannel.png tvg-name=希臘IonianChannel group-title=外語頻道 , 希臘IonianChannel
+http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
+#EXTINF:-1 tvg-logo=塞浦路斯SigmaTV(Greek).png tvg-name=塞浦路斯SigmaTV(Greek) group-title=外語頻道 , 塞浦路斯SigmaTV(Greek)
+http://81.21.47.74/hls/live.m3u8
+#EXTINF:-1 tvg-logo=土耳其CayTV.png tvg-name=土耳其CayTV group-title=外語頻道 , 土耳其CayTV
+http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
+#EXTINF:-1 tvg-logo=土耳其CNNTurk.png tvg-name=土耳其CNNTurk group-title=外語頻道 , 土耳其CNNTurk
+http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1 tvg-logo=土耳其DreamTV.png tvg-name=土耳其DreamTV group-title=外語頻道 , 土耳其DreamTV
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:-1 tvg-logo=土耳其DreamturkTV.png tvg-name=土耳其DreamturkTV group-title=外語頻道 , 土耳其DreamturkTV
+http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
+#EXTINF:-1 tvg-logo=土耳其KanalD.png tvg-name=土耳其KanalD group-title=外語頻道 , 土耳其KanalD
+http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
+#EXTINF:-1 tvg-logo=土耳其MeclisTV.png tvg-name=土耳其MeclisTV group-title=外語頻道 , 土耳其MeclisTV
+http://mecliscanlitv-lh.akamaihd.net:80/i/MECLISTV_1@127503/master.m3u8
+#EXTINF:-1 tvg-logo=印度ABPAsmita.png tvg-name=印度ABPAsmita group-title=外語頻道 , 印度ABPAsmita
+http://abpasmita-lh.akamaihd.net:80/i/abpasmita_1@77821/master.m3u8
+#EXTINF:-1 tvg-logo=印度DDNews.png tvg-name=印度DDNews group-title=外語頻道 , 印度DDNews
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+#EXTINF:-1 tvg-logo=印度VasanthTVTamil.png tvg-name=印度VasanthTVTamil group-title=外語頻道 , 印度VasanthTVTamil
+http://vasanth.live.cdn.bitgravity.com/vasanth/secure/live/feed03?e=0&h=a9be0836bc39f96d0a9a958a659dfc1d&bgsecuredir=1
+#EXTINF:-1 tvg-logo=巴基斯坦LahoreNews.png tvg-name=巴基斯坦LahoreNews group-title=外語頻道 , 巴基斯坦LahoreNews
+http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
+#EXTINF:-1 tvg-logo=伊朗PBCTapeshTV.png tvg-name=伊朗PBCTapeshTV group-title=外語頻道 , 伊朗PBCTapeshTV
+http://iptv.tapesh.tv/tapesh/playlist.m3u8
+#EXTINF:-1 tvg-logo=伊朗RangarangTV.png tvg-name=伊朗RangarangTV group-title=外語頻道 , 伊朗RangarangTV
+http://iptv.rangarang.us/live/playlist.m3u8
+#EXTINF:-1 tvg-logo=阿拉伯半島電視新聞網AlHurra.png tvg-name=阿拉伯半島電視新聞網AlHurra group-title=外語頻道 , 阿拉伯半島電視新聞網AlHurra
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1 tvg-logo=阿拉伯半島電視新聞網DeutscheWelle.png tvg-name=阿拉伯半島電視新聞網DeutscheWelle group-title=外語頻道 , 阿拉伯半島電視新聞網DeutscheWelle
+http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
+#EXTINF:-1 tvg-logo=阿拉伯半島電視新聞網TRT.png tvg-name=阿拉伯半島電視新聞網TRT group-title=外語頻道 , 阿拉伯半島電視新聞網TRT
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+#EXTINF:-1 tvg-logo=伊拉克AlSharqiya.png tvg-name=伊拉克AlSharqiya group-title=外語頻道 , 伊拉克AlSharqiya
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:-1 tvg-logo=伊拉克SharqiyaNews.png tvg-name=伊拉克SharqiyaNews group-title=外語頻道 , 伊拉克SharqiyaNews
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 tvg-logo=阿拉伯聯合酋長國AlArabiya.png tvg-name=阿拉伯聯合酋長國AlArabiya group-title=外語頻道 , 阿拉伯聯合酋長國AlArabiya
+http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
+#EXTINF:-1 tvg-logo=阿拉伯聯合酋長國DubaiOne.png tvg-name=阿拉伯聯合酋長國DubaiOne group-title=外語頻道 , 阿拉伯聯合酋長國DubaiOne
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
+#EXTINF:-1 tvg-logo=卡塔爾AlKassSports3.png tvg-name=卡塔爾AlKassSports3 group-title=外語頻道 , 卡塔爾AlKassSports3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1 tvg-logo=卡塔爾AlKassSports4.png tvg-name=卡塔爾AlKassSports4 group-title=外語頻道 , 卡塔爾AlKassSports4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1 tvg-logo=摩洛哥AlAoulaInternational.png tvg-name=摩洛哥AlAoulaInternational group-title=外語頻道 , 摩洛哥AlAoulaInternational
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo=摩洛哥Arryadia.png tvg-name=摩洛哥Arryadia group-title=外語頻道 , 摩洛哥Arryadia
+http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo=摩洛哥AlMaghribia.png tvg-name=摩洛哥AlMaghribia group-title=外語頻道 , 摩洛哥AlMaghribia
+http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo=加納TVAfrica(Ghana).png tvg-name=加納TVAfrica(Ghana) group-title=外語頻道 , 加納TVAfrica(Ghana)
+http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
+#EXTINF:-1 tvg-logo=24小時.png tvg-name=24小時 group-title=外語頻道 , 24小時
+http://hls-ott-zhibo.wasu.tv/live/250/index.m3u8
+#EXTINF:-1 tvg-logo=30AMusic.png tvg-name=30AMusic group-title=外語頻道 , 30AMusic
+http://30a-tv.com/music.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo=7SMusic.png tvg-name=7SMusic group-title=外語頻道 , 7SMusic
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+#EXTINF:-1 tvg-logo=AkaramMix.png tvg-name=AkaramMix group-title=外語頻道 , AkaramMix
+http://akaram.zecast.net/akaram-live/akarammix1/playlist.m3u8
+#EXTINF:-1 tvg-logo=B4UKadak.png tvg-name=B4UKadak group-title=外語頻道 , B4UKadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:-1 tvg-logo=B4UMovies.png tvg-name=B4UMovies group-title=外語頻道 , B4UMovies
+http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/index.m3u8
+#EXTINF:-1 tvg-logo=B4UMusic.png tvg-name=B4UMusic group-title=外語頻道 , B4UMusic
+http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
+#EXTINF:-1 tvg-logo=B4UMusic.png tvg-name=B4UMusic group-title=外語頻道 , B4UMusic
+http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo=BlackCinema.png tvg-name=BlackCinema group-title=外語頻道 , BlackCinema
+https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 tvg-logo=BritAsiaTV(USEastern).png tvg-name=BritAsiaTV(USEastern) group-title=外語頻道 , BritAsiaTV(USEastern)
+https://a.jsrdn.com/broadcast/22693_f4GTv8Jk_hi/-0500/c.m3u8
+#EXTINF:-1 tvg-logo=BritAsiaTV(USPacific).png tvg-name=BritAsiaTV(USPacific) group-title=外語頻道 , BritAsiaTV(USPacific)
+https://a.jsrdn.com/broadcast/22693_f4GTv8Jk_low/-0800/c.m3u8
+#EXTINF:-1 tvg-logo=BritAsiaTV.png tvg-name=BritAsiaTV group-title=外語頻道 , BritAsiaTV
+https://a.jsrdn.com/broadcast/22693_f4GTv8Jk_hi/-0800/c.m3u8
+#EXTINF:-1 tvg-logo=新傳媒5頻道.png tvg-name=新傳媒5頻道 group-title=外語頻道 , 新傳媒5頻道
+https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+#EXTINF:-1 tvg-logo=新傳媒8頻道.png tvg-name=新傳媒8頻道 group-title=外語頻道 , 新傳媒8頻道
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+#EXTINF:-1 tvg-logo=新傳媒U頻道.png tvg-name=新傳媒U頻道 group-title=外語頻道 , 新傳媒U頻道
+https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
+#EXTINF:-1 tvg-logo=新傳媒亞洲新聞.png tvg-name=新傳媒亞洲新聞 group-title=外語頻道 , 新傳媒亞洲新聞
+https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
+#EXTINF:-1 tvg-logo=新加坡okto頻道.png tvg-name=新加坡okto頻道 group-title=外語頻道 , 新加坡okto頻道
+https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
+#EXTINF:-1 tvg-logo=新加坡SURIA頻道.png tvg-name=新加坡SURIA頻道 group-title=外語頻道 , 新加坡SURIA頻道
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+#EXTINF:-1 tvg-logo=新加坡VASANTHAM頻道.png tvg-name=新加坡VASANTHAM頻道 group-title=外語頻道 , 新加坡VASANTHAM頻道
+https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
+#EXTINF:-1 tvg-logo=韓國G1SBS[640*360].png tvg-name=韓國G1SBS[640*360] group-title=外語頻道 , 韓國G1SBS[640*360]
+http://smart.igtb.co.kr:1935/live/stream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo=希臘CannaliTV[1280*720].png tvg-name=希臘CannaliTV[1280*720] group-title=外語頻道 , 希臘CannaliTV[1280*720]
+http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
+#EXTINF:-1 tvg-logo=巴基斯坦Eye95TV(US)[1280*720].png tvg-name=巴基斯坦Eye95TV(US)[1280*720] group-title=外語頻道 , 巴基斯坦Eye95TV(US)[1280*720]
+http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
+#EXTINF:-1 tvg-logo=朝鮮中央電視台[720*480].png tvg-name=朝鮮中央電視台[720*480] group-title=外語頻道 , 朝鮮中央電視台[720*480]
+http://tv.nknews.org/tvhls/stream.m3u8
+#EXTINF:-1 tvg-logo=衛視卡式台[1280*720].png tvg-name=衛視卡式台[1280*720] group-title=外語頻道 , 衛視卡式台[1280*720]
+http://iliketot.dyndns.tv/c8233976dbba4a06a101780907447375.m3u8
+#EXTINF:-1 tvg-logo=泰國PBS[1920*1080].png tvg-name=泰國PBS[1920*1080] group-title=外語頻道 , 泰國PBS[1920*1080]
+http://thaipbs-live.cdn.byteark.com/live-en/playlist_1080p/index.m3u8
+#EXTINF:-1 tvg-logo=日本JapanetChannelDX[640*360].png tvg-name=日本JapanetChannelDX[640*360] group-title=外語頻道 , 日本JapanetChannelDX[640*360]
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+#EXTINF:-1 tvg-logo=日本JapanNews24[854*480].png tvg-name=日本JapanNews24[854*480] group-title=外語頻道 , 日本JapanNews24[854*480]
+https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1 tvg-logo=日本購物頻道JapanetDXChannel[480*270].png tvg-name=日本購物頻道JapanetDXChannel[480*270] group-title=外語頻道 , 日本購物頻道JapanetDXChannel[480*270]
+https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
+#EXTINF:-1 tvg-logo=日本動畫ANIPLUSHD[1024*576].png tvg-name=日本動畫ANIPLUSHD[1024*576] group-title=外語頻道 , 日本動畫ANIPLUSHD[1024*576]
+http://45.126.83.51/dr9445/h/h02/01.m3u8
+#EXTINF:-1 tvg-logo=NHKWORLD[1280*720].png tvg-name=NHKWORLD[1280*720] group-title=外語頻道 , NHKWORLD[1280*720]
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/domestic/263942/live_stv_s.m3u8
+#EXTINF:-1 tvg-logo=NHKWorld[1280*720].png tvg-name=NHKWorld[1280*720] group-title=外語頻道 , NHKWorld[1280*720]
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_high2_s.m3u8
+#EXTINF:-1 tvg-logo=美國TVW[1920*1080].png tvg-name=美國TVW[1920*1080] group-title=外語頻道 , 美國TVW[1920*1080]
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+#EXTINF:-1 tvg-logo=美國WeatherNation[1280*720].png tvg-name=美國WeatherNation[1280*720] group-title=外語頻道 , 美國WeatherNation[1280*720]
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1 tvg-logo=美國本土NBC11News(BayArea).[844*416].png tvg-name=美國本土NBC11News(BayArea).[844*416] group-title=外語頻道 , 美國本土NBC11News(BayArea).[844*416]
+http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
+#EXTINF:-1 tvg-logo=美國NBC[640*360].png tvg-name=美國NBC[640*360] group-title=外語頻道 , 美國NBC[640*360]
+http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1 tvg-logo=美國CBS[1280*720].png tvg-name=美國CBS[1280*720] group-title=外語頻道 , 美國CBS[1280*720]
+http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
+#EXTINF:-1 tvg-logo=美國CBS[640*360].png tvg-name=美國CBS[640*360] group-title=外語頻道 , 美國CBS[640*360]
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+#EXTINF:-1 tvg-logo=美國CMC音樂頻道[1280*720].png tvg-name=美國CMC音樂頻道[1280*720] group-title=外語頻道 , 美國CMC音樂頻道[1280*720]
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
+#EXTINF:-1 tvg-logo=美國彭博財經BloombergTV[1280*720].png tvg-name=美國彭博財經BloombergTV[1280*720] group-title=外語頻道 , 美國彭博財經BloombergTV[1280*720]
+http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 tvg-logo=美國舒緩頻道SilenceTVWorldHD[1280*720].png tvg-name=美國舒緩頻道SilenceTVWorldHD[1280*720] group-title=外語頻道 , 美國舒緩頻道SilenceTVWorldHD[1280*720]
+http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+#EXTINF:-1 tvg-logo=美國眾議院HouseofRepresentatives[640*360].png tvg-name=美國眾議院HouseofRepresentatives[640*360] group-title=外語頻道 , 美國眾議院HouseofRepresentatives[640*360]
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
+#EXTINF:-1 tvg-logo=美國佛羅里達州電視台TheFloridaChannel[854*480].png tvg-name=美國佛羅里達州電視台TheFloridaChannel[854*480] group-title=外語頻道 , 美國佛羅里達州電視台TheFloridaChannel[854*480]
+http://wowzaprod4-i.akamaihd.net/hls/live/254057/persisTarget_2443575804_tvweb1_247_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo=美國WVIT30News(康涅狄格州哈特福德)[512*288].png tvg-name=美國WVIT30News(康涅狄格州哈特福德)[512*288] group-title=外語頻道 , 美國WVIT30News(康涅狄格州哈特福德)[512*288]
+http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
+#EXTINF:-1 tvg-logo=美國NewsmaxTV[1920*1080].png tvg-name=美國NewsmaxTV[1920*1080] group-title=外語頻道 , 美國NewsmaxTV[1920*1080]
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-logo=美國OrangeTV[640*360].png tvg-name=美國OrangeTV[640*360] group-title=外語頻道 , 美國OrangeTV[640*360]
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+#EXTINF:-1 tvg-logo=美國哥倫比亞特區網絡電視DistrictofColumbia[416*234].png tvg-name=美國哥倫比亞特區網絡電視DistrictofColumbia[416*234] group-title=外語頻道 , 美國哥倫比亞特區網絡電視DistrictofColumbia[416*234]
+http://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:-1 tvg-logo=美國國家氣象頻道TheWeatherChannel[640*360].png tvg-name=美國國家氣象頻道TheWeatherChannel[640*360] group-title=外語頻道 , 美國國家氣象頻道TheWeatherChannel[640*360]
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 tvg-logo=美國LifevisionTV[1280*720].png tvg-name=美國LifevisionTV[1280*720] group-title=外語頻道 , 美國LifevisionTV[1280*720]
+http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=美國SIDEWALKSHD娛樂頻道[1280*720].png tvg-name=美國SIDEWALKSHD娛樂頻道[1280*720] group-title=外語頻道 , 美國SIDEWALKSHD娛樂頻道[1280*720]
+http://30a-tv.com/sidewalks.m3u8
+#EXTINF:-1 tvg-logo=美國福音派基督教電視頻道RadiantTV[720*540].png tvg-name=美國福音派基督教電視頻道RadiantTV[720*540] group-title=外語頻道 , 美國福音派基督教電視頻道RadiantTV[720*540]
+http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo=美國購物QVCTVHDUK[960*540].png tvg-name=美國購物QVCTVHDUK[960*540] group-title=外語頻道 , 美國購物QVCTVHDUK[960*540]
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
+#EXTINF:-1 tvg-logo=美國購物QVCBeautyTVHDUK[960*540].png tvg-name=美國購物QVCBeautyTVHDUK[960*540] group-title=外語頻道 , 美國購物QVCBeautyTVHDUK[960*540]
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/3/prog_index.m3u8
+#EXTINF:-1 tvg-logo=美國彭博歐洲[1280*720].png tvg-name=美國彭博歐洲[1280*720] group-title=外語頻道 , 美國彭博歐洲[1280*720]
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+#EXTINF:-1 tvg-logo=REDBULLTV[1280*720].png tvg-name=REDBULLTV[1280*720] group-title=外語頻道 , REDBULLTV[1280*720]
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-logo=RedBullTV[320*180].png tvg-name=RedBullTV[320*180] group-title=外語頻道 , RedBullTV[320*180]
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
+#EXTINF:-1 tvg-logo=AMERICANHORRORS[288p][720*540].png tvg-name=AMERICANHORRORS[288p][720*540] group-title=外語頻道 , AMERICANHORRORS[288p][720*540]
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo=FreeSpeechTV[848*480].png tvg-name=FreeSpeechTV[848*480] group-title=外語頻道 , FreeSpeechTV[848*480]
+http://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+#EXTINF:-1 tvg-logo=加拿大Space[1280*720].png tvg-name=加拿大Space[1280*720] group-title=外語頻道 , 加拿大Space[1280*720]
+http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
+#EXTINF:-1 tvg-logo=加拿大BBCToronto印第安頻道[1280*720].png tvg-name=加拿大BBCToronto印第安頻道[1280*720] group-title=外語頻道 , 加拿大BBCToronto印第安頻道[1280*720]
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo=荷蘭OmroepWest[1920*1080].png tvg-name=荷蘭OmroepWest[1920*1080] group-title=外語頻道 , 荷蘭OmroepWest[1920*1080]
+http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
+#EXTINF:-1 tvg-logo=法國France24(英語)[1024*576].png tvg-name=法國France24(英語)[1024*576] group-title=外語頻道 , 法國France24(英語)[1024*576]
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-logo=法國GongTV[416*234].png tvg-name=法國GongTV[416*234] group-title=外語頻道 , 法國GongTV[416*234]
+http://51.254.215.79/appflux/gong/playlist.m3u8
+#EXTINF:-1 tvg-logo=法國法語天主教電視頻道KTO[320*178].png tvg-name=法國法語天主教電視頻道KTO[320*178] group-title=外語頻道 , 法國法語天主教電視頻道KTO[320*178]
+http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
+#EXTINF:-1 tvg-logo=法國NagoTV[1280*720].png tvg-name=法國NagoTV[1280*720] group-title=外語頻道 , 法國NagoTV[1280*720]
+http://haititivi.com:8088/haititv/tele6NY/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=法國Djingtv[640*360].png tvg-name=法國Djingtv[640*360] group-title=外語頻道 , 法國Djingtv[640*360]
+https://www.djing.com/tv/28346-04.m3u8
+#EXTINF:-1 tvg-logo=法國Djingdance[640*360].png tvg-name=法國Djingdance[640*360] group-title=外語頻道 , 法國Djingdance[640*360]
+https://www.djing.com/tv/d-28346-04.m3u8
+#EXTINF:-1 tvg-logo=法國Djinganimation[640*360].png tvg-name=法國Djinganimation[640*360] group-title=外語頻道 , 法國Djinganimation[640*360]
+https://www.djing.com/tv/a-28346-04.m3u8
+#EXTINF:-1 tvg-logo=法國Djingunderground[640*360].png tvg-name=法國Djingunderground[640*360] group-title=外語頻道 , 法國Djingunderground[640*360]
+https://www.djing.com/tv/u-28346-04.m3u8
+#EXTINF:-1 tvg-logo=法國Djingsummervibes[1280*720].png tvg-name=法國Djingsummervibes[1280*720] group-title=外語頻道 , 法國Djingsummervibes[1280*720]
+https://www.djing.com/tv/s-28346-05-summer-vibes.m3u8
+#EXTINF:-1 tvg-logo=法國Djingfrenchtouch[1280*720].png tvg-name=法國Djingfrenchtouch[1280*720] group-title=外語頻道 , 法國Djingfrenchtouch[1280*720]
+https://www.djing.com/tv/s-28346-05-french-touch.m3u8
+#EXTINF:-1 tvg-logo=法國Djingkardoke[1280*720].png tvg-name=法國Djingkardoke[1280*720] group-title=外語頻道 , 法國Djingkardoke[1280*720]
+https://www.djing.com/tv/k-28346-04.m3u8
+#EXTINF:-1 tvg-logo=法國Djinghedonist[1280*720].png tvg-name=法國Djinghedonist[1280*720] group-title=外語頻道 , 法國Djinghedonist[1280*720]
+https://www.djing.com/tv/s-28346-05-hedonist.m3u8
+#EXTINF:-1 tvg-logo=法國DjingElectroRock[1280*720].png tvg-name=法國DjingElectroRock[1280*720] group-title=外語頻道 , 法國DjingElectroRock[1280*720]
+http://www.djing.com/tv/s-27911-05-electro-rock.m3u8
+#EXTINF:-1 tvg-logo=法國DjingHedonist[1280*720].png tvg-name=法國DjingHedonist[1280*720] group-title=外語頻道 , 法國DjingHedonist[1280*720]
+http://www.djing.com/tv/s-27911-05-hedonist.m3u8
+#EXTINF:-1 tvg-logo=法國DjingHotFrankrijk[1280*720].png tvg-name=法國DjingHotFrankrijk[1280*720] group-title=外語頻道 , 法國DjingHotFrankrijk[1280*720]
+http://www.djing.com/tv/h-05-fta.m3u8
+#EXTINF:-1 tvg-logo=法國DjingSummerVibes[1280*720].png tvg-name=法國DjingSummerVibes[1280*720] group-title=外語頻道 , 法國DjingSummerVibes[1280*720]
+http://www.djing.com/tv/s-27911-05-summer-vibes.m3u8
+#EXTINF:-1 tvg-logo=法國Djing打碟法國直播[1280*720].png tvg-name=法國Djing打碟法國直播[1280*720] group-title=外語頻道 , 法國Djing打碟法國直播[1280*720]
+https://www.djing.com/tv/s-28513-05-french-touch.m3u8
+#EXTINF:-1 tvg-logo=法國Djing打碟地下直播[640*360].png tvg-name=法國Djing打碟地下直播[640*360] group-title=外語頻道 , 法國Djing打碟地下直播[640*360]
+https://www.djing.com/tv/u-28513-05.m3u8
+#EXTINF:-1 tvg-logo=法國Djing經典直播[640*360].png tvg-name=法國Djing經典直播[640*360] group-title=外語頻道 , 法國Djing經典直播[640*360]
+https://www.djing.com/tv/i-28513-05.m3u8
+#EXTINF:-1 tvg-logo=法國Djing動畫[640*360].png tvg-name=法國Djing動畫[640*360] group-title=外語頻道 , 法國Djing動畫[640*360]
+https://www.djing.com/tv/a-28513-05.m3u8
+#EXTINF:-1 tvg-logo=法國Djing舞曲[640*360].png tvg-name=法國Djing舞曲[640*360] group-title=外語頻道 , 法國Djing舞曲[640*360]
+https://www.djing.com/tv/live.m3u8
+#EXTINF:-1 tvg-logo=德國DeutscheWelle(Opt-2)[400*224].png tvg-name=德國DeutscheWelle(Opt-2)[400*224] group-title=外語頻道 , 德國DeutscheWelle(Opt-2)[400*224]
+http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
+#EXTINF:-1 tvg-logo=德國DeutscheWelle(Opt-3)[400*224].png tvg-name=德國DeutscheWelle(Opt-3)[400*224] group-title=外語頻道 , 德國DeutscheWelle(Opt-3)[400*224]
+http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
+#EXTINF:-1 tvg-logo=德國DeutscheWelleLatino|SD[400*224].png tvg-name=德國DeutscheWelleLatino|SD[400*224] group-title=外語頻道 , 德國DeutscheWelleLatino|SD[400*224]
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:-1 tvg-logo=德國hr-fernsehen[320*180].png tvg-name=德國hr-fernsehen[320*180] group-title=外語頻道 , 德國hr-fernsehen[320*180]
+http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
+#EXTINF:-1 tvg-logo=西班牙皇家馬德里電視台RealMadridTV|SD[320*180].png tvg-name=西班牙皇家馬德里電視台RealMadridTV|SD[320*180] group-title=外語頻道 , 西班牙皇家馬德里電視台RealMadridTV|SD[320*180]
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 tvg-logo=西班牙皇家馬德里電視台RealMadridTV|SD[720*404].png tvg-name=西班牙皇家馬德里電視台RealMadridTV|SD[720*404] group-title=外語頻道 , 西班牙皇家馬德里電視台RealMadridTV|SD[720*404]
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
+#EXTINF:-1 tvg-logo=西班牙皇家馬德里電視台RealMadridTV|SD[720*404].png tvg-name=西班牙皇家馬德里電視台RealMadridTV|SD[720*404] group-title=外語頻道 , 西班牙皇家馬德里電視台RealMadridTV|SD[720*404]
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1 tvg-logo=西班牙穆爾西亞自治電視頻道7Murcia[320*180].png tvg-name=西班牙穆爾西亞自治電視頻道7Murcia[320*180] group-title=外語頻道 , 西班牙穆爾西亞自治電視頻道7Murcia[320*180]
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF:-1 tvg-logo=西班牙13TV[1024*576].png tvg-name=西班牙13TV[1024*576] group-title=外語頻道 , 西班牙13TV[1024*576]
+http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
+#EXTINF:-1 tvg-logo=西班牙CanariaSAT[640*360].png tvg-name=西班牙CanariaSAT[640*360] group-title=外語頻道 , 西班牙CanariaSAT[640*360]
+http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=西班牙AlientoVision[640*360].png tvg-name=西班牙AlientoVision[640*360] group-title=外語頻道 , 西班牙AlientoVision[640*360]
+http://livestreamcdn.net:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=西班牙AlientoVision[854*480].png tvg-name=西班牙AlientoVision[854*480] group-title=外語頻道 , 西班牙AlientoVision[854*480]
+http://livestreamcdn.net:1935/AlientoSD/AlientoSD/chunklist_w544350465.m3u8
+#EXTINF:-1 tvg-logo=西班牙Ranchenato[854*480].png tvg-name=西班牙Ranchenato[854*480] group-title=外語頻道 , 西班牙Ranchenato[854*480]
+http://66.240.236.25:1936/ranchenato/ranchenato/playlist.m3u8
+#EXTINF:-1 tvg-logo=意大利RadioIglesias[1024*576].png tvg-name=意大利RadioIglesias[1024*576] group-title=外語頻道 , 意大利RadioIglesias[1024*576]
+http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
+#EXTINF:-1 tvg-logo=意大利TeleArena[854*480].png tvg-name=意大利TeleArena[854*480] group-title=外語頻道 , 意大利TeleArena[854*480]
+http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo=意大利teleMonteneve[854*480].png tvg-name=意大利teleMonteneve[854*480] group-title=外語頻道 , 意大利teleMonteneve[854*480]
+http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8
+#EXTINF:-1 tvg-logo=意大利Canale7[854*480].png tvg-name=意大利Canale7[854*480] group-title=外語頻道 , 意大利Canale7[854*480]
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+#EXTINF:-1 tvg-logo=意大利CarinaTV[854*480].png tvg-name=意大利CarinaTV[854*480] group-title=外語頻道 , 意大利CarinaTV[854*480]
+http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
+#EXTINF:-1 tvg-logo=意大利eTVMarche[1080*576].png tvg-name=意大利eTVMarche[1080*576] group-title=外語頻道 , 意大利eTVMarche[1080*576]
+http://live.streamcaster.net:1935/etvmarche_live/etvmarche/livestream.m3u8
+#EXTINF:-1 tvg-logo=意大利教育電視頻道UniNettunoUniversityT[704*396].png tvg-name=意大利教育電視頻道UniNettunoUniversityT[704*396] group-title=外語頻道 , 意大利教育電視頻道UniNettunoUniversityT[704*396]
+http://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
+#EXTINF:-1 tvg-logo=意大利DeejayTV音樂頻道[640*360].png tvg-name=意大利DeejayTV音樂頻道[640*360] group-title=外語頻道 , 意大利DeejayTV音樂頻道[640*360]
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+#EXTINF:-1 tvg-logo=意大利HistoryLab[480*270].png tvg-name=意大利HistoryLab[480*270] group-title=外語頻道 , 意大利HistoryLab[480*270]
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo=俄羅斯HTMHD[1280*720].png tvg-name=俄羅斯HTMHD[1280*720] group-title=外語頻道 , 俄羅斯HTMHD[1280*720]
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=俄羅斯International[698*512].png tvg-name=俄羅斯International[698*512] group-title=外語頻道 , 俄羅斯International[698*512]
+http://sc.id-tv.kz/STS_36_37.m3u8
+#EXTINF:-1 tvg-logo=俄羅斯RBC(Opt-3)[1024*576].png tvg-name=俄羅斯RBC(Opt-3)[1024*576] group-title=外語頻道 , 俄羅斯RBC(Opt-3)[1024*576]
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1 tvg-logo=美國CBSNNews[1280*720].png tvg-name=美國CBSNNews[1280*720] group-title=外語頻道 , 美國CBSNNews[1280*720]
+https://www.cbsnews.com/common/video/dai_prod.m3u8
+#EXTINF:-1 tvg-logo=韓國WFCHD[1920*1080].png tvg-name=韓國WFCHD[1920*1080] group-title=外語頻道 , 韓國WFCHD[1920*1080]
+http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo=澳洲ABCNews[1024*576].png tvg-name=澳洲ABCNews[1024*576] group-title=外語頻道 , 澳洲ABCNews[1024*576]
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index.m3u8
+#EXTINF:-1 tvg-logo=泰國SUVARNABHUMI[320*240].png tvg-name=泰國SUVARNABHUMI[320*240] group-title=外語頻道 , 泰國SUVARNABHUMI[320*240]
+http://203.146.129.233:1935/live/mp4:suwan/playlist.m3u8
+#EXTINF:-1 tvg-logo=荷蘭OmroepEde[854*480].png tvg-name=荷蘭OmroepEde[854*480] group-title=外語頻道 , 荷蘭OmroepEde[854*480]
+http://ms2.mx-cd.net/tv/113-474263/EdeTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=愛爾蘭TG4[512*288].png tvg-name=愛爾蘭TG4[512*288] group-title=外語頻道 , 愛爾蘭TG4[512*288]
+http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+#EXTINF:-1 tvg-logo=保加利亞旅遊高清頻道ThisisBulgariaHD[1280*720].png tvg-name=保加利亞旅遊高清頻道ThisisBulgariaHD[1280*720] group-title=外語頻道 , 保加利亞旅遊高清頻道ThisisBulgariaHD[1280*720]
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=捷克JOJFamily[960*540].png tvg-name=捷克JOJFamily[960*540] group-title=外語頻道 , 捷克JOJFamily[960*540]
+http://nn2.joj.sk/hls/family-540.m3u8
+#EXTINF:-1 tvg-logo=斯洛伐克WAU[960*540].png tvg-name=斯洛伐克WAU[960*540] group-title=外語頻道 , 斯洛伐克WAU[960*540]
+http://nn2.joj.sk/hls/wau-540.m3u8
+#EXTINF:-1 tvg-logo=斯洛伐克JojPlus[1280*720].png tvg-name=斯洛伐克JojPlus[1280*720] group-title=外語頻道 , 斯洛伐克JojPlus[1280*720]
+http://nn2.joj.sk/hls/joj-720.m3u8
+#EXTINF:-1 tvg-logo=科威特KUWAITONE[800*480].png tvg-name=科威特KUWAITONE[800*480] group-title=外語頻道 , 科威特KUWAITONE[800*480]
+http://wms.tecnoxia.com:1935/8158/8158/chunklist_w299184953.m3u8
+#EXTINF:-1 tvg-logo=阿爾巴尼亞TVSHAlbania[640*360].png tvg-name=阿爾巴尼亞TVSHAlbania[640*360] group-title=外語頻道 , 阿爾巴尼亞TVSHAlbania[640*360]
+http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
+#EXTINF:-1 tvg-logo=摩爾多瓦PublikaTV[1280*720].png tvg-name=摩爾多瓦PublikaTV[1280*720] group-title=外語頻道 , 摩爾多瓦PublikaTV[1280*720]
+http://livebeta.publika.md/LIVE/P/6810.m3u8
+#EXTINF:-1 tvg-logo=韓語1.png tvg-name=韓語1 group-title=外語頻道 , 韓語1
+https://prdsecurelive.ainemo.com/live/9296030381cf4790bdec9a34938ebc8b.flv
+#EXTINF:-1 tvg-logo=韓語2.png tvg-name=韓語2 group-title=外語頻道 , 韓語2
+https://prdsecurelive.ainemo.com/live/b19be35ba7e441af902b6e866f3c2272.flv
+#EXTINF:-1 tvg-logo=俄羅斯IGITV藍光.png tvg-name=俄羅斯IGITV藍光 group-title=外語頻道 , 俄羅斯IGITV藍光
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 tvg-logo=CINEMA.png tvg-name=CINEMA group-title=外語頻道 , CINEMA
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+#EXTINF:-1 tvg-logo=新加坡OktoOn5.png tvg-name=新加坡OktoOn5 group-title=外語頻道 , 新加坡OktoOn5
+https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master.m3u8
+#EXTINF:-1 tvg-logo=新加坡.png tvg-name=新加坡 group-title=外語頻道 , 新加坡
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 tvg-logo=越南和平HBTV.png tvg-name=越南和平HBTV group-title=外語頻道 , 越南和平HBTV
+http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
+#EXTINF:-1 tvg-logo=越南ktv.png tvg-name=越南ktv group-title=外語頻道 , 越南ktv
+http://210.245.20.94/hls/ktv1.m3u8
+#EXTINF:-1 tvg-logo=越南UNTV.png tvg-name=越南UNTV group-title=外語頻道 , 越南UNTV
+https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b1128000.m3u8
+#EXTINF:-1 tvg-logo=泰國lNBT曼谷頻道.png tvg-name=泰國lNBT曼谷頻道 group-title=外語頻道 , 泰國lNBT曼谷頻道
+http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-logo=泰國PBS.png tvg-name=泰國PBS group-title=外語頻道 , 泰國PBS
+http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
+#EXTINF:-1 tvg-logo=MRTV4.png tvg-name=MRTV4 group-title=外語頻道 , MRTV4
+http://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/master.m3u8
+#EXTINF:-1 tvg-logo=CHAHHEHD7.png tvg-name=CHAHHEHD7 group-title=外語頻道 , CHAHHEHD7
+http://104275ooyala-lh.akamaihd.net/i/forevergroup_03@449367/master.m3u8
+#EXTINF:-1 tvg-logo=蒙古國lMNB.png tvg-name=蒙古國lMNB group-title=外語頻道 , 蒙古國lMNB
+http://103.14.38.107:1935/live/mnb.stream/master.m3u8
+#EXTINF:-1 tvg-logo=美國Cheddar電視.png tvg-name=美國Cheddar電視 group-title=外語頻道 , 美國Cheddar電視
+https://live.chdrstatic.com/cheddar/primary/4.m3u8
+#EXTINF:-1 tvg-logo=美國CSBN.png tvg-name=美國CSBN group-title=外語頻道 , 美國CSBN
+https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_360.m3u8
+#EXTINF:-1 tvg-logo=美國TVW2.png tvg-name=美國TVW2 group-title=外語頻道 , 美國TVW2
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
+#EXTINF:-1 tvg-logo=美國l美國中央台.png tvg-name=美國l美國中央台 group-title=外語頻道 , 美國l美國中央台
+http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
+#EXTINF:-1 tvg-logo=美國宇航局頻道.png tvg-name=美國宇航局頻道 group-title=外語頻道 , 美國宇航局頻道
+http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
+#EXTINF:-1 tvg-logo=Hope俄羅斯.png tvg-name=Hope俄羅斯 group-title=外語頻道 , Hope俄羅斯
+https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/chunklist.m3u8
+#EXTINF:-1 tvg-logo=斯諾伐克lJOJ頻道.png tvg-name=斯諾伐克lJOJ頻道 group-title=外語頻道 , 斯諾伐克lJOJ頻道
+http://nn2.joj.sk/hls/joj-540.m3u8
+#EXTINF:-1 tvg-logo=阿聯酋l迪拜賽馬.png tvg-name=阿聯酋l迪拜賽馬 group-title=外語頻道 , 阿聯酋l迪拜賽馬
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo=阿聯酋l迪拜薩馬.png tvg-name=阿聯酋l迪拜薩馬 group-title=外語頻道 , 阿聯酋l迪拜薩馬
+http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo=越南越南.png tvg-name=越南越南 group-title=外語頻道 , 越南越南
+http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+#EXTINF:-1 tvg-logo=以色列1.png tvg-name=以色列1 group-title=外語頻道 , 以色列1
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/master.m3u8
+#EXTINF:-1 tvg-logo=以色列2.png tvg-name=以色列2 group-title=外語頻道 , 以色列2
+https://dvr.ch20-cdnwiz.com/mobilehls/dvr.m3u8
+#EXTINF:-1 tvg-logo=以色列4.png tvg-name=以色列4 group-title=外語頻道 , 以色列4
+http://rtb-channel.glue.live/smil:rtb1/playlist_sleng.m3u8
+#EXTINF:-1 tvg-logo=澳大利亞賽馬網.png tvg-name=澳大利亞賽馬網 group-title=外語頻道 , 澳大利亞賽馬網
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/268.m3u8
+#EXTINF:-1 tvg-logo=Ytv.png tvg-name=Ytv group-title=外語頻道 , Ytv
+http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-logo=REUN.png tvg-name=REUN group-title=外語頻道 , REUN
+https://livefta.malimarcdn.com/ftaedge00/houngfa.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-logo=THAIPBS-3.png tvg-name=THAIPBS-3 group-title=外語頻道 , THAIPBS-3
+http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
+#EXTINF:-1 tvg-logo=越南PTPhd.png tvg-name=越南PTPhd group-title=外語頻道 , 越南PTPhd
+http://113.161.4.48:8080/phuyen/tv.m3u8
+#EXTINF:-1 tvg-logo=奧林匹克國際頻道.png tvg-name=奧林匹克國際頻道 group-title=外語頻道 , 奧林匹克國際頻道
+http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
+#EXTINF:-1 tvg-logo=KISSTV.png tvg-name=KISSTV group-title=外語頻道 , KISSTV
+https://fms-https1.mediadirect.ro/live3/_definst_/kiss/playlist.m3u8
+#EXTINF:-1 tvg-logo=CGTNDocumentary.png tvg-name=CGTNDocumentary group-title=外語頻道 , CGTNDocumentary
+https://livedoc.cgtn.com/500d/prog_index.m3u8
+#EXTINF:-1 tvg-logo=CGTN.png tvg-name=CGTN group-title=外語頻道 , CGTN
+http://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 tvg-logo=WorldFashionInternational.png tvg-name=WorldFashionInternational group-title=外語頻道 , WorldFashionInternational
+http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v3a1/index.m3u8
+#EXTINF:-1 tvg-logo=WorldFashion.png tvg-name=WorldFashion group-title=外語頻道 , WorldFashion
+http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v3a1/index.m3u8
+#EXTINF:-1 tvg-logo=FashionTV(SK).png tvg-name=FashionTV(SK) group-title=外語頻道 , FashionTV(SK)
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
+#EXTINF:-1 tvg-logo=HDFashion&Lifestyle(UA).png tvg-name=HDFashion&Lifestyle(UA) group-title=外語頻道 , HDFashion&Lifestyle(UA)
+http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8
+#EXTINF:-1 tvg-logo=WOW!TV.png tvg-name=WOW!TV group-title=外語頻道 , WOW!TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+#EXTINF:-1 tvg-logo=AmericanHorrors.png tvg-name=AmericanHorrors group-title=外語頻道 , AmericanHorrors
+http://170.178.189.66:1935/live/Stream1/.m3u8
+#EXTINF:-1 tvg-logo=ArianaTV.png tvg-name=ArianaTV group-title=外語頻道 , ArianaTV
+http://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w1314452267.m3u8
+#EXTINF:-1 tvg-logo=ArirangTV.png tvg-name=ArirangTV group-title=外語頻道 , ArirangTV
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 tvg-logo=AUTOMOTOTV.png tvg-name=AUTOMOTOTV group-title=外語頻道 , AUTOMOTOTV
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1 tvg-logo=BambarbiaTV.png tvg-name=BambarbiaTV group-title=外語頻道 , BambarbiaTV
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
+#EXTINF:-1 tvg-logo=Bloomberg(EN).png tvg-name=Bloomberg(EN) group-title=外語頻道 , Bloomberg(EN)
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
+#EXTINF:-1 tvg-logo=CaliforniaMusicChannel.png tvg-name=CaliforniaMusicChannel group-title=外語頻道 , CaliforniaMusicChannel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
+#EXTINF:-1 tvg-logo=CBSNHD.png tvg-name=CBSNHD group-title=外語頻道 , CBSNHD
+https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_700.m3u8
+#EXTINF:-1 tvg-logo=ClassiqueTV.png tvg-name=ClassiqueTV group-title=外語頻道 , ClassiqueTV
+http://stmv3.srvstm.com/classique/classique/playlist.m3u8
+#EXTINF:-1 tvg-logo=CMCTV.png tvg-name=CMCTV group-title=外語頻道 , CMCTV
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
+#EXTINF:-1 tvg-logo=MostVideo2.png tvg-name=MostVideo2 group-title=外語頻道 , MostVideo2
+http://w4.mostvideo.tv/heltv/ch2.m3u8
+#EXTINF:-1 tvg-logo=MusicBox(SK).png tvg-name=MusicBox(SK) group-title=外語頻道 , MusicBox(SK)
+http://80.94.54.42/tvnasa/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=MUSICJAPAN.png tvg-name=MUSICJAPAN group-title=外語頻道 , MUSICJAPAN
+http://122.155.180.8:5021/live/495
+#EXTINF:-1 tvg-logo=MusicTop.png tvg-name=MusicTop group-title=外語頻道 , MusicTop
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
+#EXTINF:-1 tvg-logo=RussianMusicBox.png tvg-name=RussianMusicBox group-title=外語頻道 , RussianMusicBox
+http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
+#EXTINF:-1 tvg-logo=SkyFolkTV.png tvg-name=SkyFolkTV group-title=外語頻道 , SkyFolkTV
+http://eu.live.skyfolk.mk/live.m3u8
+#EXTINF:-1 tvg-logo=NBC.png tvg-name=NBC group-title=外語頻道 , NBC
+http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1 tvg-logo=NEWS24.png tvg-name=NEWS24 group-title=外語頻道 , NEWS24
+http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
+#EXTINF:-1 tvg-logo=News24Balkan.png tvg-name=News24Balkan group-title=外語頻道 , News24Balkan
+http://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo=NewsCenter7(Ohio).png tvg-name=NewsCenter7(Ohio) group-title=外語頻道 , NewsCenter7(Ohio)
+http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8
+#EXTINF:-1 tvg-logo=RedBullTV.png tvg-name=RedBullTV group-title=外語頻道 , RedBullTV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-logo=RedBullTVHD.png tvg-name=RedBullTVHD group-title=外語頻道 , RedBullTVHD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 tvg-logo=RedcomTV().png tvg-name=RedcomTV() group-title=外語頻道 , RedcomTV()
+https://tvstreamer.redcom.ru/Redcams/index.m3u8
+#EXTINF:-1 tvg-logo=DisneyJunior.png tvg-name=DisneyJunior group-title=外語頻道 , DisneyJunior
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 tvg-logo=DittyTV.png tvg-name=DittyTV group-title=外語頻道 , DittyTV
+http://azroe0x-lh.akamaihd.net/i/test_1@775856/index_3500_av-p.m3u8
+#EXTINF:-1 tvg-logo=DubaiSports.png tvg-name=DubaiSports group-title=外語頻道 , DubaiSports
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo=EsperanzaTV.png tvg-name=EsperanzaTV group-title=外語頻道 , EsperanzaTV
+https://bcliveunivsecure-lh.akamaihd.net/i/Esperanza_1@571273/index_1096_av-p.m3u8
+#EXTINF:-1 tvg-logo=France24(ESP).png tvg-name=France24(ESP) group-title=外語頻道 , France24(ESP)
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
+#EXTINF:-1 tvg-logo=France24Arabic.png tvg-name=France24Arabic group-title=外語頻道 , France24Arabic
+http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-logo=HopeTV(ESP).png tvg-name=HopeTV(ESP) group-title=外語頻道 , HopeTV(ESP)
+http://bcliveunivsecure-lh.akamaihd.net/i/IADSpanish_1@572888/index_596_av-p.m3u8
+#EXTINF:-1 tvg-logo=TV5.png tvg-name=TV5 group-title=外語頻道 , TV5
+http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8
+#EXTINF:-1 tvg-logo=TV5Monde.png tvg-name=TV5Monde group-title=外語頻道 , TV5Monde
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_6.m3u8
+#EXTINF:-1 tvg-logo=TV7+().png tvg-name=TV7+() group-title=外語頻道 , TV7+()
+http://tv7plus.com/hls/tv7_site.m3u8
+#EXTINF:-1 tvg-logo=日本ⅠTOKYO.png tvg-name=日本ⅠTOKYO group-title=外語頻道 , 日本ⅠTOKYO
+http://movie.mcas.jp/mcas/gm2_2/chunklist.m3u8
+#EXTINF:-1 tvg-logo=日本Ⅰ全天新聞.png tvg-name=日本Ⅰ全天新聞 group-title=外語頻道 , 日本Ⅰ全天新聞
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 tvg-logo=日本Ⅰ聲優廣播.png tvg-name=日本Ⅰ聲優廣播 group-title=外語頻道 , 日本Ⅰ聲優廣播
+http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8
+#EXTINF:-1 tvg-logo=日本Ⅰ寶石GSTV.png tvg-name=日本Ⅰ寶石GSTV group-title=外語頻道 , 日本Ⅰ寶石GSTV
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist_w1860888413_b600000.m3u8
+#EXTINF:-1 tvg-logo=埃及ⅠAVA音樂頻道.png tvg-name=埃及ⅠAVA音樂頻道 group-title=外語頻道 , 埃及ⅠAVA音樂頻道
+http://51.15.236.137/hls/stream.m3u8
+#EXTINF:-1 tvg-logo=德國Ⅰ超級遊艇.png tvg-name=德國Ⅰ超級遊艇 group-title=外語頻道 , 德國Ⅰ超級遊艇
+http://cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8
+#EXTINF:-1 tvg-logo=美國Ⅰ布蘭奇電視.png tvg-name=美國Ⅰ布蘭奇電視 group-title=外語頻道 , 美國Ⅰ布蘭奇電視
+http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
+#EXTINF:-1 tvg-logo=阿聯酋ⅠATV1.png tvg-name=阿聯酋ⅠATV1 group-title=外語頻道 , 阿聯酋ⅠATV1
+http://85.132.81.184:8080/atv/index.m3u8
+#EXTINF:-1 tvg-logo=阿聯酋ⅠATV2.png tvg-name=阿聯酋ⅠATV2 group-title=外語頻道 , 阿聯酋ⅠATV2
+http://85.132.81.184:8080/atv-2/index.m3u8
+#EXTINF:-1 tvg-logo=阿聯酋ⅠATV4.png tvg-name=阿聯酋ⅠATV4 group-title=外語頻道 , 阿聯酋ⅠATV4
+http://85.132.81.184:8080/atv-4/index.m3u8
+#EXTINF:-1 tvg-logo=俄羅斯ⅠOR音樂頻道.png tvg-name=俄羅斯ⅠOR音樂頻道 group-title=外語頻道 , 俄羅斯ⅠOR音樂頻道
+http://rtmp.one.by:2200/
+#EXTINF:-1 tvg-logo=意大利ⅠV2音樂頻道.png tvg-name=意大利ⅠV2音樂頻道 group-title=外語頻道 , 意大利ⅠV2音樂頻道
+http://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-logo=日本Ⅰ寶石GSTV.png tvg-name=日本Ⅰ寶石GSTV group-title=外語頻道 , 日本Ⅰ寶石GSTV
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=韓國ⅠSBS星級頻道.png tvg-name=韓國ⅠSBS星級頻道 group-title=外語頻道 , 韓國ⅠSBS星級頻道
+https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
+#EXTINF:-1 tvg-logo=韓國ⅠSBS影視頻道.png tvg-name=韓國ⅠSBS影視頻道 group-title=外語頻道 , 韓國ⅠSBS影視頻道
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
