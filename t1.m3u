@@ -1,5 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://tv.itver.cc/wp-content/uploads/2014/08/Studio-Classroom-Logo-670x300.jpg" tvg-country="TW" tvg-url="" group-title="教育",空中英語教室
+http://220.158.149.14:9999/live/TV00000000000000000077@HHZT;LIVE
+
+
 
 
 #EXTINF:-1,中視菁采
@@ -127,7 +130,7 @@ https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 tvg-logo=大愛海外台.png tvg-name=大愛海外台 group-title="" , 大愛海外台
 https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 #EXTINF:-1 ,龍祥時代電影
-
+https://www.4gtv.tv/channel_sub.html?channelSet_id=4&asset_id=4gtv-4gtv012&channel_id=108
 #EXTINF:-1 tvg-id="6084" tvg-name="東森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="電影",東森洋片
 
 #EXTINF:-1 tvg-id="6080" tvg-name="東森電影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="電影",東森電影
@@ -164,6 +167,10 @@ https://cdn-laos.workpoint.news/hd-nba_720/index.m3u8
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 tvg-ID="FOX.Asia" tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png" group-title="電影",Fox Action Movies
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+
+
+#EXTINF:-1 group-title="電影",星空衛視
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 
 
 
@@ -306,6 +313,23 @@ https://live.streamingfast.net/osmflivech7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/8_file.jpg" tvg-country="TW" tvg-url="" group-title="Religious",GOOD TV CH8 幸福學堂 短版
 https://live.streamingfast.net/osmflivech8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/9_file.jpg" tvg-country="TW" tvg-url="" group-title="Religious",GOOD TV CH9 愛+好醫生 短版
+https://live.streamingfast.net/osmflivech9.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
