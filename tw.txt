@@ -1,0 +1,104 @@
+新聞
+中視新聞,http://p06.iptv2asia.com:18888/http/006
+台視新聞,http://p06.iptv2asia.com:18888/http/004
+華視,http://p06.iptv2asia.com:18888/http/009?dsjtv.m3u8
+華視新聞資訊,http://p06.iptv2asia.com:18888/http/010
+台視新聞,http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
+年代新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
+三立新聞,http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
+民視新聞台,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+TVBS新聞台,http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8#http://60.199.188.66/HLS/WG_TVBS-N/01.m3u8
+TVBS歡樂台,http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE
+自然
+動物星球,rtmp://58.200.131.2:1935/livetv/discovery
+國家地理,http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
+八大綜合台,http://103.47.132.164/PLTV/88888888/224/3221227191/index.m3u8
+電影
+龍祥時代電影,http://192.154.103.74:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+好萊塢電影,http://192.154.103.75:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+HBO Asia,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
+FOX動作電影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+Fox Action Movies,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+華納電影,http://192.154.103.75:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
+Sport
+緯來體育台,http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
+博斯魅力,http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8?token=BIk2YfurpyjroYsSvl8Ciw&time=1558345786385#http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+NBA TV,https://cdn-laos.workpoint.news/hd-nba_720/index.m3u8
+Travel
+亞旅衛視,https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live6/hls-cl-tv/index.m3u8
+== 未定义 ==
+空中英語教室,http://220.158.149.14:9999/live/TV00000000000000000077@HHZT;LIVE
+中視菁采,http://p06.iptv2asia.com:18888/http/008
+中視經典,http://p06.iptv2asia.com:18888/http/007
+台視財經台,http://p06.iptv2asia.com:18888/http/003
+台視綜合,http://p06.iptv2asia.com:18888/http/002
+華視體育文化,http://p06.iptv2asia.com:18888/http/011
+民視第一台,http://p06.iptv2asia.com:18888/http/014?dsjtv.m3u8
+民視台灣台,http://p06.iptv2asia.com:18888/http/013?dsjtv.m3u8
+民視福建旁邊台,http://p06.iptv2asia.com:18888/http/013
+客家電視,http://p06.iptv2asia.com:18888/http/019
+原住民族電視台,http://p06.iptv2asia.com:18888/http/020
+公視3,http://p06.iptv2asia.com:18888/http/018
+公視,http://p06.iptv2asia.com:18888/http/016?dsjtv.m3u8
+公視台語台,http://p06.iptv2asia.com:18888/http/017?dsjtv.m3u8
+大愛一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大愛二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大愛海外台,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
+CNEX Taiwan,http://220.158.149.14:9999/live/TV00000000000000000083@HHZT;LIVE
+番薯台,http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin
+信吉電視,http://174.127.67.246/live330/playlist.m3u8
+內政,https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live7/hls-cl-tv/index.m3u8
+司法及法制,https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live9/hls-cl-tv/index.m3u8
+外交及國防,https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live8/hls-cl-tv/index.m3u8
+教育及文化,https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live4/hls-cl-tv/index.m3u8
+朝野協商,https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live10/hls-cl-tv/index.m3u8
+社會福利及衛生環境,https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live3/hls-cl-tv/index.m3u8
+經濟,https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live5/hls-cl-tv/index.m3u8
+財政,https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live2/hls-cl-tv/index.m3u8
+院會,https://live2.ntdimg.com/cnlive/playlist.m3u8
+新唐人亞太,https://live.ntdimg.com/aplive200/playlist.m3u8
+新唐人加東,https://live.ntdimg.com/mllive860/playlist.m3u8
+新唐人加西,https://live.ntdimg.com/cwlive220/playlist.m3u8
+新唐人舊金山,https://live.ntdimg.com/sflive990/playlist.m3u8
+新唐人美東,https://live.ntdimg.com/live400/playlist.m3u8
+新唐人美西,https://live.ntdimg.com/uwlive990/playlist.m3u8
+GOOD TV CH10 烤箱讀書會,https://live.streamingfast.net/osmflivech10.m3u8
+GOOD TV CH12 維他命施,https://live.streamingfast.net/osmflivech12.m3u8
+GOOD TV CH13 健康新煮流,https://live.streamingfast.net/osmflivech13.m3u8
+GOOD TV CH14 真情部落格,https://live.streamingfast.net/osmflivech14.m3u8
+GOOD TV CH15 真情之夜,https://live.streamingfast.net/osmflivech15.m3u8
+GOOD TV CH16 葉光明,https://live.streamingfast.net/osmflivech16.m3u8
+GOOD TV CH17 大衛鮑森,https://live.streamingfast.net/osmflivech17.m3u8
+GOOD TV CH18 國際講員,https://live.streamingfast.net/osmflivech18.m3u8
+GOOD TV CH19 共享觀點,https://live.streamingfast.net/osmflivech19.m3u8
+GOOD TV CH2 真理台,https://live.streamingfast.net/osmflivech2.m3u8
+GOOD TV CH20 恩典時分,https://live.streamingfast.net/osmflivech20.m3u8
+GOOD TV CH21 華語講員,https://live.streamingfast.net/osmflivech21.m3u8
+GOOD TV CH22 職場新視野,https://live.streamingfast.net/osmflivech22.m3u8
+GOOD TV CH23 空中主日學 生活,https://live.streamingfast.net/osmflivech23.m3u8
+GOOD TV CH24 劉三講古,https://live.streamingfast.net/osmflivech24.m3u8
+GOOD TV CH25 福氣人生,https://live.streamingfast.net/osmflivech25.m3u8
+GOOD TV CH26 空中主日學 查經,https://live.streamingfast.net/osmflivech26.m3u8
+GOOD TV CH27 空中聖經學院,https://live.streamingfast.net/osmflivech27.m3u8
+GOOD TV CH28 現代詩歌,https://live.streamingfast.net/osmflivech28.m3u8
+GOOD TV CH29 經典音樂河,https://live.streamingfast.net/osmflivech29.m3u8
+GOOD TV CH3 真情部落格,https://live.streamingfast.net/osmflivech3.m3u8
+GOOD TV CH30 天堂敬拜,https://live.streamingfast.net/osmflivech30.m3u8
+GOOD TV CH31 福音佈道音樂會,https://live.streamingfast.net/osmflivech31.m3u8
+GOOD TV CH32 特會系列：禱告與轉化,https://live.streamingfast.net/osmflivech32.m3u8
+GOOD TV CH33 特會系列：研經培靈,https://live.streamingfast.net/osmflivech33.m3u8
+GOOD TV CH36 特會系列：超自然大能．醫治釋放,https://live.streamingfast.net/osmflivech36.m3u8
+GOOD TV CH37 特會系列：以色列專題,https://live.streamingfast.net/osmflivech37.m3u8
+GOOD TV CH38 特會系列：青年特會,https://live.streamingfast.net/osmflivech38.m3u8
+GOOD TV CH40 家庭8點檔轉轉發現愛,https://live.streamingfast.net/osmflivech40.m3u8
+GOOD TV CH41 幸福學堂,https://live.streamingfast.net/osmflivech41.m3u8
+GOOD TV CH44 烤箱讀書會,https://live.streamingfast.net/osmflivech44.m3u8
+GOOD TV CH45 卡通,https://live.streamingfast.net/osmflivech45.m3u8
+GOOD TV CH47 牧者頻道,https://live.streamingfast.net/osmflivech47.m3u8
+GOOD TV CH49 禱告頻道,https://live.streamingfast.net/osmflivech49.m3u8
+GOOD TV CH5 共享觀點,https://live.streamingfast.net/osmflivech5.m3u8
+GOOD TV CH50 國際講員 中文發音,https://live.streamingfast.net/osmflivech50.m3u8
+GOOD TV CH6 親近神 詩歌音樂,https://live.streamingfast.net/osmflivech6.m3u8
+GOOD TV CH7 禱告大軍 信息,https://live.streamingfast.net/osmflivech7.m3u8
+GOOD TV CH8 幸福學堂,https://live.streamingfast.net/osmflivech8.m3u8
