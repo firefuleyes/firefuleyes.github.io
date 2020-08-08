@@ -1,4 +1,3 @@
-新聞
 中視新聞,http://p06.iptv2asia.com:18888/http/006
 台視新聞,http://p06.iptv2asia.com:18888/http/004
 華視,http://p06.iptv2asia.com:18888/http/009?dsjtv.m3u8
@@ -10,24 +9,19 @@
 民視新聞台,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 TVBS新聞台,http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8#http://60.199.188.66/HLS/WG_TVBS-N/01.m3u8
 TVBS歡樂台,http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE
-自然
 動物星球,rtmp://58.200.131.2:1935/livetv/discovery
 國家地理,http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
 八大綜合台,http://103.47.132.164/PLTV/88888888/224/3221227191/index.m3u8
-電影
 龍祥時代電影,http://192.154.103.74:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 好萊塢電影,http://192.154.103.75:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 HBO Asia,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 FOX動作電影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 Fox Action Movies,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 華納電影,http://192.154.103.75:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
-Sport
 緯來體育台,http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
 博斯魅力,http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8?token=BIk2YfurpyjroYsSvl8Ciw&time=1558345786385#http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 NBA TV,https://cdn-laos.workpoint.news/hd-nba_720/index.m3u8
-Travel
 亞旅衛視,https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live6/hls-cl-tv/index.m3u8
-== 未定义 ==
 空中英語教室,http://220.158.149.14:9999/live/TV00000000000000000077@HHZT;LIVE
 中視菁采,http://p06.iptv2asia.com:18888/http/008
 中視經典,http://p06.iptv2asia.com:18888/http/007
