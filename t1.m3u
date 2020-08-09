@@ -129,8 +129,8 @@ https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8#http://60.199.188.66/HLS/WG_TVBS-N/01.m3u8
 #EXTINF:-1 tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://tv.itver.cc/wp-content/uploads/2014/04/TVBS-G.jpg" group-title="新聞",TVBS歡樂台
 http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE
-
-
+#EXTINF:-1 ,三立財經新聞台
+https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv089/4gtv-live-mid/index.m3u8?token=9xNLi4ueIX33zgqo4a107A&expires=1597061694&token1=azO2DK9_qINVsyDc7nwlcA&expires1=1597061694&_=1597014885313
 
 
 
