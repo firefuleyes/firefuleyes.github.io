@@ -5,12 +5,27 @@ http://220.158.149.14:9999/live/TV00000000000000000077@HHZT;LIVE
 https://4gtvfreepc-mozai.4gtv.tv/vx6lHgUH54n-aZFQ6IvBOAjlLv3znMB1hDMym-x8HnY%3d/index.m3u8?token=x5nylT0F_jvjvcCf0aoWZg&expires=1597021442&token1=xImZCfRatn7VUPa-dnbZrw&expires1=1597021442&refer=ODg5NWI5MTMtMTA4Mi00NjI0LTlmMGYtNmRmNjBjZmE2YWZl&y=0&_=1597003338803
 #EXTINF:-1,東森購物
 https://4gtvfree-mozai.4gtv.tv/WGVqNhr_IHe-JsS-KYdVUPFeSGE-wjJrxdSSHaVSvb0%3d/stream2.m3u8?token=HCXMbYvgv6QcfWi1NCOz2A&expires=1597016560&refer=NWYyYjdkM2YtNzY2Zi00Y2ZiLTkyODctZmQ1ZGYyNmM4N2Yw&y=0&vt=&token1=NGJbd0KzpCn3cEfhSyqP0g&expires1=1597016560
+#EXTINF:-1,東森購物二台
+https://4gtvfree-mozai.4gtv.tv/XYsL8jWp7AT9hC9VmOB5ixHARrrm43fIrhuz6VYngnE%3d/index.m3u8?token=m0Y3cs53-Ew3nVziEc5kHg&expires=1597022958&token1=3n66RxAjoBidBH4SYkbuyw&expires1=1597022958&refer=YTJkMmEwNzItYzhjYi00MjY4LTgxZWYtMDc5MWMxZGY0MWVm&y=0&_=1597003338856
+#EXTINF:-1,ELTV生活英語台
+https://4gtvfreepc-mozai.4gtv.tv/WfMLrVlZ_xZ3T_MFzo4nOEW8Xm5cBJbjSQlraO0VDtM%3d/index.m3u8?token=zmgQLR_dda2a0zl3wIB0lQ&expires=1597022105&token1=cB0PILTKwZmkKZ3df5FzTA&expires1=1597022105&refer=YmUwNDFmN2EtODA2Zi00M2VmLWExZDktNzZiZjMzNWU5OTg1&y=0&_=1597003338821
+#EXTINF:-1,VOA美國之音
+https://4gtvfreepc-mozai.4gtv.tv/0bwbceTKwOQk6omAkmnW6l_J6L9WzxuWIszvjNY-XUU%3d/index.m3u8?token=c7FzO4UkWRq4bC4Bqpn-zQ&expires=1597023157&token1=tKNwm4m5tN4BosDvx_zjuQ&expires1=1597023157&refer=NWUxYWNhZWEtYTk2YS00ZjEwLTgzMDMtMDNlMjdiNjI4OTBi&y=0&_=1597003338861
+#EXTINF:-1,DW德國之聲
+https://4gtvfreepc-mozai.4gtv.tv/70nxGbB2VviAuwT30K3K7E0VJSc9YFhQI_PUHW5wW3Q%3d/index.m3u8?token=XTM6j6kB-0ZfqhlicVJZkg&expires=1597023311&token1=_TvVrm4Ki6CXTHc6471IbA&expires1=1597023311&refer=ZWFkYTIwYWItMTVhZC00Yjk3LWI0NTMtYjc2NWQ4NTU5ZGUw&y=0&_=1597005259966
+#EXTINF:-1 tvg-id="6039" tvg-name="動物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="自然",動物星球
+#EXTINF:-1,金光布袋戲
+https://4gtvfreepc-mozai.4gtv.tv/L3Touc2qiiAe8BxK5O5D8rqX9EOk5779Veuiw9qTrd4%3d/index.m3u8?token=d3CiPCaRjX3zulzNqkkgYw&expires=1597022426&token1=YMFFGega0iGRCrVX9R4BpQ&expires1=1597022426&refer=MWU2NTJjNWYtNTc5NS00YTc0LWI4YjQtN2QwZWVjNWZkYTY4&y=0&_=1597003338830
+#EXTINF:-1,MOMO親子台
+https://4gtvfreepc-mozai.4gtv.tv/GzxA9xheAaotByQaAxiKObdqp1eh8AB9q3d0N6o0NJ4%3d/index.m3u8?token=_GV73QUaTCVFWpQ8vpa2lw&expires=1597021730&token1=DvM7WE69zw4iuPYwWSJoDw&expires1=1597021730&refer=NTVhZjJhYzQtODE0Yi00NmUzLTg1N2QtMGJhOTBlYzkyNzIz&y=0&_=1597003338806
+
+#EXTINF:-1 tvg-id="6028" tvg-name="中視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中視.png" group-title="新聞",中視新聞
+http://p06.iptv2asia.com:18888/http/006
 #EXTINF:-1,中視菁采
 http://p06.iptv2asia.com:18888/http/008
 #EXTINF:-1,中視經典
 http://p06.iptv2asia.com:18888/http/007
-#EXTINF:-1 tvg-id="6028" tvg-name="中視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中視.png" group-title="新聞",中視新聞
-http://p06.iptv2asia.com:18888/http/006
+
 #EXTINF:-1 group-title="新聞",台視新聞
 http://p06.iptv2asia.com:18888/http/004
 #EXTINF:-1,台視財經台
@@ -31,38 +46,43 @@ http://p06.iptv2asia.com:18888/http/014?dsjtv.m3u8
 http://p06.iptv2asia.com:18888/http/013?dsjtv.m3u8
 #EXTINF:-1,民視福建旁邊台
 http://p06.iptv2asia.com:18888/http/013
-#EXTINF:-1,金光布袋戲
-https://4gtvfreepc-mozai.4gtv.tv/L3Touc2qiiAe8BxK5O5D8rqX9EOk5779Veuiw9qTrd4%3d/index.m3u8?token=d3CiPCaRjX3zulzNqkkgYw&expires=1597022426&token1=YMFFGega0iGRCrVX9R4BpQ&expires1=1597022426&refer=MWU2NTJjNWYtNTc5NS00YTc0LWI4YjQtN2QwZWVjNWZkYTY4&y=0&_=1597003338830
-#EXTINF:-1,民視旅遊台
-https://4gtvfreepc-mozai.4gtv.tv/UxR5nbPO6_m8-ECfodWBb7DmSYKsB9SguO3sShS_Qoc%3d/index.m3u8?token=nN7_7Hnp56wNcKieN_xOog&expires=1597022489&token1=hSBRaHIx_vcbFi2D3__y9A&expires1=1597022489&refer=NTc5ZjIxNWEtNTdmZS00NjFmLWIxYmItNGIzODdjNTQwNTVj&y=0&_=1597003338832
 #EXTINF:-1,民視旅遊台
 https://4gtvfreepc-mozai.4gtv.tv/UxR5nbPO6_m8-ECfodWBb7DmSYKsB9SguO3sShS_Qoc%3d/index.m3u8?token=nN7_7Hnp56wNcKieN_xOog&expires=1597022489&token1=hSBRaHIx_vcbFi2D3__y9A&expires1=1597022489&refer=NTc5ZjIxNWEtNTdmZS00NjFmLWIxYmItNGIzODdjNTQwNTVj&y=0&_=1597003338832
 #EXTINF:-1,民視綜藝台
 https://4gtvfreepc-mozai.4gtv.tv/P7EnT3Or5MhFRSaRJWCZhPY3PKC40I5ORjQa7KH6wpw%3d/index.m3u8?token=a5VR6ph5EZqh6P2AR9GVLA&expires=1597022608&token1=nlPPgV68mribwA7rEfF5yw&expires1=1597022608&refer=NGI2NzM3ZTMtNjgyYS00M2Q5LTlmZDUtNTkyMzk4NjFmZjYw&y=0&_=1597003338840
 #EXTINF:-1,中華財經台
 https://4gtvfreepc-mozai.4gtv.tv/9Vi19BshZiaxsmU6R33MeAeRlZG9Pg_-_J45rvrKQG4%3d/index.m3u8?token=h1Zmij-tXFvxH4ujFG82CA&expires=1597022654&token1=gG4QXxMTB12GqmCEw8-AEA&expires1=1597022654&refer=OWFkMjE4ZjYtOGQzZC00M2I1LWIyZTEtZDYwZjlhYTkzNTM5&y=0&_=1597003338845
-#EXTINF:-1,三立綜合台
-https://4gtvfree-mozai.4gtv.tv/pbUt98zxpIt73Nxh-aenS1VGy3dgGdMJzoDkAO9z3KE%3d/index.m3u8?token=JmNn16dp_O9nYIMaaY0DyQ&expires=1597022725&token1=x_UXIAiWqHNmBRK2H_HnZw&expires1=1597022725&refer=YjM0NDI3ZGMtYWI3ZS00YWY1LTgxMzktMjk3NjQ1MWYwODg3&y=0&_=1597003338847
-#EXTINF:-1,亞洲旅遊台
-https://4gtvfreepc-mozai.4gtv.tv/RquCIBX9Dmh7dqdIGiHYLDu4k3hfVMlV7RAaHAj27bs%3d/index.m3u8?token=4qXGOI2hQS_1-Ngu1KpTzA&expires=1597022789&token1=Kc80lmRaU2d376LW9pmykA&expires1=1597022789&refer=ZjAwYTFlZjUtMjVmYi00YTkwLTlhZmEtYzBiZDg3NjI2YmMy&y=0&_=1597003338849
 #EXTINF:-1,人間衛視
 https://4gtvfreepc-mozai.4gtv.tv/IXAo6boZzuDckFThM3KJYf9BsyfVBPKIxQhWHay-tCw%3d/index.m3u8?token=DY2EBvTo1xKyC5k8tmypkA&expires=1597022854&token1=o3lckGWZU2r_9Iehrqn3Fw&expires1=1597022854&refer=N2EwODg2YmEtNjViOS00NjdhLWFhODMtZTJmZWU0MWZmYzA4&y=0&_=1597003338854
-#EXTINF:-1,東森購物二台
-https://4gtvfree-mozai.4gtv.tv/XYsL8jWp7AT9hC9VmOB5ixHARrrm43fIrhuz6VYngnE%3d/index.m3u8?token=m0Y3cs53-Ew3nVziEc5kHg&expires=1597022958&token1=3n66RxAjoBidBH4SYkbuyw&expires1=1597022958&refer=YTJkMmEwNzItYzhjYi00MjY4LTgxZWYtMDc5MWMxZGY0MWVm&y=0&_=1597003338856
-#EXTINF:-1,VOA美國之音
-https://4gtvfreepc-mozai.4gtv.tv/0bwbceTKwOQk6omAkmnW6l_J6L9WzxuWIszvjNY-XUU%3d/index.m3u8?token=c7FzO4UkWRq4bC4Bqpn-zQ&expires=1597023157&token1=tKNwm4m5tN4BosDvx_zjuQ&expires1=1597023157&refer=NWUxYWNhZWEtYTk2YS00ZjEwLTgzMDMtMDNlMjdiNjI4OTBi&y=0&_=1597003338861
-#EXTINF:-1,DW德國之聲
-https://4gtvfreepc-mozai.4gtv.tv/70nxGbB2VviAuwT30K3K7E0VJSc9YFhQI_PUHW5wW3Q%3d/index.m3u8?token=XTM6j6kB-0ZfqhlicVJZkg&expires=1597023311&token1=_TvVrm4Ki6CXTHc6471IbA&expires1=1597023311&refer=ZWFkYTIwYWItMTVhZC00Yjk3LWI0NTMtYjc2NWQ4NTU5ZGUw&y=0&_=1597005259966
-#EXTINF:-1 tvg-id="6039" tvg-name="動物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="自然",動物星球
 
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="自然",探索頻道
 rtmp://58.200.131.2:1935/livetv/discovery
-
-
 #EXTINF:-1 tvg-id="691" tvg-name="國家地理頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="自然",國家地理
 http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
+#EXTINF:-1 tvg-country="CN",亞太台
+http://174.127.67.246/live330/playlist.m3u8
+#EXTINF:-1 tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/1wbOhJV.jpg" tvg-country="HK" group-title="Travel",亞旅衛視
 
-
+#EXTINF:-1,亞洲旅遊台
+https://4gtvfreepc-mozai.4gtv.tv/RquCIBX9Dmh7dqdIGiHYLDu4k3hfVMlV7RAaHAj27bs%3d/index.m3u8?token=4qXGOI2hQS_1-Ngu1KpTzA&expires=1597022789&token1=Kc80lmRaU2d376LW9pmykA&expires1=1597022789&refer=ZjAwYTFlZjUtMjVmYi00YTkwLTlhZmEtYzBiZDg3NjI2YmMy&y=0&_=1597003338849
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/709_300.png",Asian Food Network
+http://103.47.132.164/PLTV/88888888/224/3221227191/index.m3u8
+#EXTINF:-1,客家電視
+http://p06.iptv2asia.com:18888/http/019
+#EXTINF:-1 tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://titv.ipcf.org.tw/images/logo.png",原住民族電視台
+http://p06.iptv2asia.com:18888/http/020
+#EXTINF:-1,公視3
+http://p06.iptv2asia.com:18888/http/018
+#EXTINF:-1,公視
+http://p06.iptv2asia.com:18888/http/016?dsjtv.m3u8
+#EXTINF:-1,公視台語台
+http://p06.iptv2asia.com:18888/http/017?dsjtv.m3u8
+#EXTINF:-1 tvg-logo=大愛一台.png tvg-name=大愛一台,大愛一台
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 tvg-logo=大愛二台.png tvg-name=大愛二台,大愛二台
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 tvg-logo=大愛海外台.png tvg-name=大愛海外台,大愛海外台
+https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 
 
 
@@ -75,37 +95,20 @@ http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 
 #EXTINF:-1 tvg-id="SLT.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png",三立台灣
 
-
-
-
-
-
-
-
-
-
+#EXTINF:-1,三立綜合台
+https://4gtvfree-mozai.4gtv.tv/pbUt98zxpIt73Nxh-aenS1VGy3dgGdMJzoDkAO9z3KE%3d/index.m3u8?token=JmNn16dp_O9nYIMaaY0DyQ&expires=1597022725&token1=x_UXIAiWqHNmBRK2H_HnZw&expires1=1597022725&refer=YjM0NDI3ZGMtYWI3ZS00YWY1LTgxMzktMjk3NjQ1MWYwODg3&y=0&_=1597003338847
 
 #EXTINF:-1 tvg-id="6054" tvg-name="中天綜合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png",中天綜合
 
 #EXTINF:-1 tvg-id="6057" tvg-name="中天娛樂台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png",中天娛樂
-#EXTINF:-1,MOMO親子台
-https://4gtvfreepc-mozai.4gtv.tv/GzxA9xheAaotByQaAxiKObdqp1eh8AB9q3d0N6o0NJ4%3d/index.m3u8?token=_GV73QUaTCVFWpQ8vpa2lw&expires=1597021730&token1=DvM7WE69zw4iuPYwWSJoDw&expires1=1597021730&refer=NTVhZjJhYzQtODE0Yi00NmUzLTg1N2QtMGJhOTBlYzkyNzIz&y=0&_=1597003338806
+
 #EXTINF:-1,三立綜合台
 https://4gtvfree-mozai.4gtv.tv/yGDmhwmtwV5PzDNXlxp8gEYXkKKfB36vIfdW4fWM3nU%3d/index.m3u8?token=uBPnvmJEK4n6kK3oLur7qA&expires=1597022057&token1=nHfpdM654SIz8Xkm13HILg&expires1=1597022057&refer=NDU4YWJiOTktYzliYS00NTUxLWI2MmUtNTg4Mzc1NjVkYjUz&y=0&_=1597003338819
-#EXTINF:-1,ELTV生活英語台
-https://4gtvfreepc-mozai.4gtv.tv/WfMLrVlZ_xZ3T_MFzo4nOEW8Xm5cBJbjSQlraO0VDtM%3d/index.m3u8?token=zmgQLR_dda2a0zl3wIB0lQ&expires=1597022105&token1=cB0PILTKwZmkKZ3df5FzTA&expires1=1597022105&refer=YmUwNDFmN2EtODA2Zi00M2VmLWExZDktNzZiZjMzNWU5OTg1&y=0&_=1597003338821
 
-#EXTINF:-1,智林體育台
-https://4gtvfreepc-mozai.4gtv.tv/D0GQKOSScsz0cCOuG4rpDnAjzNktV1oGxN3CzWm3EfY%3d/index.m3u8?token=9Nr1grupCFLdii2Ztlr7YQ&expires=1597022273&token1=_gm-n_DBrSYIOZwILjPstg&expires1=1597022273&refer=MTEyNjQ5NjMtMWE3MC00YzBiLWJkZmQtM2VlMDY4NTIxZjBi&y=0&_=1597003338826
-
-#EXTINF:-1,時尚運動X
-https://4gtvfreepc-mozai.4gtv.tv/FYfoOX02VbD7QOX7xutISNyZPpsghIWWtMX18oszMfE%3d/index.m3u8?token=FQYr7K0epWpd9RM4gqs_Xw&expires=1597022322&token1=wIgIIkEAZIAmnRKA5b_2Sg&expires1=1597022322&refer=ODMyMGUzMWMtZjQxYi00YmIyLWI5ZTMtODY3ZGI1M2E3NzVj&y=0&_=1597003338828
 #EXTINF:-1 tvg-id="BDX.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/GTV_Drama_logo_2018.png",八大戲劇
 
 #EXTINF:-1 tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://img.isuper.tv/live-tv/vl-hd-live.jpg",緯來精采台
 
-#EXTINF:-1 tvg-ID="AFN.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/709_300.png" group-title="自然",Asian Food Network
-http://103.47.132.164/PLTV/88888888/224/3221227191/index.m3u8
 
 
 
@@ -132,22 +135,7 @@ http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE
 
 
 
-#EXTINF:-1,客家電視
-http://p06.iptv2asia.com:18888/http/019
-#EXTINF:-1 tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://titv.ipcf.org.tw/images/logo.png",原住民族電視台
-http://p06.iptv2asia.com:18888/http/020
-#EXTINF:-1,公視3
-http://p06.iptv2asia.com:18888/http/018
-#EXTINF:-1,公視
-http://p06.iptv2asia.com:18888/http/016?dsjtv.m3u8
-#EXTINF:-1,公視台語台
-http://p06.iptv2asia.com:18888/http/017?dsjtv.m3u8
-#EXTINF:-1 tvg-logo=大愛一台.png tvg-name=大愛一台,大愛一台
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 tvg-logo=大愛二台.png tvg-name=大愛二台,大愛二台
-https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 tvg-logo=大愛海外台.png tvg-name=大愛海外台,大愛海外台
-https://pulltv3.wanfudaluye.com/live/tv3.m3u8
+
 #EXTINF:-1,龍祥時代電影
 
 #EXTINF:-1 tvg-id="6084" tvg-name="東森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="電影",東森洋片
@@ -158,60 +146,28 @@ http://192.154.103.74:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 http://192.154.103.75:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="電影",HBO Asia
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
-
-
-#EXTINF:-1 tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://img.isuper.tv/live-tv/vl-sports-live.jpg" group-title="Sport",緯來體育台
-http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://pic.pimg.tw/sportcast/d28525d04fd7be954e32f9f0b344ee93_n.png" group-title="Sport",博斯魅力
-http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8?token=BIk2YfurpyjroYsSvl8Ciw&time=1558345786385#http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-ID="NBA.US" tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="Sport",NBA TV
-https://cdn-laos.workpoint.news/hd-nba_720/index.m3u8
 #EXTINF:-1 tvg-id="870" tvg-name="FOXActionMovies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXActionMovies.png" group-title="電影",FOX動作電影
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 tvg-ID="FOX.Asia" tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png" group-title="電影",Fox Action Movies
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-
-
-
-
-
 #EXTINF:-1 group-title="電影",華納電影
 http://192.154.103.75:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://img.isuper.tv/live-tv/vl-sports-live.jpg" group-title="Sport",緯來體育台
+http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
+#EXTINF:-1,智林體育台
+https://4gtvfreepc-mozai.4gtv.tv/D0GQKOSScsz0cCOuG4rpDnAjzNktV1oGxN3CzWm3EfY%3d/index.m3u8?token=9Nr1grupCFLdii2Ztlr7YQ&expires=1597022273&token1=_gm-n_DBrSYIOZwILjPstg&expires1=1597022273&refer=MTEyNjQ5NjMtMWE3MC00YzBiLWJkZmQtM2VlMDY4NTIxZjBi&y=0&_=1597003338826
+#EXTINF:-1,時尚運動X
+https://4gtvfreepc-mozai.4gtv.tv/FYfoOX02VbD7QOX7xutISNyZPpsghIWWtMX18oszMfE%3d/index.m3u8?token=FQYr7K0epWpd9RM4gqs_Xw&expires=1597022322&token1=wIgIIkEAZIAmnRKA5b_2Sg&expires1=1597022322&refer=ODMyMGUzMWMtZjQxYi00YmIyLWI5ZTMtODY3ZGI1M2E3NzVj&y=0&_=1597003338828
+#EXTINF:-1 tvg-logo="https://pic.pimg.tw/sportcast/d28525d04fd7be954e32f9f0b344ee93_n.png" group-title="Sport",博斯魅力
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8?token=BIk2YfurpyjroYsSvl8Ciw&time=1558345786385#http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTINF:-1 tvg-ID="NBA.US" tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="Sport",NBA TV
+https://cdn-laos.workpoint.news/hd-nba_720/index.m3u8
 #EXTINF:-1 tvg-name="cnex" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?deviceType=3&imageId=OTTLIVE_0000001752.png",CNEX Taiwan
 http://220.158.149.14:9999/live/TV00000000000000000083@HHZT;LIVE
-
 #EXTINF:-1 tvg-logo="http://www.fanstv.tw/images/logo.png",番薯台
 http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin
 #EXTINF:-1 tvg-logo="http://www.sjtv.com.tw/sjtvlive/views/img/live_web_logo.png",信吉電視
-
-
-#EXTINF:-1 tvg-country="CN",亞太台
-http://174.127.67.246/live330/playlist.m3u8
-#EXTINF:-1 tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/1wbOhJV.jpg" tvg-country="HK" group-title="Travel",亞旅衛視
 
 
 
