@@ -118,7 +118,7 @@ http://stream.nexttv.com.tw/n001/hd/live.m3u8
 #EXTINF:-1,年代新聞
 
 #EXTINF:-1 tvg-id="6069" tvg-name="東森新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="新聞",東森新聞
-
+https://4gtvfreepc-cds.cdn.hinet.net/live/pool/litv-ftv14/4gtv-live-mid/index.m3u8?token=fbVqskJsI7_hEgdjqNe8eg&expires=1597061309&token1=dKajEBu5chPtrSjydTKcNQ&expires1=1597061309
 #EXTINF:-1 tvg-id="ZTX.TW" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png" group-title="新聞",中天新聞
 http://seb.sason.top/sc/ztxw_fhd.m3u8
 #EXTINF:-1 tvg-id="6072" tvg-name="三立新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="新聞",三立新聞
