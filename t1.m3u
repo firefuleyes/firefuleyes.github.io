@@ -31,8 +31,28 @@ http://p06.iptv2asia.com:18888/http/014?dsjtv.m3u8
 http://p06.iptv2asia.com:18888/http/013?dsjtv.m3u8
 #EXTINF:-1,民視福建旁邊台
 http://p06.iptv2asia.com:18888/http/013
-
-
+#EXTINF:-1,金光布袋戲
+https://4gtvfreepc-mozai.4gtv.tv/L3Touc2qiiAe8BxK5O5D8rqX9EOk5779Veuiw9qTrd4%3d/index.m3u8?token=d3CiPCaRjX3zulzNqkkgYw&expires=1597022426&token1=YMFFGega0iGRCrVX9R4BpQ&expires1=1597022426&refer=MWU2NTJjNWYtNTc5NS00YTc0LWI4YjQtN2QwZWVjNWZkYTY4&y=0&_=1597003338830
+#EXTINF:-1,民視旅遊台
+https://4gtvfreepc-mozai.4gtv.tv/UxR5nbPO6_m8-ECfodWBb7DmSYKsB9SguO3sShS_Qoc%3d/index.m3u8?token=nN7_7Hnp56wNcKieN_xOog&expires=1597022489&token1=hSBRaHIx_vcbFi2D3__y9A&expires1=1597022489&refer=NTc5ZjIxNWEtNTdmZS00NjFmLWIxYmItNGIzODdjNTQwNTVj&y=0&_=1597003338832
+#EXTINF:-1,民視旅遊台
+https://4gtvfreepc-mozai.4gtv.tv/UxR5nbPO6_m8-ECfodWBb7DmSYKsB9SguO3sShS_Qoc%3d/index.m3u8?token=nN7_7Hnp56wNcKieN_xOog&expires=1597022489&token1=hSBRaHIx_vcbFi2D3__y9A&expires1=1597022489&refer=NTc5ZjIxNWEtNTdmZS00NjFmLWIxYmItNGIzODdjNTQwNTVj&y=0&_=1597003338832
+#EXTINF:-1,民視綜藝台
+https://4gtvfreepc-mozai.4gtv.tv/P7EnT3Or5MhFRSaRJWCZhPY3PKC40I5ORjQa7KH6wpw%3d/index.m3u8?token=a5VR6ph5EZqh6P2AR9GVLA&expires=1597022608&token1=nlPPgV68mribwA7rEfF5yw&expires1=1597022608&refer=NGI2NzM3ZTMtNjgyYS00M2Q5LTlmZDUtNTkyMzk4NjFmZjYw&y=0&_=1597003338840
+#EXTINF:-1,中華財經台
+https://4gtvfreepc-mozai.4gtv.tv/9Vi19BshZiaxsmU6R33MeAeRlZG9Pg_-_J45rvrKQG4%3d/index.m3u8?token=h1Zmij-tXFvxH4ujFG82CA&expires=1597022654&token1=gG4QXxMTB12GqmCEw8-AEA&expires1=1597022654&refer=OWFkMjE4ZjYtOGQzZC00M2I1LWIyZTEtZDYwZjlhYTkzNTM5&y=0&_=1597003338845
+#EXTINF:-1,三立綜合台
+https://4gtvfree-mozai.4gtv.tv/pbUt98zxpIt73Nxh-aenS1VGy3dgGdMJzoDkAO9z3KE%3d/index.m3u8?token=JmNn16dp_O9nYIMaaY0DyQ&expires=1597022725&token1=x_UXIAiWqHNmBRK2H_HnZw&expires1=1597022725&refer=YjM0NDI3ZGMtYWI3ZS00YWY1LTgxMzktMjk3NjQ1MWYwODg3&y=0&_=1597003338847
+#EXTINF:-1,亞洲旅遊台
+https://4gtvfreepc-mozai.4gtv.tv/RquCIBX9Dmh7dqdIGiHYLDu4k3hfVMlV7RAaHAj27bs%3d/index.m3u8?token=4qXGOI2hQS_1-Ngu1KpTzA&expires=1597022789&token1=Kc80lmRaU2d376LW9pmykA&expires1=1597022789&refer=ZjAwYTFlZjUtMjVmYi00YTkwLTlhZmEtYzBiZDg3NjI2YmMy&y=0&_=1597003338849
+#EXTINF:-1,人間衛視
+https://4gtvfreepc-mozai.4gtv.tv/IXAo6boZzuDckFThM3KJYf9BsyfVBPKIxQhWHay-tCw%3d/index.m3u8?token=DY2EBvTo1xKyC5k8tmypkA&expires=1597022854&token1=o3lckGWZU2r_9Iehrqn3Fw&expires1=1597022854&refer=N2EwODg2YmEtNjViOS00NjdhLWFhODMtZTJmZWU0MWZmYzA4&y=0&_=1597003338854
+#EXTINF:-1,東森購物二台
+https://4gtvfree-mozai.4gtv.tv/XYsL8jWp7AT9hC9VmOB5ixHARrrm43fIrhuz6VYngnE%3d/index.m3u8?token=m0Y3cs53-Ew3nVziEc5kHg&expires=1597022958&token1=3n66RxAjoBidBH4SYkbuyw&expires1=1597022958&refer=YTJkMmEwNzItYzhjYi00MjY4LTgxZWYtMDc5MWMxZGY0MWVm&y=0&_=1597003338856
+#EXTINF:-1,VOA美國之音
+https://4gtvfreepc-mozai.4gtv.tv/0bwbceTKwOQk6omAkmnW6l_J6L9WzxuWIszvjNY-XUU%3d/index.m3u8?token=c7FzO4UkWRq4bC4Bqpn-zQ&expires=1597023157&token1=tKNwm4m5tN4BosDvx_zjuQ&expires1=1597023157&refer=NWUxYWNhZWEtYTk2YS00ZjEwLTgzMDMtMDNlMjdiNjI4OTBi&y=0&_=1597003338861
+#EXTINF:-1,DW德國之聲
+https://4gtvfreepc-mozai.4gtv.tv/70nxGbB2VviAuwT30K3K7E0VJSc9YFhQI_PUHW5wW3Q%3d/index.m3u8?token=XTM6j6kB-0ZfqhlicVJZkg&expires=1597023311&token1=_TvVrm4Ki6CXTHc6471IbA&expires1=1597023311&refer=ZWFkYTIwYWItMTVhZC00Yjk3LWI0NTMtYjc2NWQ4NTU5ZGUw&y=0&_=1597005259966
 #EXTINF:-1 tvg-id="6039" tvg-name="動物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="自然",動物星球
 
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="自然",探索頻道
@@ -68,19 +88,18 @@ http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 #EXTINF:-1 tvg-id="6054" tvg-name="中天綜合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png",中天綜合
 
 #EXTINF:-1 tvg-id="6057" tvg-name="中天娛樂台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png",中天娛樂
+#EXTINF:-1,MOMO親子台
+https://4gtvfreepc-mozai.4gtv.tv/GzxA9xheAaotByQaAxiKObdqp1eh8AB9q3d0N6o0NJ4%3d/index.m3u8?token=_GV73QUaTCVFWpQ8vpa2lw&expires=1597021730&token1=DvM7WE69zw4iuPYwWSJoDw&expires1=1597021730&refer=NTVhZjJhYzQtODE0Yi00NmUzLTg1N2QtMGJhOTBlYzkyNzIz&y=0&_=1597003338806
+#EXTINF:-1,三立綜合台
+https://4gtvfree-mozai.4gtv.tv/yGDmhwmtwV5PzDNXlxp8gEYXkKKfB36vIfdW4fWM3nU%3d/index.m3u8?token=uBPnvmJEK4n6kK3oLur7qA&expires=1597022057&token1=nHfpdM654SIz8Xkm13HILg&expires1=1597022057&refer=NDU4YWJiOTktYzliYS00NTUxLWI2MmUtNTg4Mzc1NjVkYjUz&y=0&_=1597003338819
+#EXTINF:-1,ELTV生活英語台
+https://4gtvfreepc-mozai.4gtv.tv/WfMLrVlZ_xZ3T_MFzo4nOEW8Xm5cBJbjSQlraO0VDtM%3d/index.m3u8?token=zmgQLR_dda2a0zl3wIB0lQ&expires=1597022105&token1=cB0PILTKwZmkKZ3df5FzTA&expires1=1597022105&refer=YmUwNDFmN2EtODA2Zi00M2VmLWExZDktNzZiZjMzNWU5OTg1&y=0&_=1597003338821
 
+#EXTINF:-1,智林體育台
+https://4gtvfreepc-mozai.4gtv.tv/D0GQKOSScsz0cCOuG4rpDnAjzNktV1oGxN3CzWm3EfY%3d/index.m3u8?token=9Nr1grupCFLdii2Ztlr7YQ&expires=1597022273&token1=_gm-n_DBrSYIOZwILjPstg&expires1=1597022273&refer=MTEyNjQ5NjMtMWE3MC00YzBiLWJkZmQtM2VlMDY4NTIxZjBi&y=0&_=1597003338826
 
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1,時尚運動X
+https://4gtvfreepc-mozai.4gtv.tv/FYfoOX02VbD7QOX7xutISNyZPpsghIWWtMX18oszMfE%3d/index.m3u8?token=FQYr7K0epWpd9RM4gqs_Xw&expires=1597022322&token1=wIgIIkEAZIAmnRKA5b_2Sg&expires1=1597022322&refer=ODMyMGUzMWMtZjQxYi00YmIyLWI5ZTMtODY3ZGI1M2E3NzVj&y=0&_=1597003338828
 #EXTINF:-1 tvg-id="BDX.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/GTV_Drama_logo_2018.png",八大戲劇
 
 #EXTINF:-1 tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://img.isuper.tv/live-tv/vl-hd-live.jpg",緯來精采台
