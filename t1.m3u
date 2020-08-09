@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://tv.itver.cc/wp-content/uploads/2014/08/Studio-Classroom-Logo-670x300.jpg",空中英語教室
 http://220.158.149.14:9999/live/TV00000000000000000077@HHZT;LIVE
-
-
+#EXTINF:-1,豬哥亮歌廳秀
+https://4gtvfreepc-mozai.4gtv.tv/vx6lHgUH54n-aZFQ6IvBOAjlLv3znMB1hDMym-x8HnY%3d/index.m3u8?token=x5nylT0F_jvjvcCf0aoWZg&expires=1597021442&token1=xImZCfRatn7VUPa-dnbZrw&expires1=1597021442&refer=ODg5NWI5MTMtMTA4Mi00NjI0LTlmMGYtNmRmNjBjZmE2YWZl&y=0&_=1597003338803
 #EXTINF:-1,東森購物
 https://4gtvfree-mozai.4gtv.tv/WGVqNhr_IHe-JsS-KYdVUPFeSGE-wjJrxdSSHaVSvb0%3d/stream2.m3u8?token=HCXMbYvgv6QcfWi1NCOz2A&expires=1597016560&refer=NWYyYjdkM2YtNzY2Zi00Y2ZiLTkyODctZmQ1ZGYyNmM4N2Yw&y=0&vt=&token1=NGJbd0KzpCn3cEfhSyqP0g&expires1=1597016560
 #EXTINF:-1,中視菁采
