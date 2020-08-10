@@ -56,10 +56,9 @@ http://d34e90s3s13i7n.cloudfront.net:80/hls/ch8ctv/master.m3u8
 
 #EXTINF:-1 ,動物星球
 http://192.154.103.75:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
-#EXTINF:-1 ,探索頻道
-https://www.fanmingming.cn/hls/discovery.m3u8
+
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="自然",探索頻道
-rtmp://58.200.131.2:1935/livetv/discovery
+rtmp://58.200.131.2:1935/livetv/discovery#https://www.fanmingming.cn/hls/discovery.m3u8
 #EXTINF:-1 tvg-id="691" tvg-name="國家地理頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="自然",國家地理
 http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
 #EXTINF:-1 tvg-country="CN",亞太台
@@ -67,22 +66,13 @@ http://174.127.67.246/live330/playlist.m3u8
 #EXTINF:-1 tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/1wbOhJV.jpg" tvg-country="HK" group-title="Travel",亞旅衛視
 #EXTINF:-1 ,亞洲新聞
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 ,亞洲旅遊
-http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
-#EXTINF:-1 ,RTM體育
-https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2//chunklist_b2064000.m3u8
-#EXTINF:-1 ,Star Movies HD
-http://125.227.210.37:61495/VideoInput/play.ts
-#EXTINF:-1 ,Star Sports 1
-http://87.117.234.107:1935/live/StarSports1FHD/playlist.m3u8
-#EXTINF:-1 ,Star Sports 2
-http://87.117.234.107:1935/live/StarSports2FHD/index.m3u8
+
+
 #EXTINF:-1 ,TCL旅遊
 http://153.99.180.70:5021/live/103/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/709_300.png",Asian Food Network
 http://103.47.132.164/PLTV/88888888/224/3221227191/index.m3u8
-#EXTINF:-1 ,上德電視台
-http://flv.ccdntech.com/live/_definst_/mp4:vod150_Live/live/playlist.m3u8
+list.m3u8
 
 #EXTINF:-1,客家電視
 http://p06.iptv2asia.com:18888/http/019
@@ -110,16 +100,16 @@ http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 
 
 #EXTINF:-1 tvg-id="SLT.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png",三立台灣
-http://125.227.210.37:47328/VideoInput/play.ts
+
 #EXTINF:-1,三立綜合台
 
 #EXTINF:-1 tvg-id="6054" tvg-name="中天綜合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png",中天綜合
-http://125.227.210.37:53142/VideoInput/play.ts
+
 #EXTINF:-1 tvg-id="6057" tvg-name="中天娛樂台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png",中天娛樂
-http://192.154.103.75:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
-#EXTINF:-1,三立綜合台
+
+
 #EXTINF:-1 tvg-id="6046" tvg-name="八大綜合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png",八大綜合台
-http://192.154.103.75:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+
 #EXTINF:-1 tvg-id="BDX.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/GTV_Drama_logo_2018.png",八大戲劇
 
 #EXTINF:-1 tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://img.isuper.tv/live-tv/vl-hd-live.jpg",緯來精采台
@@ -152,58 +142,59 @@ http://seb.sason.top/sc/dscjxw_fhd.m3u8
 
 #EXTINF:-1 ,陽光衛視
 http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8
-#EXTINF:-1 ,香蕉直擊
-http://520574.xyz/dl/gt.php?id=4gtvlive2
-#EXTINF:-1 ,魅力足球
-http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=76&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,鳳梨直擊
-http://520574.xyz/dl/gt.php?id=4gtvlive1
+
+
 #EXTINF:-1 ,龍祥時代
-http://104.243.17.219:81/vhls/tangyuanTV_LXSD.50f7eca7e931e528a789/tangyuanTV_LXSD/tangyuanTV_LXSD_live.m3u8
+
 #EXTINF:-1 ,龍祥電影
-http://cdn2.zbbh.xyz:8080/ZZ_shidai/ZZ_shidai.m3u8
+
 #EXTINF:-1 ,龍祥電影
-http://cdn.zbbh.xyz:8080/ZZ_shidai/ZZ_shidai.m3u8
+
 
 #EXTINF:-1 tvg-id="6084" tvg-name="東森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="電影",東森洋片
 http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 #EXTINF:-1 tvg-id="6080" tvg-name="東森電影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="電影",東森電影
-http://192.154.103.74:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+
 #EXTINF:-1 tvg-id="6086" tvg-name="好萊塢電影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="電影",好萊塢電影
 http://192.154.103.75:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="電影",HBO Asia
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 #EXTINF:-1 tvg-id="870" tvg-name="FOXActionMovies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXActionMovies.png" group-title="電影",FOX動作電影
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-#EXTINF:-1 tvg-ID="FOX.Asia" tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png" group-title="電影",Fox Action Movies
-http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+
 #EXTINF:-1 group-title="電影",華納電影
 http://192.154.103.75:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 #EXTINF:-1 ,DISNEY 迪士尼
-http://125.227.210.37:52807/VideoInput/play.ts
+
 
 #EXTINF:-1 ,HBO HD
-http://125.227.210.37:12801/VideoInput/play.ts
+
 #EXTINF:-1 ,福克斯電影
-http://192.154.103.75:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-#EXTINF:-1 ,福克斯電影3
-http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-#EXTINF:-1 ,紅牛REDBULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 ,勁爆體育HD
-http://183.207.255.188/live/program/live/jbty/1300000/mnf.m3u8
-#EXTINF:-1 ,ELTA體育
-http://153.99.180.70:5021/live/266/playlist.m3u8
-#EXTINF:-1 tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://img.isuper.tv/live-tv/vl-sports-live.jpg" group-title="Sport",緯來體育台
-http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
-#EXTINF:-1,智林體育台
-#EXTINF:-1,時尚運動X
+http://192.154.103.75:8080/ZZ_foxaction/ZZ_foxaction.m3u8#http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 tvg-logo="https://pic.pimg.tw/sportcast/d28525d04fd7be954e32f9f0b344ee93_n.png" group-title="Sport",博斯魅力
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8?token=BIk2YfurpyjroYsSvl8Ciw&time=1558345786385#http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 #EXTINF:-1 ,魅力足球
 http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=76&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,鳳梨直擊
-http://520574.xyz/dl/gt.php?id=4gtvlive1
+#EXTINF:-1 ,ELTA體育
+http://153.99.180.70:5021/live/266/playlist.m3u8
+#EXTINF:-1 tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://img.isuper.tv/live-tv/vl-sports-live.jpg" group-title="Sport",緯來體育台
+http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
+#EXTINF:-1 ,紅牛REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 ,RTM體育
+https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2//chunklist_b2064000.m3u8
+#EXTINF:-1 ,Star Movies HD
+http://125.227.210.37:61495/VideoInput/play.ts
+#EXTINF:-1 ,Star Sports 1
+http://87.117.234.107:1935/live/StarSports1FHD/playlist.m3u8
+#EXTINF:-1 ,Star Sports 2
+http://87.117.234.107:1935/live/StarSports2FHD/index.m3u8
+
+#EXTINF:-1 ,勁爆體育HD
+http://183.207.255.188/live/program/live/jbty/1300000/mnf.m3u8
+
+#EXTINF:-1,智林體育台
+#EXTINF:-1,時尚運動X
 
 #EXTINF:-1 tvg-ID="NBA.US" tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="Sport",NBA TV
 https://cdn-laos.workpoint.news/hd-nba_720/index.m3u8
@@ -212,8 +203,12 @@ http://220.158.149.14:9999/live/TV00000000000000000083@HHZT;LIVE
 #EXTINF:-1 tvg-logo="http://www.fanstv.tw/images/logo.png",番薯台
 http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin
 #EXTINF:-1 tvg-logo="http://www.sjtv.com.tw/sjtvlive/views/img/live_web_logo.png",信吉電視
-
-
+#EXTINF:-1 ,鳳梨直擊
+http://520574.xyz/dl/gt.php?id=4gtvlive1
+#EXTINF:-1 ,上德電視台
+http://flv.ccdntech.com/live/_definst_/mp4:vod150_Live/live/play
+#EXTINF:-1 ,香蕉直擊
+http://520574.xyz/dl/gt.php?id=4gtvlive2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PxYhFpb.png",交通
 https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live6/hls-cl-tv/index.m3u8
