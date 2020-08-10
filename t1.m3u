@@ -6,8 +6,8 @@ http://220.158.149.14:9999/live/TV00000000000000000077@HHZT;LIVE
 #EXTINF:-1,東森購物二台
 #EXTINF:-1,ELTV生活英語台
 #EXTINF:-1,VOA美國之音
-#EXTINF:-1 ,DW德國之聲
-http://125.227.210.37:8934/VideoInput/play.ts
+#EXTINF:-1 ,DW德國之聲http://125.227.210.37:8934/VideoInput/play.ts
+
 #EXTINF:-1 tvg-id="6039" tvg-name="動物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="自然",動物星球
 #EXTINF:-1,金光布袋戲
 #EXTINF:-1,MOMO親子台
